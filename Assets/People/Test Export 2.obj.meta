@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: e5d2fb836e56d844fa88f60d7840c669
+timeCreated: 1508946060
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BlockPerson
+    100002: BlockPerson_Left_Foot
+    100004: BlockPerson_Left_Hand
+    100006: BlockPerson_Right_Foot
+    100008: BlockPerson_Right_Hand
+    100010: Head_BlockPerson
+    100012: Head_BlockPerson_Left_Eye
+    100014: Head_BlockPerson_Right_Eye
+    100016: Head_BlockPerson_Right_Eyebrow
+    100018: Left_Eyebrow_Head_BlockPerson
+    100020: //RootNode
+    400000: BlockPerson
+    400002: BlockPerson_Left_Foot
+    400004: BlockPerson_Left_Hand
+    400006: BlockPerson_Right_Foot
+    400008: BlockPerson_Right_Hand
+    400010: Head_BlockPerson
+    400012: Head_BlockPerson_Left_Eye
+    400014: Head_BlockPerson_Right_Eye
+    400016: Head_BlockPerson_Right_Eyebrow
+    400018: Left_Eyebrow_Head_BlockPerson
+    400020: //RootNode
+    2300000: BlockPerson
+    2300002: BlockPerson_Left_Foot
+    2300004: BlockPerson_Left_Hand
+    2300006: BlockPerson_Right_Foot
+    2300008: BlockPerson_Right_Hand
+    2300010: Head_BlockPerson
+    2300012: Head_BlockPerson_Left_Eye
+    2300014: Head_BlockPerson_Right_Eye
+    2300016: Head_BlockPerson_Right_Eyebrow
+    2300018: Left_Eyebrow_Head_BlockPerson
+    3300000: BlockPerson
+    3300002: BlockPerson_Left_Foot
+    3300004: BlockPerson_Left_Hand
+    3300006: BlockPerson_Right_Foot
+    3300008: BlockPerson_Right_Hand
+    3300010: Head_BlockPerson
+    3300012: Head_BlockPerson_Left_Eye
+    3300014: Head_BlockPerson_Right_Eye
+    3300016: Head_BlockPerson_Right_Eyebrow
+    3300018: Left_Eyebrow_Head_BlockPerson
+    4300000: BlockPerson
+    4300002: BlockPerson_Left_Foot
+    4300004: BlockPerson_Left_Hand
+    4300006: BlockPerson_Right_Foot
+    4300008: BlockPerson_Right_Hand
+    4300010: Head_BlockPerson
+    4300012: Head_BlockPerson_Left_Eye
+    4300014: Head_BlockPerson_Right_Eye
+    4300016: Head_BlockPerson_Right_Eyebrow
+    4300018: Left_Eyebrow_Head_BlockPerson
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlockPersonMat
+    second: {fileID: 2100000, guid: 0c0c3749f9745204196ecfb9428a5d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlockPerson_Left_FootMat
+    second: {fileID: 2100000, guid: 28f6c91b5ce53ee41b52379fa4ae8ae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlockPerson_Left_HandMat
+    second: {fileID: 2100000, guid: 63b21077d1c1e274a8ce515324e9159c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlockPerson_Right_FootMat
+    second: {fileID: 2100000, guid: 67b7faaf78eb0c84c8b836cd60a52c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlockPerson_Right_HandMat
+    second: {fileID: 2100000, guid: 7750d3a96397d8844ad1835fedf1b686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head_BlockPersonMat
+    second: {fileID: 2100000, guid: b76c550a2a8c78242905f5fadeb036dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head_BlockPerson_Left_EyeMat
+    second: {fileID: 2100000, guid: 9756acfc58c66ec4c8df1ac90ad16373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head_BlockPerson_Right_EyeMat
+    second: {fileID: 2100000, guid: a09befb597e788a4a9da4abbeb2fd92a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head_BlockPerson_Right_EyebrowMat
+    second: {fileID: 2100000, guid: 4cb6a4fd505312d408146df4c9045104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Eyebrow_Head_BlockPersonMat
+    second: {fileID: 2100000, guid: 7714446acd303874292006e6fa8658b3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
