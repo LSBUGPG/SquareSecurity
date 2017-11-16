@@ -104,7 +104,6 @@ public class CriminalManager : MonoBehaviour {
 
     public void GameOver() {
         Time.timeScale = 0f;
-        Time.fixedDeltaTime = 0f;
     }
     public float ActualTime = 180f;
 
@@ -122,7 +121,6 @@ public class CriminalManager : MonoBehaviour {
         //Find and pick a random criminal
         AnnouncementSound.Play(); //Audio - Name of Audio source.
         Time.timeScale = 1f;
-        Time.fixedDeltaTime = 1f;
         var people = GameObject.Find("People");
         var randomCriminal = people.transform.GetChild(UnityEngine.Random.Range(0, people.transform.childCount));
         randomCriminal.GetComponent<Shopper>().IsCriminal = true;
