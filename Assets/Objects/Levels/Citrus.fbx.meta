@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 5288f2930b35f9d49a40b9a29e6a449b
+timeCreated: 1512397444
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Clothing_Store_Ceiling
+    100004: Clothing_Store_Ceiling 1
+    100006: Clothing_Store_Ceiling 2
+    100008: Computer1
+    100010: Computer1 1
+    100012: Computer2
+    100014: Computer2 1
+    100016: Computer3
+    100018: Computer3 1
+    100020: Computer_Show
+    100022: Computer_Show1
+    100024: Computer_Stand
+    100026: Computer_Stand 1
+    100028: Computer_Stand 2
+    100030: Computer_Stand 3
+    100032: Computer_Stand 4
+    100034: Computer_Stand 5
+    100036: Computer_Stand 6
+    100038: Computer_Stand 7
+    100040: Door
+    100042: Door 1
+    100044: Door1
+    100046: Door1 1
+    100048: Door2
+    100050: Door2 1
+    100052: Door_Handle
+    100054: Door_Handle 1
+    100056: Door_Handle 2
+    100058: Door_Handle 3
+    100060: Fast_Food_Door1
+    100062: Handle
+    100064: Laptop1
+    100066: Laptop2
+    100068: Laptop3
+    100070: Laptop_Display
+    100072: Light
+    100074: Light1
+    100076: Light2
+    100078: LightBulb
+    100080: LightBulb 1
+    100082: LightBulb 2
+    100084: Mat_Part
+    100086: Phone10
+    100088: Phone11
+    100090: Phone12
+    100092: Phone13
+    100094: Phone14
+    100096: Phone15
+    100098: Phone16
+    100100: Phone17
+    100102: Phone5
+    100104: Phone6
+    100106: Phone7
+    100108: Phone8
+    100110: Phone_Display
+    100112: Phone_Show_Big
+    100114: Phone_Store_Walls
+    100116: Phone_Store_Walls1
+    100118: Plant
+    100120: Plant1
+    100122: Shelf
+    100124: Shelf1
+    100126: Table_Long1
+    100128: Tablet
+    100130: Tablet 1
+    100132: Tablet1
+    100134: Tablet1 1
+    100136: Tablet3
+    100138: Tablet3 1
+    100140: Tablet4
+    100142: Tablet4 1
+    100144: Tablet_Show
+    100146: Tablet_Show1
+    100148: Tablet_Stand
+    100150: Tablet_Stand 1
+    100152: Tablet_Stand 10
+    100154: Tablet_Stand 11
+    100156: Tablet_Stand 12
+    100158: Tablet_Stand 13
+    100160: Tablet_Stand 14
+    100162: Tablet_Stand 15
+    100164: Tablet_Stand 16
+    100166: Tablet_Stand 17
+    100168: Tablet_Stand 18
+    100170: Tablet_Stand 19
+    100172: Tablet_Stand 2
+    100174: Tablet_Stand 3
+    100176: Tablet_Stand 4
+    100178: Tablet_Stand 5
+    100180: Tablet_Stand 6
+    100182: Tablet_Stand 7
+    100184: Tablet_Stand 8
+    100186: Tablet_Stand 9
+    100188: Theft_Scanner1
+    100190: Theft_Scanners
+    100192: Till_Computer
+    100194: Till_Computer1
+    100196: Welcome_Mat
+    100198: Phone_Store_Ceiling
+    400000: //RootNode
+    400002: Clothing_Store_Ceiling
+    400004: Clothing_Store_Ceiling 1
+    400006: Clothing_Store_Ceiling 2
+    400008: Computer1
+    400010: Computer1 1
+    400012: Computer2
+    400014: Computer2 1
+    400016: Computer3
+    400018: Computer3 1
+    400020: Computer_Show
+    400022: Computer_Show1
+    400024: Computer_Stand
+    400026: Computer_Stand 1
+    400028: Computer_Stand 2
+    400030: Computer_Stand 3
+    400032: Computer_Stand 4
+    400034: Computer_Stand 5
+    400036: Computer_Stand 6
+    400038: Computer_Stand 7
+    400040: Door
+    400042: Door 1
+    400044: Door1
+    400046: Door1 1
+    400048: Door2
+    400050: Door2 1
+    400052: Door_Handle
+    400054: Door_Handle 1
+    400056: Door_Handle 2
+    400058: Door_Handle 3
+    400060: Fast_Food_Door1
+    400062: Handle
+    400064: Laptop1
+    400066: Laptop2
+    400068: Laptop3
+    400070: Laptop_Display
+    400072: Light
+    400074: Light1
+    400076: Light2
+    400078: LightBulb
+    400080: LightBulb 1
+    400082: LightBulb 2
+    400084: Mat_Part
+    400086: Phone10
+    400088: Phone11
+    400090: Phone12
+    400092: Phone13
+    400094: Phone14
+    400096: Phone15
+    400098: Phone16
+    400100: Phone17
+    400102: Phone5
+    400104: Phone6
+    400106: Phone7
+    400108: Phone8
+    400110: Phone_Display
+    400112: Phone_Show_Big
+    400114: Phone_Store_Walls
+    400116: Phone_Store_Walls1
+    400118: Plant
+    400120: Plant1
+    400122: Shelf
+    400124: Shelf1
+    400126: Table_Long1
+    400128: Tablet
+    400130: Tablet 1
+    400132: Tablet1
+    400134: Tablet1 1
+    400136: Tablet3
+    400138: Tablet3 1
+    400140: Tablet4
+    400142: Tablet4 1
+    400144: Tablet_Show
+    400146: Tablet_Show1
+    400148: Tablet_Stand
+    400150: Tablet_Stand 1
+    400152: Tablet_Stand 10
+    400154: Tablet_Stand 11
+    400156: Tablet_Stand 12
+    400158: Tablet_Stand 13
+    400160: Tablet_Stand 14
+    400162: Tablet_Stand 15
+    400164: Tablet_Stand 16
+    400166: Tablet_Stand 17
+    400168: Tablet_Stand 18
+    400170: Tablet_Stand 19
+    400172: Tablet_Stand 2
+    400174: Tablet_Stand 3
+    400176: Tablet_Stand 4
+    400178: Tablet_Stand 5
+    400180: Tablet_Stand 6
+    400182: Tablet_Stand 7
+    400184: Tablet_Stand 8
+    400186: Tablet_Stand 9
+    400188: Theft_Scanner1
+    400190: Theft_Scanners
+    400192: Till_Computer
+    400194: Till_Computer1
+    400196: Welcome_Mat
+    400198: Phone_Store_Ceiling
+    2300000: //RootNode
+    2300002: Clothing_Store_Ceiling
+    2300004: Clothing_Store_Ceiling 1
+    2300006: Clothing_Store_Ceiling 2
+    2300008: Computer1
+    2300010: Computer1 1
+    2300012: Computer2
+    2300014: Computer2 1
+    2300016: Computer3
+    2300018: Computer3 1
+    2300020: Computer_Show
+    2300022: Computer_Show1
+    2300024: Computer_Stand
+    2300026: Computer_Stand 1
+    2300028: Computer_Stand 2
+    2300030: Computer_Stand 3
+    2300032: Computer_Stand 4
+    2300034: Computer_Stand 5
+    2300036: Computer_Stand 6
+    2300038: Computer_Stand 7
+    2300040: Door
+    2300042: Door 1
+    2300044: Door1
+    2300046: Door1 1
+    2300048: Door2
+    2300050: Door2 1
+    2300052: Door_Handle
+    2300054: Door_Handle 1
+    2300056: Door_Handle 2
+    2300058: Door_Handle 3
+    2300060: Fast_Food_Door1
+    2300062: Handle
+    2300064: Laptop1
+    2300066: Laptop2
+    2300068: Laptop3
+    2300070: Laptop_Display
+    2300072: Light
+    2300074: Light1
+    2300076: Light2
+    2300078: LightBulb
+    2300080: LightBulb 1
+    2300082: LightBulb 2
+    2300084: Mat_Part
+    2300086: Phone10
+    2300088: Phone11
+    2300090: Phone12
+    2300092: Phone13
+    2300094: Phone14
+    2300096: Phone15
+    2300098: Phone16
+    2300100: Phone17
+    2300102: Phone5
+    2300104: Phone6
+    2300106: Phone7
+    2300108: Phone8
+    2300110: Phone_Display
+    2300112: Phone_Show_Big
+    2300114: Phone_Store_Walls
+    2300116: Phone_Store_Walls1
+    2300118: Plant
+    2300120: Plant1
+    2300122: Shelf
+    2300124: Shelf1
+    2300126: Table_Long1
+    2300128: Tablet
+    2300130: Tablet 1
+    2300132: Tablet1
+    2300134: Tablet1 1
+    2300136: Tablet3
+    2300138: Tablet3 1
+    2300140: Tablet4
+    2300142: Tablet4 1
+    2300144: Tablet_Show
+    2300146: Tablet_Show1
+    2300148: Tablet_Stand
+    2300150: Tablet_Stand 1
+    2300152: Tablet_Stand 10
+    2300154: Tablet_Stand 11
+    2300156: Tablet_Stand 12
+    2300158: Tablet_Stand 13
+    2300160: Tablet_Stand 14
+    2300162: Tablet_Stand 15
+    2300164: Tablet_Stand 16
+    2300166: Tablet_Stand 17
+    2300168: Tablet_Stand 18
+    2300170: Tablet_Stand 19
+    2300172: Tablet_Stand 2
+    2300174: Tablet_Stand 3
+    2300176: Tablet_Stand 4
+    2300178: Tablet_Stand 5
+    2300180: Tablet_Stand 6
+    2300182: Tablet_Stand 7
+    2300184: Tablet_Stand 8
+    2300186: Tablet_Stand 9
+    2300188: Theft_Scanner1
+    2300190: Theft_Scanners
+    2300192: Till_Computer
+    2300194: Till_Computer1
+    2300196: Welcome_Mat
+    2300198: Phone_Store_Ceiling
+    3300000: //RootNode
+    3300002: Clothing_Store_Ceiling
+    3300004: Clothing_Store_Ceiling 1
+    3300006: Clothing_Store_Ceiling 2
+    3300008: Computer1
+    3300010: Computer1 1
+    3300012: Computer2
+    3300014: Computer2 1
+    3300016: Computer3
+    3300018: Computer3 1
+    3300020: Computer_Show
+    3300022: Computer_Show1
+    3300024: Computer_Stand
+    3300026: Computer_Stand 1
+    3300028: Computer_Stand 2
+    3300030: Computer_Stand 3
+    3300032: Computer_Stand 4
+    3300034: Computer_Stand 5
+    3300036: Computer_Stand 6
+    3300038: Computer_Stand 7
+    3300040: Door
+    3300042: Door 1
+    3300044: Door1
+    3300046: Door1 1
+    3300048: Door2
+    3300050: Door2 1
+    3300052: Door_Handle
+    3300054: Door_Handle 1
+    3300056: Door_Handle 2
+    3300058: Door_Handle 3
+    3300060: Fast_Food_Door1
+    3300062: Handle
+    3300064: Laptop1
+    3300066: Laptop2
+    3300068: Laptop3
+    3300070: Laptop_Display
+    3300072: Light
+    3300074: Light1
+    3300076: Light2
+    3300078: LightBulb
+    3300080: LightBulb 1
+    3300082: LightBulb 2
+    3300084: Mat_Part
+    3300086: Phone10
+    3300088: Phone11
+    3300090: Phone12
+    3300092: Phone13
+    3300094: Phone14
+    3300096: Phone15
+    3300098: Phone16
+    3300100: Phone17
+    3300102: Phone5
+    3300104: Phone6
+    3300106: Phone7
+    3300108: Phone8
+    3300110: Phone_Display
+    3300112: Phone_Show_Big
+    3300114: Phone_Store_Walls
+    3300116: Phone_Store_Walls1
+    3300118: Plant
+    3300120: Plant1
+    3300122: Shelf
+    3300124: Shelf1
+    3300126: Table_Long1
+    3300128: Tablet
+    3300130: Tablet 1
+    3300132: Tablet1
+    3300134: Tablet1 1
+    3300136: Tablet3
+    3300138: Tablet3 1
+    3300140: Tablet4
+    3300142: Tablet4 1
+    3300144: Tablet_Show
+    3300146: Tablet_Show1
+    3300148: Tablet_Stand
+    3300150: Tablet_Stand 1
+    3300152: Tablet_Stand 10
+    3300154: Tablet_Stand 11
+    3300156: Tablet_Stand 12
+    3300158: Tablet_Stand 13
+    3300160: Tablet_Stand 14
+    3300162: Tablet_Stand 15
+    3300164: Tablet_Stand 16
+    3300166: Tablet_Stand 17
+    3300168: Tablet_Stand 18
+    3300170: Tablet_Stand 19
+    3300172: Tablet_Stand 2
+    3300174: Tablet_Stand 3
+    3300176: Tablet_Stand 4
+    3300178: Tablet_Stand 5
+    3300180: Tablet_Stand 6
+    3300182: Tablet_Stand 7
+    3300184: Tablet_Stand 8
+    3300186: Tablet_Stand 9
+    3300188: Theft_Scanner1
+    3300190: Theft_Scanners
+    3300192: Till_Computer
+    3300194: Till_Computer1
+    3300196: Welcome_Mat
+    3300198: Phone_Store_Ceiling
+    4300000: Phone_Store_Floor
+    4300002: Phone16
+    4300004: Tablet_Stand
+    4300006: Phone17
+    4300008: Tablet_Stand
+    4300010: Phone14
+    4300012: Tablet_Stand
+    4300014: Phone15
+    4300016: Tablet_Stand
+    4300018: Phone10
+    4300020: Tablet_Stand
+    4300022: Tablet_Show
+    4300024: Tablet
+    4300026: Tablet_Stand
+    4300028: Tablet1
+    4300030: Tablet_Stand
+    4300032: Tablet3
+    4300034: Tablet_Stand
+    4300036: Tablet4
+    4300038: Tablet_Stand
+    4300040: Phone11
+    4300042: Tablet_Stand
+    4300044: Phone12
+    4300046: Tablet_Stand
+    4300048: Light2
+    4300050: LightBulb
+    4300052: Clothing_Store_Ceiling
+    4300054: Phone_Show_Big
+    4300056: Phone13
+    4300058: Tablet_Stand
+    4300060: Light1
+    4300062: LightBulb
+    4300064: Clothing_Store_Ceiling
+    4300066: Computer_Show
+    4300068: Computer1
+    4300070: Computer_Stand
+    4300072: Computer2
+    4300074: Computer_Stand
+    4300076: Computer3
+    4300078: Computer_Stand
+    4300080: Theft_Scanners
+    4300082: Theft_Scanner1
+    4300084: Phone_Store_Walls1
+    4300086: Light
+    4300088: LightBulb
+    4300090: Clothing_Store_Ceiling
+    4300092: Tablet_Show1
+    4300094: Tablet
+    4300096: Tablet_Stand
+    4300098: Tablet1
+    4300100: Tablet_Stand
+    4300102: Tablet3
+    4300104: Tablet_Stand
+    4300106: Tablet4
+    4300108: Tablet_Stand
+    4300110: Laptop_Display
+    4300112: Laptop1
+    4300114: Laptop2
+    4300116: Laptop3
+    4300118: Table_Long1
+    4300120: Phone_Display
+    4300122: Phone5
+    4300124: Tablet_Stand
+    4300126: Phone6
+    4300128: Tablet_Stand
+    4300130: Phone7
+    4300132: Tablet_Stand
+    4300134: Phone8
+    4300136: Tablet_Stand
+    4300138: Shelf
+    4300140: Door
+    4300142: Door_Handle
+    4300144: Door1
+    4300146: Door_Handle
+    4300148: Door2
+    4300150: Till_Computer
+    4300152: Computer_Stand
+    4300154: Fast_Food_Door1
+    4300156: Handle
+    4300158: Plant
+    4300160: Welcome_Mat
+    4300162: Mat_Part
+    4300164: Plant1
+    4300166: Till_Computer1
+    4300168: Computer_Stand
+    4300170: Shelf1
+    4300172: Door
+    4300174: Door_Handle
+    4300176: Door1
+    4300178: Door_Handle
+    4300180: Door2
+    4300182: Computer_Show1
+    4300184: Computer1
+    4300186: Computer_Stand
+    4300188: Computer2
+    4300190: Computer_Stand
+    4300192: Computer3
+    4300194: Computer_Stand
+    4300196: Phone_Store_Walls
+    4300198: Phone_Store_Ceiling
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: e016b40eb6ac76a48ac9312bec137ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown3
+    second: {fileID: 2100000, guid: d1ead3b63377915499af7b73b1bc3a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown4
+    second: {fileID: 2100000, guid: b473ce9fd8c6ef84d9ff7f007ac54cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clear_Glass
+    second: {fileID: 2100000, guid: 3d4f994946782b84eaaa5feccc820a31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 56f6506d105f2824da217bedcf509db9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey3
+    second: {fileID: 2100000, guid: 8061401693c277c44bd4169b3ad86f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: 9a18683aaec4b9a4faeffa23595a6cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange1
+    second: {fileID: 2100000, guid: 0bff6d5258bcadf4ab4e88600f8a7a50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 95e66d2991dfe8b49b3edd4bd6bc963f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 715ad847dddf4854ca43dc9266354561, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

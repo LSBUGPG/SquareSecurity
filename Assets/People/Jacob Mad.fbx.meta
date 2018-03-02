@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 4fa3873f7e646c344b78481418f0a58a
+timeCreated: 1512752893
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Backpack
+    100002: Backpack_Lid
+    100004: Backpack_Lock
+    100006: Block_Glasses
+    100008: Body
+    100010: Freckles
+    100012: Freckles1
+    100014: Hair
+    100016: Head
+    100018: Headphones
+    100020: Headphones_ear
+    100022: Jacket
+    100024: //RootNode
+    100026: Jacob_Cubes_Animated:Button
+    100028: Jacob_Cubes_Animated:Screen
+    100030: Jacob_Cubes_Animated:SquareBox1
+    100032: Jacob_Cubes_Animated:Video
+    100034: Left_Eye
+    100036: Left_Eyebrow
+    100038: Left_Foot
+    100040: Left_Hand
+    100042: pCube6
+    100044: pCube7
+    100046: Pocket
+    100048: Right_Eye
+    100050: Right_Eyebrow
+    100052: Right_Foot
+    100054: Right_Hand
+    400000: Backpack
+    400002: Backpack_Lid
+    400004: Backpack_Lock
+    400006: Block_Glasses
+    400008: Body
+    400010: Freckles
+    400012: Freckles1
+    400014: Hair
+    400016: Head
+    400018: Headphones
+    400020: Headphones_ear
+    400022: Jacket
+    400024: //RootNode
+    400026: Jacob_Cubes_Animated:Button
+    400028: Jacob_Cubes_Animated:Screen
+    400030: Jacob_Cubes_Animated:SquareBox1
+    400032: Jacob_Cubes_Animated:Video
+    400034: Left_Eye
+    400036: Left_Eyebrow
+    400038: Left_Foot
+    400040: Left_Hand
+    400042: pCube6
+    400044: pCube7
+    400046: Pocket
+    400048: Right_Eye
+    400050: Right_Eyebrow
+    400052: Right_Foot
+    400054: Right_Hand
+    2300000: Backpack
+    2300002: Backpack_Lid
+    2300004: Backpack_Lock
+    2300006: Block_Glasses
+    2300008: Body
+    2300010: Freckles
+    2300012: Freckles1
+    2300014: Hair
+    2300016: Head
+    2300018: Headphones
+    2300020: Headphones_ear
+    2300022: Jacket
+    2300024: Jacob_Cubes_Animated:Button
+    2300026: Jacob_Cubes_Animated:Screen
+    2300028: Jacob_Cubes_Animated:SquareBox1
+    2300030: Jacob_Cubes_Animated:Video
+    2300032: Left_Eye
+    2300034: Left_Eyebrow
+    2300036: Left_Foot
+    2300038: Left_Hand
+    2300040: pCube6
+    2300042: pCube7
+    2300044: Pocket
+    2300046: Right_Eye
+    2300048: Right_Eyebrow
+    2300050: Right_Foot
+    2300052: Right_Hand
+    3300000: Backpack
+    3300002: Backpack_Lid
+    3300004: Backpack_Lock
+    3300006: Block_Glasses
+    3300008: Body
+    3300010: Freckles
+    3300012: Freckles1
+    3300014: Hair
+    3300016: Head
+    3300018: Headphones
+    3300020: Headphones_ear
+    3300022: Jacket
+    3300024: Jacob_Cubes_Animated:Button
+    3300026: Jacob_Cubes_Animated:Screen
+    3300028: Jacob_Cubes_Animated:SquareBox1
+    3300030: Jacob_Cubes_Animated:Video
+    3300032: Left_Eye
+    3300034: Left_Eyebrow
+    3300036: Left_Foot
+    3300038: Left_Hand
+    3300040: pCube6
+    3300042: pCube7
+    3300044: Pocket
+    3300046: Right_Eye
+    3300048: Right_Eyebrow
+    3300050: Right_Foot
+    3300052: Right_Hand
+    4300000: Body
+    4300002: Jacket
+    4300004: Pocket
+    4300006: Backpack
+    4300008: Backpack_Lid
+    4300010: Backpack_Lock
+    4300012: Right_Hand
+    4300014: Left_Hand
+    4300016: Left_Foot
+    4300018: Right_Foot
+    4300020: Head
+    4300022: Block_Glasses
+    4300024: pCube6
+    4300026: pCube7
+    4300028: Hair
+    4300030: Left_Eye
+    4300032: Right_Eye
+    4300034: Right_Eyebrow
+    4300036: Left_Eyebrow
+    4300038: Freckles
+    4300040: Freckles1
+    4300042: Headphones
+    4300044: Headphones_ear
+    4300046: Jacob_Cubes_Animated:SquareBox1
+    4300048: Jacob_Cubes_Animated:Screen
+    4300050: Jacob_Cubes_Animated:Button
+    4300052: Jacob_Cubes_Animated:Video
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blonde
+    second: {fileID: 2100000, guid: 9ee840ace9601aa42993512ea4473cde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue
+    second: {fileID: 2100000, guid: 1475b918b210a6c4a90db5df652b57a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Grey
+    second: {fileID: 2100000, guid: bfa9c9a204f7fe549aba4f08c45f29dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Freckles2
+    second: {fileID: 2100000, guid: 325e6babffc037648aa65c2b24120ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jacob_Cubes_Animated_SquareBox
+    second: {fileID: 2100000, guid: a5adea1222105e349821e18323f29de6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jacob_Cubes_Animated_SquareBox_2
+    second: {fileID: 2100000, guid: 998c326d0382c9c4bba15025be369a8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jacob_Cubes_Animated_lambert19
+    second: {fileID: 2100000, guid: 550875ab07f069540b89ccfcf8620ae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jacob_Cubes_Animated_lambert20
+    second: {fileID: 2100000, guid: 9701bf0b417bae948981f207ed21745f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lens
+    second: {fileID: 2100000, guid: e67919068b3bf4548861807985ef72a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: c4d842a0f6babd846a72fcf15aae4f46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin_2
+    second: {fileID: 2100000, guid: 23ace6b86f76b04438113eed72b3bc3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: a37b2ee93f7b7994fa06f1959db674b4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

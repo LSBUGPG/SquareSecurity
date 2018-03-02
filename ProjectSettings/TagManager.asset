@@ -7,6 +7,7 @@ TagManager:
   - Lost Item
   - Destination
   - Shopper
+  - Level
   layers:
   - Default
   - TransparentFX

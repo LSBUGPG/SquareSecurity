@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 97b5bcb93683a4343a15cb0b10a394d6
+timeCreated: 1512159708
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bed
+    100002: Bed1
+    100004: Bed_Frame
+    100006: Clothing_Store_Ceiling
+    100008: Fast_Food_Door1
+    100010: Handle
+    100012: //RootNode
+    100014: Jail_Bar
+    100016: Jail_Bar1
+    100018: Jail_Bar10
+    100020: Jail_Bar11
+    100022: Jail_Bar12
+    100024: Jail_Bar2
+    100026: Jail_Bar3
+    100028: Jail_Bar4
+    100030: Jail_Bar5
+    100032: Jail_Bar6
+    100034: Jail_Bar7
+    100036: Jail_Bar8
+    100038: Jail_Bar9
+    100040: Jail_Bottom
+    100042: Jail_Ceiling
+    100044: Jail_Door
+    100046: Jail_Top
+    100048: Jail_Walls
+    100050: Ladder1
+    100052: Light
+    100054: LightBulb
+    100056: Pillow
+    100058: Pillow1
+    100060: Plant1
+    100062: Sheet
+    100064: Sheet1
+    100066: Step
+    100068: Step1
+    100070: Step2
+    100072: Toilet
+    100074: Toilet_Seat
+    400000: Bed
+    400002: Bed1
+    400004: Bed_Frame
+    400006: Clothing_Store_Ceiling
+    400008: Fast_Food_Door1
+    400010: Handle
+    400012: //RootNode
+    400014: Jail_Bar
+    400016: Jail_Bar1
+    400018: Jail_Bar10
+    400020: Jail_Bar11
+    400022: Jail_Bar12
+    400024: Jail_Bar2
+    400026: Jail_Bar3
+    400028: Jail_Bar4
+    400030: Jail_Bar5
+    400032: Jail_Bar6
+    400034: Jail_Bar7
+    400036: Jail_Bar8
+    400038: Jail_Bar9
+    400040: Jail_Bottom
+    400042: Jail_Ceiling
+    400044: Jail_Door
+    400046: Jail_Top
+    400048: Jail_Walls
+    400050: Ladder1
+    400052: Light
+    400054: LightBulb
+    400056: Pillow
+    400058: Pillow1
+    400060: Plant1
+    400062: Sheet
+    400064: Sheet1
+    400066: Step
+    400068: Step1
+    400070: Step2
+    400072: Toilet
+    400074: Toilet_Seat
+    2300000: Bed
+    2300002: Bed1
+    2300004: Bed_Frame
+    2300006: Clothing_Store_Ceiling
+    2300008: Fast_Food_Door1
+    2300010: Handle
+    2300012: //RootNode
+    2300014: Jail_Bar
+    2300016: Jail_Bar1
+    2300018: Jail_Bar10
+    2300020: Jail_Bar11
+    2300022: Jail_Bar12
+    2300024: Jail_Bar2
+    2300026: Jail_Bar3
+    2300028: Jail_Bar4
+    2300030: Jail_Bar5
+    2300032: Jail_Bar6
+    2300034: Jail_Bar7
+    2300036: Jail_Bar8
+    2300038: Jail_Bar9
+    2300040: Jail_Bottom
+    2300042: Jail_Ceiling
+    2300044: Jail_Door
+    2300046: Jail_Top
+    2300048: Jail_Walls
+    2300050: Ladder1
+    2300052: Light
+    2300054: LightBulb
+    2300056: Pillow
+    2300058: Pillow1
+    2300060: Plant1
+    2300062: Sheet
+    2300064: Sheet1
+    2300066: Step
+    2300068: Step1
+    2300070: Step2
+    2300072: Toilet
+    2300074: Toilet_Seat
+    3300000: Bed
+    3300002: Bed1
+    3300004: Bed_Frame
+    3300006: Clothing_Store_Ceiling
+    3300008: Fast_Food_Door1
+    3300010: Handle
+    3300012: //RootNode
+    3300014: Jail_Bar
+    3300016: Jail_Bar1
+    3300018: Jail_Bar10
+    3300020: Jail_Bar11
+    3300022: Jail_Bar12
+    3300024: Jail_Bar2
+    3300026: Jail_Bar3
+    3300028: Jail_Bar4
+    3300030: Jail_Bar5
+    3300032: Jail_Bar6
+    3300034: Jail_Bar7
+    3300036: Jail_Bar8
+    3300038: Jail_Bar9
+    3300040: Jail_Bottom
+    3300042: Jail_Ceiling
+    3300044: Jail_Door
+    3300046: Jail_Top
+    3300048: Jail_Walls
+    3300050: Ladder1
+    3300052: Light
+    3300054: LightBulb
+    3300056: Pillow
+    3300058: Pillow1
+    3300060: Plant1
+    3300062: Sheet
+    3300064: Sheet1
+    3300066: Step
+    3300068: Step1
+    3300070: Step2
+    3300072: Toilet
+    3300074: Toilet_Seat
+    4300000: Jail_Floor
+    4300002: Bed1
+    4300004: Ladder1
+    4300006: Sheet1
+    4300008: Pillow
+    4300010: Bed
+    4300012: Jail_Door
+    4300014: Jail_Bar5
+    4300016: Jail_Bar4
+    4300018: Jail_Bar9
+    4300020: Jail_Bar8
+    4300022: Plant1
+    4300024: Jail_Bar3
+    4300026: Jail_Bar2
+    4300028: Jail_Bar1
+    4300030: Jail_Bottom
+    4300032: Jail_Bar10
+    4300034: Jail_Bar11
+    4300036: Jail_Bar12
+    4300038: Jail_Bar7
+    4300040: Jail_Bar6
+    4300042: Jail_Walls
+    4300044: Jail_Bar
+    4300046: Jail_Top
+    4300048: LightBulb
+    4300050: Light
+    4300052: Clothing_Store_Ceiling
+    4300054: Handle
+    4300056: Fast_Food_Door1
+    4300058: Bed_Frame
+    4300060: Toilet
+    4300062: Step2
+    4300064: Step1
+    4300066: Pillow1
+    4300068: Sheet
+    4300070: Step
+    4300072: Jail_Ceiling
+    4300074: Toilet_Seat
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue2
+    second: {fileID: 2100000, guid: 218e95055fc239e47a512bd5594bfcde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue3
+    second: {fileID: 2100000, guid: 461fbcbe60eb30349bb7e5071d7daad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown3
+    second: {fileID: 2100000, guid: d1ead3b63377915499af7b73b1bc3a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown4
+    second: {fileID: 2100000, guid: b473ce9fd8c6ef84d9ff7f007ac54cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 56f6506d105f2824da217bedcf509db9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey2
+    second: {fileID: 2100000, guid: f53d5f30481e3e04498254dd625e848c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey3
+    second: {fileID: 2100000, guid: 8061401693c277c44bd4169b3ad86f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 95e66d2991dfe8b49b3edd4bd6bc963f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White2
+    second: {fileID: 2100000, guid: 5850d2d12c24a7243a15571576e46f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 715ad847dddf4854ca43dc9266354561, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

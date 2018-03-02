@@ -1,0 +1,1486 @@
+fileFormatVersion: 2
+guid: 41b4bd718be859e41905e73adfb586ba
+timeCreated: 1512397441
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bench_Stand
+    100002: Bench_Stand 1
+    100004: Bench_Stand 2
+    100006: Bench_Stand 3
+    100008: Bench_Stand 4
+    100010: Bench_Stand 5
+    100012: Box1
+    100014: Box2
+    100016: Boxes
+    100018: Changing_Room__Floor
+    100020: Changing_Room_Door1
+    100022: Changing_Room_Door1 1
+    100024: Changing_Room_Door1 2
+    100026: Changing_Rooms
+    100028: Clothes_Bench
+    100030: Clothes_Bench1
+    100032: Clothes_Bench2
+    100034: Clothes_Bench3
+    100036: Clothes_Bench4
+    100038: Clothes_Bench5
+    100040: Clothes_Stand
+    100042: Clothes_Stand1
+    100044: Clothes_Stand2
+    100046: Clothes_Stand3
+    100048: Clothing_Picture
+    100050: Clothing_Picture1
+    100052: Clothing_Store_Ceiling
+    100054: Clothing_Store_Wall
+    100056: Counter
+    100058: Counter_2
+    100060: Counter_Top
+    100062: Credit_Card_Scanner1
+    100064: Credit_Card_Scanner1 1
+    100066: Divider
+    100068: Door_Frame
+    100070: Door_Frame1
+    100072: Door_Frame2
+    100074: Fast_Food_Door
+    100076: Fence
+    100078: Fence1
+    100080: Fence2
+    100082: Handle
+    100084: Handle 1
+    100086: Handle 2
+    100088: Handle 3
+    100090: Hanger
+    100092: Hanger 1
+    100094: Hanger 10
+    100096: Hanger 11
+    100098: Hanger 12
+    100100: Hanger 13
+    100102: Hanger 14
+    100104: Hanger 15
+    100106: Hanger 16
+    100108: Hanger 17
+    100110: Hanger 18
+    100112: Hanger 19
+    100114: Hanger 2
+    100116: Hanger 20
+    100118: Hanger 21
+    100120: Hanger 22
+    100122: Hanger 23
+    100124: Hanger 24
+    100126: Hanger 25
+    100128: Hanger 26
+    100130: Hanger 27
+    100132: Hanger 28
+    100134: Hanger 29
+    100136: Hanger 3
+    100138: Hanger 30
+    100140: Hanger 31
+    100142: Hanger 32
+    100144: Hanger 33
+    100146: Hanger 34
+    100148: Hanger 35
+    100150: Hanger 36
+    100152: Hanger 37
+    100154: Hanger 38
+    100156: Hanger 39
+    100158: Hanger 4
+    100160: Hanger 40
+    100162: Hanger 41
+    100164: Hanger 42
+    100166: Hanger 43
+    100168: Hanger 5
+    100170: Hanger 6
+    100172: Hanger 7
+    100174: Hanger 8
+    100176: Hanger 9
+    100178: Head
+    100180: Head 1
+    100182: Head 2
+    100184: Head_Model
+    100186: Hinge
+    100188: Hinge 1
+    100190: Hinge 2
+    100192: Hinge 3
+    100194: Hinge1
+    100196: Hinge1 1
+    100198: Hinge1 2
+    100200: Hinge2
+    100202: Left_Foot
+    100204: Left_Foot 1
+    100206: Left_Foot 2
+    100208: Left_Hand
+    100210: Left_Hand 1
+    100212: Left_Hand 2
+    100214: Lens1
+    100216: Lens1 1
+    100218: Lens1 2
+    100220: Light
+    100222: Light1
+    100224: LightBulb
+    100226: LightBulb 1
+    100228: Mannequin
+    100230: Mannequin1
+    100232: Mannequin3
+    100234: Mannequin_Stand
+    100236: Mannequin_Stand 1
+    100238: Mannequin_Stand 2
+    100240: Mannequin_Stand 3
+    100242: Mat_Part
+    100244: Mirror
+    100246: Mirror1
+    100248: Mirror2
+    100250: //RootNode
+    100252: Right_Foot
+    100254: Right_Foot 1
+    100256: Right_Foot 2
+    100258: Right_Hand
+    100260: Right_Hand 1
+    100262: Right_Hand 2
+    100264: Screen
+    100266: Screen 1
+    100268: Shades
+    100270: Shelf1
+    100272: Shelf2
+    100274: Shelf3
+    100276: Shirt
+    100278: Shirt 1
+    100280: Shirt 2
+    100282: Shirt 3
+    100284: Shirt1
+    100286: Shirt1 1
+    100288: Shirt1 2
+    100290: Shirt1 3
+    100292: Shirt10
+    100294: Shirt10 1
+    100296: Shirt10 2
+    100298: Shirt10 3
+    100300: Shirt2
+    100302: Shirt2 1
+    100304: Shirt2 2
+    100306: Shirt2 3
+    100308: Shirt3
+    100310: Shirt3 1
+    100312: Shirt3 2
+    100314: Shirt3 3
+    100316: Shirt4
+    100318: Shirt4 1
+    100320: Shirt4 2
+    100322: Shirt4 3
+    100324: Shirt5
+    100326: Shirt5 1
+    100328: Shirt5 2
+    100330: Shirt5 3
+    100332: Shirt6
+    100334: Shirt6 1
+    100336: Shirt6 2
+    100338: Shirt6 3
+    100340: Shirt7
+    100342: Shirt7 1
+    100344: Shirt7 2
+    100346: Shirt7 3
+    100348: Shirt8
+    100350: Shirt8 1
+    100352: Shirt8 2
+    100354: Shirt8 3
+    100356: Shirt9
+    100358: Shirt9 1
+    100360: Shirt9 2
+    100362: Shirt9 3
+    100364: Shoe2
+    100366: Shoe2 1
+    100368: Shoe2 10
+    100370: Shoe2 11
+    100372: Shoe2 12
+    100374: Shoe2 13
+    100376: Shoe2 14
+    100378: Shoe2 2
+    100380: Shoe2 3
+    100382: Shoe2 4
+    100384: Shoe2 5
+    100386: Shoe2 6
+    100388: Shoe2 7
+    100390: Shoe2 8
+    100392: Shoe2 9
+    100394: Shoe_Box
+    100396: Shoe_Box 1
+    100398: Shoe_Box 2
+    100400: Shoe_Box1
+    100402: Shoe_Box1 1
+    100404: Shoe_Box1 2
+    100406: Shoe_Box10
+    100408: Shoe_Box10 1
+    100410: Shoe_Box10 2
+    100412: Shoe_Box11
+    100414: Shoe_Box11 1
+    100416: Shoe_Box11 2
+    100418: Shoe_Box2
+    100420: Shoe_Box2 1
+    100422: Shoe_Box2 2
+    100424: Shoe_Box3
+    100426: Shoe_Box3 1
+    100428: Shoe_Box3 2
+    100430: Shoe_Box4
+    100432: Shoe_Box4 1
+    100434: Shoe_Box4 2
+    100436: Shoe_Box5
+    100438: Shoe_Box5 1
+    100440: Shoe_Box5 2
+    100442: Shoe_Box6
+    100444: Shoe_Box6 1
+    100446: Shoe_Box6 2
+    100448: Shoe_Box7
+    100450: Shoe_Box7 1
+    100452: Shoe_Box7 2
+    100454: Shoe_Box8
+    100456: Shoe_Box8 1
+    100458: Shoe_Box8 2
+    100460: Shoe_Box9
+    100462: Shoe_Box9 1
+    100464: Shoe_Box9 2
+    100466: Shoe_Display
+    100468: Shoe_Display1
+    100470: Shoe_Display2
+    100472: Shoe_Pair
+    100474: Shoe_Pair 1
+    100476: Shoe_Pair 2
+    100478: Shoe_Pair1
+    100480: Shoe_Pair1 1
+    100482: Shoe_Pair1 2
+    100484: Shoe_Pair2
+    100486: Shoe_Pair2 1
+    100488: Shoe_Pair2 2
+    100490: Shoe_Pair3
+    100492: Shoe_Pair3 1
+    100494: Shoe_Pair3 2
+    100496: Shoe_Pair4
+    100498: Shoe_Pair4 1
+    100500: Shoe_Pair4 2
+    100502: Strawhat
+    100504: Strawhat_Colour
+    100506: Sunglasses
+    100508: Sunglasses1
+    100510: Till
+    100512: Till1
+    100514: Welcome_Mat
+    100516: Clothing_Store_Ceiling 1
+    400000: Bench_Stand
+    400002: Bench_Stand 1
+    400004: Bench_Stand 2
+    400006: Bench_Stand 3
+    400008: Bench_Stand 4
+    400010: Bench_Stand 5
+    400012: Box1
+    400014: Box2
+    400016: Boxes
+    400018: Changing_Room__Floor
+    400020: Changing_Room_Door1
+    400022: Changing_Room_Door1 1
+    400024: Changing_Room_Door1 2
+    400026: Changing_Rooms
+    400028: Clothes_Bench
+    400030: Clothes_Bench1
+    400032: Clothes_Bench2
+    400034: Clothes_Bench3
+    400036: Clothes_Bench4
+    400038: Clothes_Bench5
+    400040: Clothes_Stand
+    400042: Clothes_Stand1
+    400044: Clothes_Stand2
+    400046: Clothes_Stand3
+    400048: Clothing_Picture
+    400050: Clothing_Picture1
+    400052: Clothing_Store_Ceiling
+    400054: Clothing_Store_Wall
+    400056: Counter
+    400058: Counter_2
+    400060: Counter_Top
+    400062: Credit_Card_Scanner1
+    400064: Credit_Card_Scanner1 1
+    400066: Divider
+    400068: Door_Frame
+    400070: Door_Frame1
+    400072: Door_Frame2
+    400074: Fast_Food_Door
+    400076: Fence
+    400078: Fence1
+    400080: Fence2
+    400082: Handle
+    400084: Handle 1
+    400086: Handle 2
+    400088: Handle 3
+    400090: Hanger
+    400092: Hanger 1
+    400094: Hanger 10
+    400096: Hanger 11
+    400098: Hanger 12
+    400100: Hanger 13
+    400102: Hanger 14
+    400104: Hanger 15
+    400106: Hanger 16
+    400108: Hanger 17
+    400110: Hanger 18
+    400112: Hanger 19
+    400114: Hanger 2
+    400116: Hanger 20
+    400118: Hanger 21
+    400120: Hanger 22
+    400122: Hanger 23
+    400124: Hanger 24
+    400126: Hanger 25
+    400128: Hanger 26
+    400130: Hanger 27
+    400132: Hanger 28
+    400134: Hanger 29
+    400136: Hanger 3
+    400138: Hanger 30
+    400140: Hanger 31
+    400142: Hanger 32
+    400144: Hanger 33
+    400146: Hanger 34
+    400148: Hanger 35
+    400150: Hanger 36
+    400152: Hanger 37
+    400154: Hanger 38
+    400156: Hanger 39
+    400158: Hanger 4
+    400160: Hanger 40
+    400162: Hanger 41
+    400164: Hanger 42
+    400166: Hanger 43
+    400168: Hanger 5
+    400170: Hanger 6
+    400172: Hanger 7
+    400174: Hanger 8
+    400176: Hanger 9
+    400178: Head
+    400180: Head 1
+    400182: Head 2
+    400184: Head_Model
+    400186: Hinge
+    400188: Hinge 1
+    400190: Hinge 2
+    400192: Hinge 3
+    400194: Hinge1
+    400196: Hinge1 1
+    400198: Hinge1 2
+    400200: Hinge2
+    400202: Left_Foot
+    400204: Left_Foot 1
+    400206: Left_Foot 2
+    400208: Left_Hand
+    400210: Left_Hand 1
+    400212: Left_Hand 2
+    400214: Lens1
+    400216: Lens1 1
+    400218: Lens1 2
+    400220: Light
+    400222: Light1
+    400224: LightBulb
+    400226: LightBulb 1
+    400228: Mannequin
+    400230: Mannequin1
+    400232: Mannequin3
+    400234: Mannequin_Stand
+    400236: Mannequin_Stand 1
+    400238: Mannequin_Stand 2
+    400240: Mannequin_Stand 3
+    400242: Mat_Part
+    400244: Mirror
+    400246: Mirror1
+    400248: Mirror2
+    400250: //RootNode
+    400252: Right_Foot
+    400254: Right_Foot 1
+    400256: Right_Foot 2
+    400258: Right_Hand
+    400260: Right_Hand 1
+    400262: Right_Hand 2
+    400264: Screen
+    400266: Screen 1
+    400268: Shades
+    400270: Shelf1
+    400272: Shelf2
+    400274: Shelf3
+    400276: Shirt
+    400278: Shirt 1
+    400280: Shirt 2
+    400282: Shirt 3
+    400284: Shirt1
+    400286: Shirt1 1
+    400288: Shirt1 2
+    400290: Shirt1 3
+    400292: Shirt10
+    400294: Shirt10 1
+    400296: Shirt10 2
+    400298: Shirt10 3
+    400300: Shirt2
+    400302: Shirt2 1
+    400304: Shirt2 2
+    400306: Shirt2 3
+    400308: Shirt3
+    400310: Shirt3 1
+    400312: Shirt3 2
+    400314: Shirt3 3
+    400316: Shirt4
+    400318: Shirt4 1
+    400320: Shirt4 2
+    400322: Shirt4 3
+    400324: Shirt5
+    400326: Shirt5 1
+    400328: Shirt5 2
+    400330: Shirt5 3
+    400332: Shirt6
+    400334: Shirt6 1
+    400336: Shirt6 2
+    400338: Shirt6 3
+    400340: Shirt7
+    400342: Shirt7 1
+    400344: Shirt7 2
+    400346: Shirt7 3
+    400348: Shirt8
+    400350: Shirt8 1
+    400352: Shirt8 2
+    400354: Shirt8 3
+    400356: Shirt9
+    400358: Shirt9 1
+    400360: Shirt9 2
+    400362: Shirt9 3
+    400364: Shoe2
+    400366: Shoe2 1
+    400368: Shoe2 10
+    400370: Shoe2 11
+    400372: Shoe2 12
+    400374: Shoe2 13
+    400376: Shoe2 14
+    400378: Shoe2 2
+    400380: Shoe2 3
+    400382: Shoe2 4
+    400384: Shoe2 5
+    400386: Shoe2 6
+    400388: Shoe2 7
+    400390: Shoe2 8
+    400392: Shoe2 9
+    400394: Shoe_Box
+    400396: Shoe_Box 1
+    400398: Shoe_Box 2
+    400400: Shoe_Box1
+    400402: Shoe_Box1 1
+    400404: Shoe_Box1 2
+    400406: Shoe_Box10
+    400408: Shoe_Box10 1
+    400410: Shoe_Box10 2
+    400412: Shoe_Box11
+    400414: Shoe_Box11 1
+    400416: Shoe_Box11 2
+    400418: Shoe_Box2
+    400420: Shoe_Box2 1
+    400422: Shoe_Box2 2
+    400424: Shoe_Box3
+    400426: Shoe_Box3 1
+    400428: Shoe_Box3 2
+    400430: Shoe_Box4
+    400432: Shoe_Box4 1
+    400434: Shoe_Box4 2
+    400436: Shoe_Box5
+    400438: Shoe_Box5 1
+    400440: Shoe_Box5 2
+    400442: Shoe_Box6
+    400444: Shoe_Box6 1
+    400446: Shoe_Box6 2
+    400448: Shoe_Box7
+    400450: Shoe_Box7 1
+    400452: Shoe_Box7 2
+    400454: Shoe_Box8
+    400456: Shoe_Box8 1
+    400458: Shoe_Box8 2
+    400460: Shoe_Box9
+    400462: Shoe_Box9 1
+    400464: Shoe_Box9 2
+    400466: Shoe_Display
+    400468: Shoe_Display1
+    400470: Shoe_Display2
+    400472: Shoe_Pair
+    400474: Shoe_Pair 1
+    400476: Shoe_Pair 2
+    400478: Shoe_Pair1
+    400480: Shoe_Pair1 1
+    400482: Shoe_Pair1 2
+    400484: Shoe_Pair2
+    400486: Shoe_Pair2 1
+    400488: Shoe_Pair2 2
+    400490: Shoe_Pair3
+    400492: Shoe_Pair3 1
+    400494: Shoe_Pair3 2
+    400496: Shoe_Pair4
+    400498: Shoe_Pair4 1
+    400500: Shoe_Pair4 2
+    400502: Strawhat
+    400504: Strawhat_Colour
+    400506: Sunglasses
+    400508: Sunglasses1
+    400510: Till
+    400512: Till1
+    400514: Welcome_Mat
+    400516: Clothing_Store_Ceiling 1
+    2300000: Bench_Stand
+    2300002: Bench_Stand 1
+    2300004: Bench_Stand 2
+    2300006: Bench_Stand 3
+    2300008: Bench_Stand 4
+    2300010: Bench_Stand 5
+    2300012: Box1
+    2300014: Box2
+    2300016: Boxes
+    2300018: Changing_Room__Floor
+    2300020: Changing_Room_Door1
+    2300022: Changing_Room_Door1 1
+    2300024: Changing_Room_Door1 2
+    2300026: Changing_Rooms
+    2300028: Clothes_Bench
+    2300030: Clothes_Bench1
+    2300032: Clothes_Bench2
+    2300034: Clothes_Bench3
+    2300036: Clothes_Bench4
+    2300038: Clothes_Bench5
+    2300040: Clothes_Stand
+    2300042: Clothes_Stand1
+    2300044: Clothes_Stand2
+    2300046: Clothes_Stand3
+    2300048: Clothing_Picture
+    2300050: Clothing_Picture1
+    2300052: Clothing_Store_Ceiling
+    2300054: Clothing_Store_Wall
+    2300056: Counter
+    2300058: Counter_2
+    2300060: Counter_Top
+    2300062: Credit_Card_Scanner1
+    2300064: Credit_Card_Scanner1 1
+    2300066: Divider
+    2300068: Door_Frame
+    2300070: Door_Frame1
+    2300072: Door_Frame2
+    2300074: Fast_Food_Door
+    2300076: Fence
+    2300078: Fence1
+    2300080: Fence2
+    2300082: Handle
+    2300084: Handle 1
+    2300086: Handle 2
+    2300088: Handle 3
+    2300090: Hanger
+    2300092: Hanger 1
+    2300094: Hanger 10
+    2300096: Hanger 11
+    2300098: Hanger 12
+    2300100: Hanger 13
+    2300102: Hanger 14
+    2300104: Hanger 15
+    2300106: Hanger 16
+    2300108: Hanger 17
+    2300110: Hanger 18
+    2300112: Hanger 19
+    2300114: Hanger 2
+    2300116: Hanger 20
+    2300118: Hanger 21
+    2300120: Hanger 22
+    2300122: Hanger 23
+    2300124: Hanger 24
+    2300126: Hanger 25
+    2300128: Hanger 26
+    2300130: Hanger 27
+    2300132: Hanger 28
+    2300134: Hanger 29
+    2300136: Hanger 3
+    2300138: Hanger 30
+    2300140: Hanger 31
+    2300142: Hanger 32
+    2300144: Hanger 33
+    2300146: Hanger 34
+    2300148: Hanger 35
+    2300150: Hanger 36
+    2300152: Hanger 37
+    2300154: Hanger 38
+    2300156: Hanger 39
+    2300158: Hanger 4
+    2300160: Hanger 40
+    2300162: Hanger 41
+    2300164: Hanger 42
+    2300166: Hanger 43
+    2300168: Hanger 5
+    2300170: Hanger 6
+    2300172: Hanger 7
+    2300174: Hanger 8
+    2300176: Hanger 9
+    2300178: Head
+    2300180: Head 1
+    2300182: Head 2
+    2300184: Head_Model
+    2300186: Hinge
+    2300188: Hinge 1
+    2300190: Hinge 2
+    2300192: Hinge 3
+    2300194: Hinge1
+    2300196: Hinge1 1
+    2300198: Hinge1 2
+    2300200: Hinge2
+    2300202: Left_Foot
+    2300204: Left_Foot 1
+    2300206: Left_Foot 2
+    2300208: Left_Hand
+    2300210: Left_Hand 1
+    2300212: Left_Hand 2
+    2300214: Lens1
+    2300216: Lens1 1
+    2300218: Lens1 2
+    2300220: Light
+    2300222: Light1
+    2300224: LightBulb
+    2300226: LightBulb 1
+    2300228: Mannequin
+    2300230: Mannequin1
+    2300232: Mannequin3
+    2300234: Mannequin_Stand
+    2300236: Mannequin_Stand 1
+    2300238: Mannequin_Stand 2
+    2300240: Mannequin_Stand 3
+    2300242: Mat_Part
+    2300244: Mirror
+    2300246: Mirror1
+    2300248: Mirror2
+    2300250: //RootNode
+    2300252: Right_Foot
+    2300254: Right_Foot 1
+    2300256: Right_Foot 2
+    2300258: Right_Hand
+    2300260: Right_Hand 1
+    2300262: Right_Hand 2
+    2300264: Screen
+    2300266: Screen 1
+    2300268: Shades
+    2300270: Shelf1
+    2300272: Shelf2
+    2300274: Shelf3
+    2300276: Shirt
+    2300278: Shirt 1
+    2300280: Shirt 2
+    2300282: Shirt 3
+    2300284: Shirt1
+    2300286: Shirt1 1
+    2300288: Shirt1 2
+    2300290: Shirt1 3
+    2300292: Shirt10
+    2300294: Shirt10 1
+    2300296: Shirt10 2
+    2300298: Shirt10 3
+    2300300: Shirt2
+    2300302: Shirt2 1
+    2300304: Shirt2 2
+    2300306: Shirt2 3
+    2300308: Shirt3
+    2300310: Shirt3 1
+    2300312: Shirt3 2
+    2300314: Shirt3 3
+    2300316: Shirt4
+    2300318: Shirt4 1
+    2300320: Shirt4 2
+    2300322: Shirt4 3
+    2300324: Shirt5
+    2300326: Shirt5 1
+    2300328: Shirt5 2
+    2300330: Shirt5 3
+    2300332: Shirt6
+    2300334: Shirt6 1
+    2300336: Shirt6 2
+    2300338: Shirt6 3
+    2300340: Shirt7
+    2300342: Shirt7 1
+    2300344: Shirt7 2
+    2300346: Shirt7 3
+    2300348: Shirt8
+    2300350: Shirt8 1
+    2300352: Shirt8 2
+    2300354: Shirt8 3
+    2300356: Shirt9
+    2300358: Shirt9 1
+    2300360: Shirt9 2
+    2300362: Shirt9 3
+    2300364: Shoe2
+    2300366: Shoe2 1
+    2300368: Shoe2 10
+    2300370: Shoe2 11
+    2300372: Shoe2 12
+    2300374: Shoe2 13
+    2300376: Shoe2 14
+    2300378: Shoe2 2
+    2300380: Shoe2 3
+    2300382: Shoe2 4
+    2300384: Shoe2 5
+    2300386: Shoe2 6
+    2300388: Shoe2 7
+    2300390: Shoe2 8
+    2300392: Shoe2 9
+    2300394: Shoe_Box
+    2300396: Shoe_Box 1
+    2300398: Shoe_Box 2
+    2300400: Shoe_Box1
+    2300402: Shoe_Box1 1
+    2300404: Shoe_Box1 2
+    2300406: Shoe_Box10
+    2300408: Shoe_Box10 1
+    2300410: Shoe_Box10 2
+    2300412: Shoe_Box11
+    2300414: Shoe_Box11 1
+    2300416: Shoe_Box11 2
+    2300418: Shoe_Box2
+    2300420: Shoe_Box2 1
+    2300422: Shoe_Box2 2
+    2300424: Shoe_Box3
+    2300426: Shoe_Box3 1
+    2300428: Shoe_Box3 2
+    2300430: Shoe_Box4
+    2300432: Shoe_Box4 1
+    2300434: Shoe_Box4 2
+    2300436: Shoe_Box5
+    2300438: Shoe_Box5 1
+    2300440: Shoe_Box5 2
+    2300442: Shoe_Box6
+    2300444: Shoe_Box6 1
+    2300446: Shoe_Box6 2
+    2300448: Shoe_Box7
+    2300450: Shoe_Box7 1
+    2300452: Shoe_Box7 2
+    2300454: Shoe_Box8
+    2300456: Shoe_Box8 1
+    2300458: Shoe_Box8 2
+    2300460: Shoe_Box9
+    2300462: Shoe_Box9 1
+    2300464: Shoe_Box9 2
+    2300466: Shoe_Display
+    2300468: Shoe_Display1
+    2300470: Shoe_Display2
+    2300472: Shoe_Pair
+    2300474: Shoe_Pair 1
+    2300476: Shoe_Pair 2
+    2300478: Shoe_Pair1
+    2300480: Shoe_Pair1 1
+    2300482: Shoe_Pair1 2
+    2300484: Shoe_Pair2
+    2300486: Shoe_Pair2 1
+    2300488: Shoe_Pair2 2
+    2300490: Shoe_Pair3
+    2300492: Shoe_Pair3 1
+    2300494: Shoe_Pair3 2
+    2300496: Shoe_Pair4
+    2300498: Shoe_Pair4 1
+    2300500: Shoe_Pair4 2
+    2300502: Strawhat
+    2300504: Strawhat_Colour
+    2300506: Sunglasses
+    2300508: Sunglasses1
+    2300510: Till
+    2300512: Till1
+    2300514: Welcome_Mat
+    2300516: Clothing_Store_Ceiling 1
+    3300000: Bench_Stand
+    3300002: Bench_Stand 1
+    3300004: Bench_Stand 2
+    3300006: Bench_Stand 3
+    3300008: Bench_Stand 4
+    3300010: Bench_Stand 5
+    3300012: Box1
+    3300014: Box2
+    3300016: Boxes
+    3300018: Changing_Room__Floor
+    3300020: Changing_Room_Door1
+    3300022: Changing_Room_Door1 1
+    3300024: Changing_Room_Door1 2
+    3300026: Changing_Rooms
+    3300028: Clothes_Bench
+    3300030: Clothes_Bench1
+    3300032: Clothes_Bench2
+    3300034: Clothes_Bench3
+    3300036: Clothes_Bench4
+    3300038: Clothes_Bench5
+    3300040: Clothes_Stand
+    3300042: Clothes_Stand1
+    3300044: Clothes_Stand2
+    3300046: Clothes_Stand3
+    3300048: Clothing_Picture
+    3300050: Clothing_Picture1
+    3300052: Clothing_Store_Ceiling
+    3300054: Clothing_Store_Wall
+    3300056: Counter
+    3300058: Counter_2
+    3300060: Counter_Top
+    3300062: Credit_Card_Scanner1
+    3300064: Credit_Card_Scanner1 1
+    3300066: Divider
+    3300068: Door_Frame
+    3300070: Door_Frame1
+    3300072: Door_Frame2
+    3300074: Fast_Food_Door
+    3300076: Fence
+    3300078: Fence1
+    3300080: Fence2
+    3300082: Handle
+    3300084: Handle 1
+    3300086: Handle 2
+    3300088: Handle 3
+    3300090: Hanger
+    3300092: Hanger 1
+    3300094: Hanger 10
+    3300096: Hanger 11
+    3300098: Hanger 12
+    3300100: Hanger 13
+    3300102: Hanger 14
+    3300104: Hanger 15
+    3300106: Hanger 16
+    3300108: Hanger 17
+    3300110: Hanger 18
+    3300112: Hanger 19
+    3300114: Hanger 2
+    3300116: Hanger 20
+    3300118: Hanger 21
+    3300120: Hanger 22
+    3300122: Hanger 23
+    3300124: Hanger 24
+    3300126: Hanger 25
+    3300128: Hanger 26
+    3300130: Hanger 27
+    3300132: Hanger 28
+    3300134: Hanger 29
+    3300136: Hanger 3
+    3300138: Hanger 30
+    3300140: Hanger 31
+    3300142: Hanger 32
+    3300144: Hanger 33
+    3300146: Hanger 34
+    3300148: Hanger 35
+    3300150: Hanger 36
+    3300152: Hanger 37
+    3300154: Hanger 38
+    3300156: Hanger 39
+    3300158: Hanger 4
+    3300160: Hanger 40
+    3300162: Hanger 41
+    3300164: Hanger 42
+    3300166: Hanger 43
+    3300168: Hanger 5
+    3300170: Hanger 6
+    3300172: Hanger 7
+    3300174: Hanger 8
+    3300176: Hanger 9
+    3300178: Head
+    3300180: Head 1
+    3300182: Head 2
+    3300184: Head_Model
+    3300186: Hinge
+    3300188: Hinge 1
+    3300190: Hinge 2
+    3300192: Hinge 3
+    3300194: Hinge1
+    3300196: Hinge1 1
+    3300198: Hinge1 2
+    3300200: Hinge2
+    3300202: Left_Foot
+    3300204: Left_Foot 1
+    3300206: Left_Foot 2
+    3300208: Left_Hand
+    3300210: Left_Hand 1
+    3300212: Left_Hand 2
+    3300214: Lens1
+    3300216: Lens1 1
+    3300218: Lens1 2
+    3300220: Light
+    3300222: Light1
+    3300224: LightBulb
+    3300226: LightBulb 1
+    3300228: Mannequin
+    3300230: Mannequin1
+    3300232: Mannequin3
+    3300234: Mannequin_Stand
+    3300236: Mannequin_Stand 1
+    3300238: Mannequin_Stand 2
+    3300240: Mannequin_Stand 3
+    3300242: Mat_Part
+    3300244: Mirror
+    3300246: Mirror1
+    3300248: Mirror2
+    3300250: //RootNode
+    3300252: Right_Foot
+    3300254: Right_Foot 1
+    3300256: Right_Foot 2
+    3300258: Right_Hand
+    3300260: Right_Hand 1
+    3300262: Right_Hand 2
+    3300264: Screen
+    3300266: Screen 1
+    3300268: Shades
+    3300270: Shelf1
+    3300272: Shelf2
+    3300274: Shelf3
+    3300276: Shirt
+    3300278: Shirt 1
+    3300280: Shirt 2
+    3300282: Shirt 3
+    3300284: Shirt1
+    3300286: Shirt1 1
+    3300288: Shirt1 2
+    3300290: Shirt1 3
+    3300292: Shirt10
+    3300294: Shirt10 1
+    3300296: Shirt10 2
+    3300298: Shirt10 3
+    3300300: Shirt2
+    3300302: Shirt2 1
+    3300304: Shirt2 2
+    3300306: Shirt2 3
+    3300308: Shirt3
+    3300310: Shirt3 1
+    3300312: Shirt3 2
+    3300314: Shirt3 3
+    3300316: Shirt4
+    3300318: Shirt4 1
+    3300320: Shirt4 2
+    3300322: Shirt4 3
+    3300324: Shirt5
+    3300326: Shirt5 1
+    3300328: Shirt5 2
+    3300330: Shirt5 3
+    3300332: Shirt6
+    3300334: Shirt6 1
+    3300336: Shirt6 2
+    3300338: Shirt6 3
+    3300340: Shirt7
+    3300342: Shirt7 1
+    3300344: Shirt7 2
+    3300346: Shirt7 3
+    3300348: Shirt8
+    3300350: Shirt8 1
+    3300352: Shirt8 2
+    3300354: Shirt8 3
+    3300356: Shirt9
+    3300358: Shirt9 1
+    3300360: Shirt9 2
+    3300362: Shirt9 3
+    3300364: Shoe2
+    3300366: Shoe2 1
+    3300368: Shoe2 10
+    3300370: Shoe2 11
+    3300372: Shoe2 12
+    3300374: Shoe2 13
+    3300376: Shoe2 14
+    3300378: Shoe2 2
+    3300380: Shoe2 3
+    3300382: Shoe2 4
+    3300384: Shoe2 5
+    3300386: Shoe2 6
+    3300388: Shoe2 7
+    3300390: Shoe2 8
+    3300392: Shoe2 9
+    3300394: Shoe_Box
+    3300396: Shoe_Box 1
+    3300398: Shoe_Box 2
+    3300400: Shoe_Box1
+    3300402: Shoe_Box1 1
+    3300404: Shoe_Box1 2
+    3300406: Shoe_Box10
+    3300408: Shoe_Box10 1
+    3300410: Shoe_Box10 2
+    3300412: Shoe_Box11
+    3300414: Shoe_Box11 1
+    3300416: Shoe_Box11 2
+    3300418: Shoe_Box2
+    3300420: Shoe_Box2 1
+    3300422: Shoe_Box2 2
+    3300424: Shoe_Box3
+    3300426: Shoe_Box3 1
+    3300428: Shoe_Box3 2
+    3300430: Shoe_Box4
+    3300432: Shoe_Box4 1
+    3300434: Shoe_Box4 2
+    3300436: Shoe_Box5
+    3300438: Shoe_Box5 1
+    3300440: Shoe_Box5 2
+    3300442: Shoe_Box6
+    3300444: Shoe_Box6 1
+    3300446: Shoe_Box6 2
+    3300448: Shoe_Box7
+    3300450: Shoe_Box7 1
+    3300452: Shoe_Box7 2
+    3300454: Shoe_Box8
+    3300456: Shoe_Box8 1
+    3300458: Shoe_Box8 2
+    3300460: Shoe_Box9
+    3300462: Shoe_Box9 1
+    3300464: Shoe_Box9 2
+    3300466: Shoe_Display
+    3300468: Shoe_Display1
+    3300470: Shoe_Display2
+    3300472: Shoe_Pair
+    3300474: Shoe_Pair 1
+    3300476: Shoe_Pair 2
+    3300478: Shoe_Pair1
+    3300480: Shoe_Pair1 1
+    3300482: Shoe_Pair1 2
+    3300484: Shoe_Pair2
+    3300486: Shoe_Pair2 1
+    3300488: Shoe_Pair2 2
+    3300490: Shoe_Pair3
+    3300492: Shoe_Pair3 1
+    3300494: Shoe_Pair3 2
+    3300496: Shoe_Pair4
+    3300498: Shoe_Pair4 1
+    3300500: Shoe_Pair4 2
+    3300502: Strawhat
+    3300504: Strawhat_Colour
+    3300506: Sunglasses
+    3300508: Sunglasses1
+    3300510: Till
+    3300512: Till1
+    3300514: Welcome_Mat
+    3300516: Clothing_Store_Ceiling 1
+    4300000: Clothing_Store
+    4300002: Clothing_Store_Wall
+    4300004: Welcome_Mat
+    4300006: Mat_Part
+    4300008: Divider
+    4300010: Fence1
+    4300012: Fence
+    4300014: Fence2
+    4300016: Fast_Food_Door
+    4300018: Handle
+    4300020: Counter
+    4300022: Counter_Top
+    4300024: Counter_2
+    4300026: Hinge
+    4300028: Hinge2
+    4300030: Changing_Room_Door1
+    4300032: Handle
+    4300034: Hinge
+    4300036: Hinge1
+    4300038: Changing_Rooms
+    4300040: Door_Frame
+    4300042: Changing_Room_Door1
+    4300044: Handle
+    4300046: Hinge
+    4300048: Hinge1
+    4300050: Door_Frame1
+    4300052: Door_Frame2
+    4300054: Changing_Room_Door1
+    4300056: Handle
+    4300058: Hinge
+    4300060: Hinge1
+    4300062: Till
+    4300064: Screen
+    4300066: Credit_Card_Scanner1
+    4300068: Till1
+    4300070: Screen
+    4300072: Credit_Card_Scanner1
+    4300074: Boxes
+    4300076: Box2
+    4300078: Box1
+    4300080: Mannequin_Stand
+    4300082: Mannequin
+    4300084: Head
+    4300086: Left_Foot
+    4300088: Right_Foot
+    4300090: Left_Hand
+    4300092: Right_Hand
+    4300094: Mannequin_Stand
+    4300096: Mannequin1
+    4300098: Head
+    4300100: Left_Foot
+    4300102: Right_Foot
+    4300104: Left_Hand
+    4300106: Right_Hand
+    4300108: Mannequin_Stand
+    4300110: Mannequin3
+    4300112: Head
+    4300114: Left_Foot
+    4300116: Right_Foot
+    4300118: Left_Hand
+    4300120: Right_Hand
+    4300122: Mannequin_Stand
+    4300124: Clothes_Bench
+    4300126: Bench_Stand
+    4300128: Clothes_Stand
+    4300130: Shirt
+    4300132: Hanger
+    4300134: Shirt1
+    4300136: Hanger
+    4300138: Shirt2
+    4300140: Hanger
+    4300142: Shirt3
+    4300144: Hanger
+    4300146: Shirt4
+    4300148: Hanger
+    4300150: Shirt5
+    4300152: Hanger
+    4300154: Shirt6
+    4300156: Hanger
+    4300158: Shirt7
+    4300160: Hanger
+    4300162: Shirt8
+    4300164: Hanger
+    4300166: Shirt9
+    4300168: Hanger
+    4300170: Shirt10
+    4300172: Hanger
+    4300174: Clothes_Stand1
+    4300176: Shirt
+    4300178: Hanger
+    4300180: Shirt1
+    4300182: Hanger
+    4300184: Shirt2
+    4300186: Hanger
+    4300188: Shirt3
+    4300190: Hanger
+    4300192: Shirt4
+    4300194: Hanger
+    4300196: Shirt5
+    4300198: Hanger
+    4300200: Shirt6
+    4300202: Hanger
+    4300204: Shirt7
+    4300206: Hanger
+    4300208: Shirt8
+    4300210: Hanger
+    4300212: Shirt9
+    4300214: Hanger
+    4300216: Shirt10
+    4300218: Hanger
+    4300220: Shelf1
+    4300222: Shelf2
+    4300224: Clothes_Bench1
+    4300226: Bench_Stand
+    4300228: Mirror
+    4300230: Mirror1
+    4300232: Mirror2
+    4300234: Shoe_Display
+    4300236: Shoe_Pair4
+    4300238: Shoe2
+    4300240: Shoe_Pair3
+    4300242: Shoe2
+    4300244: Shoe_Pair2
+    4300246: Shoe2
+    4300248: Shoe_Pair1
+    4300250: Shoe2
+    4300252: Shoe_Pair
+    4300254: Shoe2
+    4300256: Shoe_Box2
+    4300258: Shoe_Box1
+    4300260: Shoe_Box
+    4300262: Shoe_Box3
+    4300264: Shoe_Box4
+    4300266: Shoe_Box5
+    4300268: Shoe_Box6
+    4300270: Shoe_Box7
+    4300272: Shoe_Box8
+    4300274: Shoe_Box9
+    4300276: Shoe_Box10
+    4300278: Shoe_Box11
+    4300280: Clothes_Bench3
+    4300282: Bench_Stand
+    4300284: Clothes_Bench2
+    4300286: Bench_Stand
+    4300288: Changing_Room__Floor
+    4300290: Sunglasses
+    4300292: Lens1
+    4300294: Head_Model
+    4300296: Strawhat
+    4300298: Strawhat_Colour
+    4300300: Shades
+    4300302: Lens1
+    4300304: Sunglasses1
+    4300306: Lens1
+    4300308: Shoe_Display1
+    4300310: Shoe_Pair4
+    4300312: Shoe2
+    4300314: Shoe_Pair3
+    4300316: Shoe2
+    4300318: Shoe_Pair2
+    4300320: Shoe2
+    4300322: Shoe_Pair1
+    4300324: Shoe2
+    4300326: Shoe_Pair
+    4300328: Shoe2
+    4300330: Shoe_Box2
+    4300332: Shoe_Box1
+    4300334: Shoe_Box
+    4300336: Shoe_Box3
+    4300338: Shoe_Box4
+    4300340: Shoe_Box5
+    4300342: Shoe_Box6
+    4300344: Shoe_Box7
+    4300346: Shoe_Box8
+    4300348: Shoe_Box9
+    4300350: Shoe_Box10
+    4300352: Shoe_Box11
+    4300354: Clothes_Stand2
+    4300356: Shirt
+    4300358: Hanger
+    4300360: Shirt1
+    4300362: Hanger
+    4300364: Shirt2
+    4300366: Hanger
+    4300368: Shirt3
+    4300370: Hanger
+    4300372: Shirt4
+    4300374: Hanger
+    4300376: Shirt5
+    4300378: Hanger
+    4300380: Shirt6
+    4300382: Hanger
+    4300384: Shirt7
+    4300386: Hanger
+    4300388: Shirt8
+    4300390: Hanger
+    4300392: Shirt9
+    4300394: Hanger
+    4300396: Shirt10
+    4300398: Hanger
+    4300400: Clothes_Stand3
+    4300402: Shirt
+    4300404: Hanger
+    4300406: Shirt1
+    4300408: Hanger
+    4300410: Shirt2
+    4300412: Hanger
+    4300414: Shirt3
+    4300416: Hanger
+    4300418: Shirt4
+    4300420: Hanger
+    4300422: Shirt5
+    4300424: Hanger
+    4300426: Shirt6
+    4300428: Hanger
+    4300430: Shirt7
+    4300432: Hanger
+    4300434: Shirt8
+    4300436: Hanger
+    4300438: Shirt9
+    4300440: Hanger
+    4300442: Shirt10
+    4300444: Hanger
+    4300446: Clothes_Bench4
+    4300448: Bench_Stand
+    4300450: Clothes_Bench5
+    4300452: Bench_Stand
+    4300454: Shoe_Display2
+    4300456: Shoe_Pair4
+    4300458: Shoe2
+    4300460: Shoe_Pair3
+    4300462: Shoe2
+    4300464: Shoe_Pair2
+    4300466: Shoe2
+    4300468: Shoe_Pair1
+    4300470: Shoe2
+    4300472: Shoe_Pair
+    4300474: Shoe2
+    4300476: Shoe_Box2
+    4300478: Shoe_Box1
+    4300480: Shoe_Box
+    4300482: Shoe_Box3
+    4300484: Shoe_Box4
+    4300486: Shoe_Box5
+    4300488: Shoe_Box6
+    4300490: Shoe_Box7
+    4300492: Shoe_Box8
+    4300494: Shoe_Box9
+    4300496: Shoe_Box10
+    4300498: Shoe_Box11
+    4300500: Light
+    4300502: LightBulb
+    4300504: Clothing_Store_Ceiling
+    4300506: Light1
+    4300508: LightBulb
+    4300510: Shelf3
+    4300512: Clothing_Picture
+    4300514: Clothing_Picture1
+    4300516: Clothing_Store_Ceiling
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: e016b40eb6ac76a48ac9312bec137ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue
+    second: {fileID: 2100000, guid: d9d06f03b66bd454c81f790ff6a565d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue2
+    second: {fileID: 2100000, guid: 218e95055fc239e47a512bd5594bfcde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown
+    second: {fileID: 2100000, guid: 87fb1d3a064d451428d0400f48638b99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown2
+    second: {fileID: 2100000, guid: 4448f377ecd06e844ac7a312e7baca13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown3
+    second: {fileID: 2100000, guid: d1ead3b63377915499af7b73b1bc3a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 56f6506d105f2824da217bedcf509db9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey2
+    second: {fileID: 2100000, guid: f53d5f30481e3e04498254dd625e848c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey3
+    second: {fileID: 2100000, guid: 8061401693c277c44bd4169b3ad86f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lime
+    second: {fileID: 2100000, guid: 291c1296819ba5647a2e29e1e518c78e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: 9a18683aaec4b9a4faeffa23595a6cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink
+    second: {fileID: 2100000, guid: 5482af361bbccde429b132d117093db3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Purple
+    second: {fileID: 2100000, guid: 6b8bcd7e18c652a4f93c7d2d4efc216f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: be08ed524b2291643815283334710d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sunglasses_Lens
+    second: {fileID: 2100000, guid: 0ff87798fab48524aba8ae0967ed020f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Green_Wall
+    second: {fileID: 2100000, guid: d950afd9b7b0be449b68d5be924ddf3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 95e66d2991dfe8b49b3edd4bd6bc963f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White2
+    second: {fileID: 2100000, guid: 5850d2d12c24a7243a15571576e46f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow
+    second: {fileID: 2100000, guid: e090771ae4a4ae545bd91e4fbb7c9ece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow2
+    second: {fileID: 2100000, guid: 30e989b318543ff418f1dd96b5be1296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 715ad847dddf4854ca43dc9266354561, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

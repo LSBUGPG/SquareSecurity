@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: 9cb8c43346b54194a83ae7a166bdbf06
+timeCreated: 1512397446
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Advertisement
+    100002: Advertisement1
+    100004: Advertisement2
+    100006: Advertisement3
+    100008: Bargin_Box
+    100010: Bargin_Box1
+    100012: Bargin_Box2
+    100014: Bargin_Box3
+    100016: Bargin_Box3 1
+    100018: Bargin_Box4
+    100020: Basket1
+    100022: Basket2
+    100024: Basket3
+    100026: Basket_Bundle
+    100028: Box1
+    100030: Box2
+    100032: Boxes
+    100034: Checkout_Counter
+    100036: Checkout_Counter2
+    100038: Checkout_Counter3
+    100040: Checkout_Counter4
+    100042: Clothing_Store_Ceiling
+    100044: Clothing_Store_Ceiling 1
+    100046: Credit_Card_Scanner1
+    100048: Credit_Card_Scanner1 1
+    100050: Credit_Card_Scanner1 2
+    100052: Credit_Card_Scanner1 3
+    100054: Divider
+    100056: Divider1
+    100058: Divider2
+    100060: Door_Holder
+    100062: Door_Holder 1
+    100064: Door_Holder 2
+    100066: Door_Holder 3
+    100068: Door_Holder 4
+    100070: Door_Holder 5
+    100072: Door_Holder1
+    100074: Door_Holder1 1
+    100076: Fast_Food_Door1
+    100078: Fence
+    100080: Fence 1
+    100082: Fence1
+    100084: Fence1 1
+    100086: Fence2
+    100088: Fence2 1
+    100090: Fence2 2
+    100092: Fence3
+    100094: Fence4
+    100096: Fence5
+    100098: Fence6
+    100100: Freezer
+    100102: Freezer1
+    100104: Freezer_Frame
+    100106: Freezer_Frame 1
+    100108: Freezer_Shelf
+    100110: Freezer_Shelf 1
+    100112: Freezer_Shelf1
+    100114: Freezer_Shelf1 1
+    100116: Freezer_Top
+    100118: Freezer_Top 1
+    100120: Glass_Door
+    100122: Glass_Door 1
+    100124: Glass_Door1
+    100126: Glass_Door1 1
+    100128: Glass_Door2
+    100130: Glass_Door2 1
+    100132: Handle
+    100134: Handle 1
+    100136: Handle 2
+    100138: Handle 3
+    100140: Handle 4
+    100142: Handle1
+    100144: Handle1 1
+    100146: Handle1 2
+    100148: Handle1 3
+    100150: Light
+    100152: Light1
+    100154: Light2
+    100156: Light3
+    100158: Light4
+    100160: Light5
+    100162: LightBulb
+    100164: LightBulb 1
+    100166: LightBulb 2
+    100168: LightBulb 3
+    100170: LightBulb 4
+    100172: LightBulb 5
+    100174: Mat_Part
+    100176: Plant
+    100178: Plant1
+    100180: Scanner
+    100182: Scanner 1
+    100184: Scanner 2
+    100186: Scanner 3
+    100188: Screen
+    100190: Screen 1
+    100192: Screen 2
+    100194: Screen 3
+    100196: Shelf1
+    100198: Shelf1 1
+    100200: Shelf1 2
+    100202: Shelf1 3
+    100204: Shelf1 4
+    100206: Shelf3
+    100208: Shelf3 1
+    100210: Shelf_Bundle
+    100212: Shelf_Bundle2
+    100214: Shelf_Bundle3
+    100216: Shelf_Edge
+    100218: Shelf_Edge 1
+    100220: Shelf_Edge 10
+    100222: Shelf_Edge 11
+    100224: Shelf_Edge 12
+    100226: Shelf_Edge 2
+    100228: Shelf_Edge 3
+    100230: Shelf_Edge 4
+    100232: Shelf_Edge 5
+    100234: Shelf_Edge 6
+    100236: Shelf_Edge 7
+    100238: Shelf_Edge 8
+    100240: Shelf_Edge 9
+    100242: Shelf_Edge1
+    100244: Shelf_Edge1 1
+    100246: Shelf_Edge1 10
+    100248: Shelf_Edge1 11
+    100250: Shelf_Edge1 12
+    100252: Shelf_Edge1 2
+    100254: Shelf_Edge1 3
+    100256: Shelf_Edge1 4
+    100258: Shelf_Edge1 5
+    100260: Shelf_Edge1 6
+    100262: Shelf_Edge1 7
+    100264: Shelf_Edge1 8
+    100266: Shelf_Edge1 9
+    100268: Shelf_Edge2
+    100270: Shelf_Edge3
+    100272: Shelf_Edge4
+    100274: Shelf_Edge5
+    100276: Shelf_Edge6
+    100278: Shelf_Edge_Bundle
+    100280: Sign
+    100282: Sign1
+    100284: Sign1 1
+    100286: Sign2
+    100288: Sign_Post
+    100290: Sign_Post 1
+    100292: Sign_Post 2
+    100294: Sign_Post 3
+    100296: //RootNode
+    100298: Supermarket_Floor
+    100300: Supermarket_Floor1
+    100302: Supermarket_Wall
+    100304: Sweet_Shelf
+    100306: Sweet_Shelf1
+    100308: Sweet_Shelf_Back
+    100310: Sweet_Shelf_Back 1
+    100312: Sweet_Shelf_Plat
+    100314: Sweet_Shelf_Plat 1
+    100316: Theft_Scanner1
+    100318: Theft_Scanners
+    100320: Till
+    100322: Till 1
+    100324: Till 2
+    100326: Till 3
+    100328: Welcome_Mat
+    400000: Advertisement
+    400002: Advertisement1
+    400004: Advertisement2
+    400006: Advertisement3
+    400008: Bargin_Box
+    400010: Bargin_Box1
+    400012: Bargin_Box2
+    400014: Bargin_Box3
+    400016: Bargin_Box3 1
+    400018: Bargin_Box4
+    400020: Basket1
+    400022: Basket2
+    400024: Basket3
+    400026: Basket_Bundle
+    400028: Box1
+    400030: Box2
+    400032: Boxes
+    400034: Checkout_Counter
+    400036: Checkout_Counter2
+    400038: Checkout_Counter3
+    400040: Checkout_Counter4
+    400042: Clothing_Store_Ceiling
+    400044: Clothing_Store_Ceiling 1
+    400046: Credit_Card_Scanner1
+    400048: Credit_Card_Scanner1 1
+    400050: Credit_Card_Scanner1 2
+    400052: Credit_Card_Scanner1 3
+    400054: Divider
+    400056: Divider1
+    400058: Divider2
+    400060: Door_Holder
+    400062: Door_Holder 1
+    400064: Door_Holder 2
+    400066: Door_Holder 3
+    400068: Door_Holder 4
+    400070: Door_Holder 5
+    400072: Door_Holder1
+    400074: Door_Holder1 1
+    400076: Fast_Food_Door1
+    400078: Fence
+    400080: Fence 1
+    400082: Fence1
+    400084: Fence1 1
+    400086: Fence2
+    400088: Fence2 1
+    400090: Fence2 2
+    400092: Fence3
+    400094: Fence4
+    400096: Fence5
+    400098: Fence6
+    400100: Freezer
+    400102: Freezer1
+    400104: Freezer_Frame
+    400106: Freezer_Frame 1
+    400108: Freezer_Shelf
+    400110: Freezer_Shelf 1
+    400112: Freezer_Shelf1
+    400114: Freezer_Shelf1 1
+    400116: Freezer_Top
+    400118: Freezer_Top 1
+    400120: Glass_Door
+    400122: Glass_Door 1
+    400124: Glass_Door1
+    400126: Glass_Door1 1
+    400128: Glass_Door2
+    400130: Glass_Door2 1
+    400132: Handle
+    400134: Handle 1
+    400136: Handle 2
+    400138: Handle 3
+    400140: Handle 4
+    400142: Handle1
+    400144: Handle1 1
+    400146: Handle1 2
+    400148: Handle1 3
+    400150: Light
+    400152: Light1
+    400154: Light2
+    400156: Light3
+    400158: Light4
+    400160: Light5
+    400162: LightBulb
+    400164: LightBulb 1
+    400166: LightBulb 2
+    400168: LightBulb 3
+    400170: LightBulb 4
+    400172: LightBulb 5
+    400174: Mat_Part
+    400176: Plant
+    400178: Plant1
+    400180: Scanner
+    400182: Scanner 1
+    400184: Scanner 2
+    400186: Scanner 3
+    400188: Screen
+    400190: Screen 1
+    400192: Screen 2
+    400194: Screen 3
+    400196: Shelf1
+    400198: Shelf1 1
+    400200: Shelf1 2
+    400202: Shelf1 3
+    400204: Shelf1 4
+    400206: Shelf3
+    400208: Shelf3 1
+    400210: Shelf_Bundle
+    400212: Shelf_Bundle2
+    400214: Shelf_Bundle3
+    400216: Shelf_Edge
+    400218: Shelf_Edge 1
+    400220: Shelf_Edge 10
+    400222: Shelf_Edge 11
+    400224: Shelf_Edge 12
+    400226: Shelf_Edge 2
+    400228: Shelf_Edge 3
+    400230: Shelf_Edge 4
+    400232: Shelf_Edge 5
+    400234: Shelf_Edge 6
+    400236: Shelf_Edge 7
+    400238: Shelf_Edge 8
+    400240: Shelf_Edge 9
+    400242: Shelf_Edge1
+    400244: Shelf_Edge1 1
+    400246: Shelf_Edge1 10
+    400248: Shelf_Edge1 11
+    400250: Shelf_Edge1 12
+    400252: Shelf_Edge1 2
+    400254: Shelf_Edge1 3
+    400256: Shelf_Edge1 4
+    400258: Shelf_Edge1 5
+    400260: Shelf_Edge1 6
+    400262: Shelf_Edge1 7
+    400264: Shelf_Edge1 8
+    400266: Shelf_Edge1 9
+    400268: Shelf_Edge2
+    400270: Shelf_Edge3
+    400272: Shelf_Edge4
+    400274: Shelf_Edge5
+    400276: Shelf_Edge6
+    400278: Shelf_Edge_Bundle
+    400280: Sign
+    400282: Sign1
+    400284: Sign1 1
+    400286: Sign2
+    400288: Sign_Post
+    400290: Sign_Post 1
+    400292: Sign_Post 2
+    400294: Sign_Post 3
+    400296: //RootNode
+    400298: Supermarket_Floor
+    400300: Supermarket_Floor1
+    400302: Supermarket_Wall
+    400304: Sweet_Shelf
+    400306: Sweet_Shelf1
+    400308: Sweet_Shelf_Back
+    400310: Sweet_Shelf_Back 1
+    400312: Sweet_Shelf_Plat
+    400314: Sweet_Shelf_Plat 1
+    400316: Theft_Scanner1
+    400318: Theft_Scanners
+    400320: Till
+    400322: Till 1
+    400324: Till 2
+    400326: Till 3
+    400328: Welcome_Mat
+    2300000: Advertisement
+    2300002: Advertisement1
+    2300004: Advertisement2
+    2300006: Advertisement3
+    2300008: Bargin_Box
+    2300010: Bargin_Box1
+    2300012: Bargin_Box2
+    2300014: Bargin_Box3
+    2300016: Bargin_Box3 1
+    2300018: Bargin_Box4
+    2300020: Basket1
+    2300022: Basket2
+    2300024: Basket3
+    2300026: Basket_Bundle
+    2300028: Box1
+    2300030: Box2
+    2300032: Boxes
+    2300034: Checkout_Counter
+    2300036: Checkout_Counter2
+    2300038: Checkout_Counter3
+    2300040: Checkout_Counter4
+    2300042: Clothing_Store_Ceiling
+    2300044: Clothing_Store_Ceiling 1
+    2300046: Credit_Card_Scanner1
+    2300048: Credit_Card_Scanner1 1
+    2300050: Credit_Card_Scanner1 2
+    2300052: Credit_Card_Scanner1 3
+    2300054: Divider
+    2300056: Divider1
+    2300058: Divider2
+    2300060: Door_Holder
+    2300062: Door_Holder 1
+    2300064: Door_Holder 2
+    2300066: Door_Holder 3
+    2300068: Door_Holder 4
+    2300070: Door_Holder 5
+    2300072: Door_Holder1
+    2300074: Door_Holder1 1
+    2300076: Fast_Food_Door1
+    2300078: Fence
+    2300080: Fence 1
+    2300082: Fence1
+    2300084: Fence1 1
+    2300086: Fence2
+    2300088: Fence2 1
+    2300090: Fence2 2
+    2300092: Fence3
+    2300094: Fence4
+    2300096: Fence5
+    2300098: Fence6
+    2300100: Freezer
+    2300102: Freezer1
+    2300104: Freezer_Frame
+    2300106: Freezer_Frame 1
+    2300108: Freezer_Shelf
+    2300110: Freezer_Shelf 1
+    2300112: Freezer_Shelf1
+    2300114: Freezer_Shelf1 1
+    2300116: Freezer_Top
+    2300118: Freezer_Top 1
+    2300120: Glass_Door
+    2300122: Glass_Door 1
+    2300124: Glass_Door1
+    2300126: Glass_Door1 1
+    2300128: Glass_Door2
+    2300130: Glass_Door2 1
+    2300132: Handle
+    2300134: Handle 1
+    2300136: Handle 2
+    2300138: Handle 3
+    2300140: Handle 4
+    2300142: Handle1
+    2300144: Handle1 1
+    2300146: Handle1 2
+    2300148: Handle1 3
+    2300150: Light
+    2300152: Light1
+    2300154: Light2
+    2300156: Light3
+    2300158: Light4
+    2300160: Light5
+    2300162: LightBulb
+    2300164: LightBulb 1
+    2300166: LightBulb 2
+    2300168: LightBulb 3
+    2300170: LightBulb 4
+    2300172: LightBulb 5
+    2300174: Mat_Part
+    2300176: Plant
+    2300178: Plant1
+    2300180: Scanner
+    2300182: Scanner 1
+    2300184: Scanner 2
+    2300186: Scanner 3
+    2300188: Screen
+    2300190: Screen 1
+    2300192: Screen 2
+    2300194: Screen 3
+    2300196: Shelf1
+    2300198: Shelf1 1
+    2300200: Shelf1 2
+    2300202: Shelf1 3
+    2300204: Shelf1 4
+    2300206: Shelf3
+    2300208: Shelf3 1
+    2300210: Shelf_Bundle
+    2300212: Shelf_Bundle2
+    2300214: Shelf_Bundle3
+    2300216: Shelf_Edge
+    2300218: Shelf_Edge 1
+    2300220: Shelf_Edge 10
+    2300222: Shelf_Edge 11
+    2300224: Shelf_Edge 12
+    2300226: Shelf_Edge 2
+    2300228: Shelf_Edge 3
+    2300230: Shelf_Edge 4
+    2300232: Shelf_Edge 5
+    2300234: Shelf_Edge 6
+    2300236: Shelf_Edge 7
+    2300238: Shelf_Edge 8
+    2300240: Shelf_Edge 9
+    2300242: Shelf_Edge1
+    2300244: Shelf_Edge1 1
+    2300246: Shelf_Edge1 10
+    2300248: Shelf_Edge1 11
+    2300250: Shelf_Edge1 12
+    2300252: Shelf_Edge1 2
+    2300254: Shelf_Edge1 3
+    2300256: Shelf_Edge1 4
+    2300258: Shelf_Edge1 5
+    2300260: Shelf_Edge1 6
+    2300262: Shelf_Edge1 7
+    2300264: Shelf_Edge1 8
+    2300266: Shelf_Edge1 9
+    2300268: Shelf_Edge2
+    2300270: Shelf_Edge3
+    2300272: Shelf_Edge4
+    2300274: Shelf_Edge5
+    2300276: Shelf_Edge6
+    2300278: Shelf_Edge_Bundle
+    2300280: Sign
+    2300282: Sign1
+    2300284: Sign1 1
+    2300286: Sign2
+    2300288: Sign_Post
+    2300290: Sign_Post 1
+    2300292: Sign_Post 2
+    2300294: Sign_Post 3
+    2300296: Supermarket_Floor
+    2300298: Supermarket_Floor1
+    2300300: Supermarket_Wall
+    2300302: Sweet_Shelf
+    2300304: Sweet_Shelf1
+    2300306: Sweet_Shelf_Back
+    2300308: Sweet_Shelf_Back 1
+    2300310: Sweet_Shelf_Plat
+    2300312: Sweet_Shelf_Plat 1
+    2300314: Theft_Scanner1
+    2300316: Theft_Scanners
+    2300318: Till
+    2300320: Till 1
+    2300322: Till 2
+    2300324: Till 3
+    2300326: Welcome_Mat
+    3300000: Advertisement
+    3300002: Advertisement1
+    3300004: Advertisement2
+    3300006: Advertisement3
+    3300008: Bargin_Box
+    3300010: Bargin_Box1
+    3300012: Bargin_Box2
+    3300014: Bargin_Box3
+    3300016: Bargin_Box3 1
+    3300018: Bargin_Box4
+    3300020: Basket1
+    3300022: Basket2
+    3300024: Basket3
+    3300026: Basket_Bundle
+    3300028: Box1
+    3300030: Box2
+    3300032: Boxes
+    3300034: Checkout_Counter
+    3300036: Checkout_Counter2
+    3300038: Checkout_Counter3
+    3300040: Checkout_Counter4
+    3300042: Clothing_Store_Ceiling
+    3300044: Clothing_Store_Ceiling 1
+    3300046: Credit_Card_Scanner1
+    3300048: Credit_Card_Scanner1 1
+    3300050: Credit_Card_Scanner1 2
+    3300052: Credit_Card_Scanner1 3
+    3300054: Divider
+    3300056: Divider1
+    3300058: Divider2
+    3300060: Door_Holder
+    3300062: Door_Holder 1
+    3300064: Door_Holder 2
+    3300066: Door_Holder 3
+    3300068: Door_Holder 4
+    3300070: Door_Holder 5
+    3300072: Door_Holder1
+    3300074: Door_Holder1 1
+    3300076: Fast_Food_Door1
+    3300078: Fence
+    3300080: Fence 1
+    3300082: Fence1
+    3300084: Fence1 1
+    3300086: Fence2
+    3300088: Fence2 1
+    3300090: Fence2 2
+    3300092: Fence3
+    3300094: Fence4
+    3300096: Fence5
+    3300098: Fence6
+    3300100: Freezer
+    3300102: Freezer1
+    3300104: Freezer_Frame
+    3300106: Freezer_Frame 1
+    3300108: Freezer_Shelf
+    3300110: Freezer_Shelf 1
+    3300112: Freezer_Shelf1
+    3300114: Freezer_Shelf1 1
+    3300116: Freezer_Top
+    3300118: Freezer_Top 1
+    3300120: Glass_Door
+    3300122: Glass_Door 1
+    3300124: Glass_Door1
+    3300126: Glass_Door1 1
+    3300128: Glass_Door2
+    3300130: Glass_Door2 1
+    3300132: Handle
+    3300134: Handle 1
+    3300136: Handle 2
+    3300138: Handle 3
+    3300140: Handle 4
+    3300142: Handle1
+    3300144: Handle1 1
+    3300146: Handle1 2
+    3300148: Handle1 3
+    3300150: Light
+    3300152: Light1
+    3300154: Light2
+    3300156: Light3
+    3300158: Light4
+    3300160: Light5
+    3300162: LightBulb
+    3300164: LightBulb 1
+    3300166: LightBulb 2
+    3300168: LightBulb 3
+    3300170: LightBulb 4
+    3300172: LightBulb 5
+    3300174: Mat_Part
+    3300176: Plant
+    3300178: Plant1
+    3300180: Scanner
+    3300182: Scanner 1
+    3300184: Scanner 2
+    3300186: Scanner 3
+    3300188: Screen
+    3300190: Screen 1
+    3300192: Screen 2
+    3300194: Screen 3
+    3300196: Shelf1
+    3300198: Shelf1 1
+    3300200: Shelf1 2
+    3300202: Shelf1 3
+    3300204: Shelf1 4
+    3300206: Shelf3
+    3300208: Shelf3 1
+    3300210: Shelf_Bundle
+    3300212: Shelf_Bundle2
+    3300214: Shelf_Bundle3
+    3300216: Shelf_Edge
+    3300218: Shelf_Edge 1
+    3300220: Shelf_Edge 10
+    3300222: Shelf_Edge 11
+    3300224: Shelf_Edge 12
+    3300226: Shelf_Edge 2
+    3300228: Shelf_Edge 3
+    3300230: Shelf_Edge 4
+    3300232: Shelf_Edge 5
+    3300234: Shelf_Edge 6
+    3300236: Shelf_Edge 7
+    3300238: Shelf_Edge 8
+    3300240: Shelf_Edge 9
+    3300242: Shelf_Edge1
+    3300244: Shelf_Edge1 1
+    3300246: Shelf_Edge1 10
+    3300248: Shelf_Edge1 11
+    3300250: Shelf_Edge1 12
+    3300252: Shelf_Edge1 2
+    3300254: Shelf_Edge1 3
+    3300256: Shelf_Edge1 4
+    3300258: Shelf_Edge1 5
+    3300260: Shelf_Edge1 6
+    3300262: Shelf_Edge1 7
+    3300264: Shelf_Edge1 8
+    3300266: Shelf_Edge1 9
+    3300268: Shelf_Edge2
+    3300270: Shelf_Edge3
+    3300272: Shelf_Edge4
+    3300274: Shelf_Edge5
+    3300276: Shelf_Edge6
+    3300278: Shelf_Edge_Bundle
+    3300280: Sign
+    3300282: Sign1
+    3300284: Sign1 1
+    3300286: Sign2
+    3300288: Sign_Post
+    3300290: Sign_Post 1
+    3300292: Sign_Post 2
+    3300294: Sign_Post 3
+    3300296: Supermarket_Floor
+    3300298: Supermarket_Floor1
+    3300300: Supermarket_Wall
+    3300302: Sweet_Shelf
+    3300304: Sweet_Shelf1
+    3300306: Sweet_Shelf_Back
+    3300308: Sweet_Shelf_Back 1
+    3300310: Sweet_Shelf_Plat
+    3300312: Sweet_Shelf_Plat 1
+    3300314: Theft_Scanner1
+    3300316: Theft_Scanners
+    3300318: Till
+    3300320: Till 1
+    3300322: Till 2
+    3300324: Till 3
+    3300326: Welcome_Mat
+    4300000: Light
+    4300002: LightBulb
+    4300004: Clothing_Store_Ceiling
+    4300006: Light1
+    4300008: LightBulb
+    4300010: Light2
+    4300012: LightBulb
+    4300014: Light3
+    4300016: LightBulb
+    4300018: Clothing_Store_Ceiling
+    4300020: Light4
+    4300022: LightBulb
+    4300024: Light5
+    4300026: LightBulb
+    4300028: Boxes
+    4300030: Box2
+    4300032: Box1
+    4300034: Welcome_Mat
+    4300036: Mat_Part
+    4300038: Plant
+    4300040: Fast_Food_Door1
+    4300042: Handle
+    4300044: Supermarket_Wall
+    4300046: Supermarket_Floor
+    4300048: Shelf_Edge4
+    4300050: Shelf_Edge
+    4300052: Shelf_Edge1
+    4300054: Shelf_Bundle
+    4300056: Shelf_Edge
+    4300058: Shelf_Edge1
+    4300060: Shelf1
+    4300062: Shelf_Edge
+    4300064: Shelf_Edge1
+    4300066: Shelf3
+    4300068: Shelf_Edge
+    4300070: Shelf_Edge1
+    4300072: Shelf1
+    4300074: Shelf_Edge
+    4300076: Shelf_Edge1
+    4300078: Shelf_Edge2
+    4300080: Shelf_Edge3
+    4300082: Checkout_Counter
+    4300084: Till
+    4300086: Screen
+    4300088: Credit_Card_Scanner1
+    4300090: Scanner
+    4300092: Checkout_Counter2
+    4300094: Till
+    4300096: Screen
+    4300098: Credit_Card_Scanner1
+    4300100: Scanner
+    4300102: Checkout_Counter3
+    4300104: Till
+    4300106: Screen
+    4300108: Credit_Card_Scanner1
+    4300110: Scanner
+    4300112: Checkout_Counter4
+    4300114: Till
+    4300116: Screen
+    4300118: Credit_Card_Scanner1
+    4300120: Scanner
+    4300122: Shelf_Bundle2
+    4300124: Shelf_Edge
+    4300126: Shelf_Edge1
+    4300128: Shelf1
+    4300130: Shelf_Edge
+    4300132: Shelf_Edge1
+    4300134: Theft_Scanners
+    4300136: Theft_Scanner1
+    4300138: Basket1
+    4300140: Handle
+    4300142: Handle1
+    4300144: Basket_Bundle
+    4300146: Handle
+    4300148: Handle1
+    4300150: Basket3
+    4300152: Handle
+    4300154: Handle1
+    4300156: Basket2
+    4300158: Handle
+    4300160: Handle1
+    4300162: Freezer
+    4300164: Freezer_Top
+    4300166: Freezer_Frame
+    4300168: Glass_Door
+    4300170: Door_Holder
+    4300172: Glass_Door1
+    4300174: Door_Holder
+    4300176: Glass_Door2
+    4300178: Door_Holder
+    4300180: Door_Holder1
+    4300182: Freezer_Shelf
+    4300184: Freezer_Shelf1
+    4300186: Freezer1
+    4300188: Freezer_Top
+    4300190: Freezer_Frame
+    4300192: Glass_Door
+    4300194: Door_Holder
+    4300196: Glass_Door1
+    4300198: Door_Holder
+    4300200: Glass_Door2
+    4300202: Door_Holder
+    4300204: Door_Holder1
+    4300206: Freezer_Shelf
+    4300208: Freezer_Shelf1
+    4300210: Plant1
+    4300212: Shelf_Edge_Bundle
+    4300214: Shelf3
+    4300216: Shelf_Edge
+    4300218: Shelf_Edge1
+    4300220: Shelf1
+    4300222: Shelf_Edge
+    4300224: Shelf_Edge1
+    4300226: Shelf_Bundle3
+    4300228: Shelf_Edge
+    4300230: Shelf_Edge1
+    4300232: Shelf1
+    4300234: Shelf_Edge
+    4300236: Shelf_Edge1
+    4300238: Divider
+    4300240: Fence
+    4300242: Fence1
+    4300244: Fence2
+    4300246: Divider1
+    4300248: Fence
+    4300250: Fence1
+    4300252: Fence2
+    4300254: Divider2
+    4300256: Fence2
+    4300258: Fence3
+    4300260: Fence4
+    4300262: Fence5
+    4300264: Fence6
+    4300266: Bargin_Box
+    4300268: Bargin_Box3
+    4300270: Bargin_Box2
+    4300272: Bargin_Box1
+    4300274: Bargin_Box4
+    4300276: Bargin_Box3
+    4300278: Sign
+    4300280: Sign_Post
+    4300282: Sign1
+    4300284: Sign_Post
+    4300286: Shelf_Edge5
+    4300288: Shelf_Edge
+    4300290: Shelf_Edge1
+    4300292: Shelf_Edge6
+    4300294: Shelf_Edge
+    4300296: Shelf_Edge1
+    4300298: Sweet_Shelf
+    4300300: Sweet_Shelf_Plat
+    4300302: Sweet_Shelf_Back
+    4300304: Sign2
+    4300306: Sign_Post
+    4300308: Sign1
+    4300310: Sign_Post
+    4300312: Sweet_Shelf1
+    4300314: Sweet_Shelf_Plat
+    4300316: Sweet_Shelf_Back
+    4300318: Advertisement
+    4300320: Advertisement1
+    4300322: Advertisement2
+    4300324: Advertisement3
+    4300326: Supermarket_Floor1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue2
+    second: {fileID: 2100000, guid: 218e95055fc239e47a512bd5594bfcde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue3
+    second: {fileID: 2100000, guid: 461fbcbe60eb30349bb7e5071d7daad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown
+    second: {fileID: 2100000, guid: 87fb1d3a064d451428d0400f48638b99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown3
+    second: {fileID: 2100000, guid: d1ead3b63377915499af7b73b1bc3a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown4
+    second: {fileID: 2100000, guid: b473ce9fd8c6ef84d9ff7f007ac54cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clear_Glass
+    second: {fileID: 2100000, guid: 3d4f994946782b84eaaa5feccc820a31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 56f6506d105f2824da217bedcf509db9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey2
+    second: {fileID: 2100000, guid: f53d5f30481e3e04498254dd625e848c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey3
+    second: {fileID: 2100000, guid: 8061401693c277c44bd4169b3ad86f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: 9a18683aaec4b9a4faeffa23595a6cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: be08ed524b2291643815283334710d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Wall
+    second: {fileID: 2100000, guid: eca2bc57d0720564b84d315ae0dc5421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 95e66d2991dfe8b49b3edd4bd6bc963f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White2
+    second: {fileID: 2100000, guid: 5850d2d12c24a7243a15571576e46f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow
+    second: {fileID: 2100000, guid: e090771ae4a4ae545bd91e4fbb7c9ece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 715ad847dddf4854ca43dc9266354561, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Texture_Tile_Floor
+    second: {fileID: 2100000, guid: 3aca8870849a42c408535e25facc6d53, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

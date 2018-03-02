@@ -1,0 +1,1406 @@
+fileFormatVersion: 2
+guid: 50ca0df3abff3c940bb313c3390bf616
+timeCreated: 1512397443
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Balloon
+    100002: Balloon1
+    100004: Bin1
+    100006: Bin2
+    100008: Box1
+    100010: Box2
+    100012: Boxes
+    100014: Chair
+    100016: Chair 1
+    100018: Chair 2
+    100020: Chair 3
+    100022: Chair 4
+    100024: Chair 5
+    100026: Chair 6
+    100028: Chair1
+    100030: Chair1 1
+    100032: Chair1 2
+    100034: Chair1 3
+    100036: Chair1 4
+    100038: Chair1 5
+    100040: Chair1 6
+    100042: Chair2
+    100044: Chair3
+    100046: Chair4
+    100048: Chair4 1
+    100050: Clothing_Store1
+    100052: Clothing_Store_Ceiling
+    100054: Clothing_Store_Wall
+    100056: Counter_Top
+    100058: Counter_Top 1
+    100060: Credit_Card_Scanner1
+    100062: Credit_Card_Scanner1 1
+    100064: Divider
+    100066: Doughnut1
+    100068: Doughnut1 1
+    100070: Doughnut10
+    100072: Doughnut11
+    100074: Doughnut12
+    100076: Doughnut13
+    100078: Doughnut14
+    100080: Doughnut15
+    100082: Doughnut16
+    100084: Doughnut17
+    100086: Doughnut18
+    100088: Doughnut19
+    100090: Doughnut2
+    100092: Doughnut20
+    100094: Doughnut21
+    100096: Doughnut22
+    100098: Doughnut23
+    100100: Doughnut24
+    100102: Doughnut25
+    100104: Doughnut26
+    100106: Doughnut27
+    100108: Doughnut28
+    100110: Doughnut29
+    100112: Doughnut3
+    100114: Doughnut3 1
+    100116: Doughnut30
+    100118: Doughnut31
+    100120: Doughnut32
+    100122: Doughnut33
+    100124: Doughnut34
+    100126: Doughnut35
+    100128: Doughnut36
+    100130: Doughnut37
+    100132: Doughnut38
+    100134: Doughnut39
+    100136: Doughnut4
+    100138: Doughnut5
+    100140: Doughnut5 1
+    100142: Doughnut6
+    100144: Doughnut7
+    100146: Doughnut8
+    100148: Doughnut8 1
+    100150: Doughnut8 2
+    100152: Doughnut9
+    100154: Doughnut_Box
+    100156: Doughnut_Case
+    100158: Doughnut_Display
+    100160: Doughnut_Display1
+    100162: Doughnut_Display2
+    100164: Doughnut_Display_Tray1
+    100166: Doughnut_Display_Tray2
+    100168: Doughnut_Display_Tray3
+    100170: Doughnut_Display_Tray4
+    100172: Doughnut_Display_Tray5
+    100174: Doughnut_Display_Tray6
+    100176: Doughnut_Open
+    100178: Doughnut_Store_Ceiling
+    100180: DoughnutCounter
+    100182: DoughnutCounter1
+    100184: Doughnuts
+    100186: Doughnuts 1
+    100188: Fast_Food_Door
+    100190: Fast_Food_Door1
+    100192: Fast_Food_Door2
+    100194: Fence
+    100196: Fence1
+    100198: Fence2
+    100200: Food_Mat
+    100202: G
+    100204: G 1
+    100206: GoNut_Logo
+    100208: GoNut_Logo1
+    100210: //RootNode
+    100212: Handle
+    100214: Handle 1
+    100216: Handle 2
+    100218: Laptop
+    100220: Lid
+    100222: Lid 1
+    100224: Lid_Plastic
+    100226: Lid_Plastic 1
+    100228: Light
+    100230: Light1
+    100232: LightBulb
+    100234: LightBulb 1
+    100236: Mat_Part
+    100238: Menu
+    100240: Menu 1
+    100242: Menu 2
+    100244: Menu 3
+    100246: Menu 4
+    100248: Menu 5
+    100250: Menu1
+    100252: Mug_of_Coffee
+    100254: Mug_of_Coffee1
+    100256: Mug_of_Coffee2
+    100258: Mug_of_Coffee3
+    100260: Painting
+    100262: Painting1
+    100264: Painting2
+    100266: pasted__Bin_Bottom
+    100268: pasted__Bin_Bottom 1
+    100270: pasted__Bin_Door
+    100272: pasted__Bin_Door 1
+    100274: pasted__Coin
+    100276: pasted__Coin1
+    100278: pasted__Coin2
+    100280: pasted__Money
+    100282: pasted__Tip_Jar_Lid
+    100284: Plant
+    100286: Screen
+    100288: Screen 1
+    100290: Seat
+    100292: Seat 1
+    100294: Seat 10
+    100296: Seat 11
+    100298: Seat 12
+    100300: Seat 13
+    100302: Seat 14
+    100304: Seat 15
+    100306: Seat 16
+    100308: Seat 17
+    100310: Seat 2
+    100312: Seat 3
+    100314: Seat 4
+    100316: Seat 5
+    100318: Seat 6
+    100320: Seat 7
+    100322: Seat 8
+    100324: Seat 9
+    100326: Sign
+    100328: Stand
+    100330: Stand 1
+    100332: Stand 2
+    100334: Stand1
+    100336: Stand1 1
+    100338: Stand1 2
+    100340: Straw
+    100342: Straw1
+    100344: Straw1 1
+    100346: Straw2
+    100348: Straw2 1
+    100350: Straw2 2
+    100352: Straw3
+    100354: Straw3 1
+    100356: Straw_Holder
+    100358: String
+    100360: String 1
+    100362: String1
+    100364: String1 1
+    100366: Sugar
+    100368: Sugar 1
+    100370: Sugar 10
+    100372: Sugar 11
+    100374: Sugar 12
+    100376: Sugar 13
+    100378: Sugar 2
+    100380: Sugar 3
+    100382: Sugar 4
+    100384: Sugar 5
+    100386: Sugar 6
+    100388: Sugar 7
+    100390: Sugar 8
+    100392: Sugar 9
+    100394: Sugar_Brown
+    100396: Sugar_Brown 1
+    100398: Sugar_Brown 2
+    100400: Sugar_Brown 3
+    100402: Sugar_Brown 4
+    100404: Sugar_Brown 5
+    100406: Sugar_Brown 6
+    100408: Sugar_Lid
+    100410: Sugar_Lid 1
+    100412: Sugar_Lid 10
+    100414: Sugar_Lid 11
+    100416: Sugar_Lid 12
+    100418: Sugar_Lid 13
+    100420: Sugar_Lid 2
+    100422: Sugar_Lid 3
+    100424: Sugar_Lid 4
+    100426: Sugar_Lid 5
+    100428: Sugar_Lid 6
+    100430: Sugar_Lid 7
+    100432: Sugar_Lid 8
+    100434: Sugar_Lid 9
+    100436: Sugar_White
+    100438: Sugar_White 1
+    100440: Sugar_White 2
+    100442: Sugar_White 3
+    100444: Sugar_White 4
+    100446: Sugar_White 5
+    100448: Sugar_White1
+    100450: Table
+    100452: Table10
+    100454: Table2
+    100456: Table5
+    100458: Table6
+    100460: Table8
+    100462: Table9
+    100464: Till
+    100466: Till3
+    100468: Tip_Jar
+    100470: Tray_Holder
+    100472: Tray_Holder1
+    100474: Tray_Holder1 1
+    100476: Tray_Holder2
+    100478: Welcome_Mat
+    400000: Balloon
+    400002: Balloon1
+    400004: Bin1
+    400006: Bin2
+    400008: Box1
+    400010: Box2
+    400012: Boxes
+    400014: Chair
+    400016: Chair 1
+    400018: Chair 2
+    400020: Chair 3
+    400022: Chair 4
+    400024: Chair 5
+    400026: Chair 6
+    400028: Chair1
+    400030: Chair1 1
+    400032: Chair1 2
+    400034: Chair1 3
+    400036: Chair1 4
+    400038: Chair1 5
+    400040: Chair1 6
+    400042: Chair2
+    400044: Chair3
+    400046: Chair4
+    400048: Chair4 1
+    400050: Clothing_Store1
+    400052: Clothing_Store_Ceiling
+    400054: Clothing_Store_Wall
+    400056: Counter_Top
+    400058: Counter_Top 1
+    400060: Credit_Card_Scanner1
+    400062: Credit_Card_Scanner1 1
+    400064: Divider
+    400066: Doughnut1
+    400068: Doughnut1 1
+    400070: Doughnut10
+    400072: Doughnut11
+    400074: Doughnut12
+    400076: Doughnut13
+    400078: Doughnut14
+    400080: Doughnut15
+    400082: Doughnut16
+    400084: Doughnut17
+    400086: Doughnut18
+    400088: Doughnut19
+    400090: Doughnut2
+    400092: Doughnut20
+    400094: Doughnut21
+    400096: Doughnut22
+    400098: Doughnut23
+    400100: Doughnut24
+    400102: Doughnut25
+    400104: Doughnut26
+    400106: Doughnut27
+    400108: Doughnut28
+    400110: Doughnut29
+    400112: Doughnut3
+    400114: Doughnut3 1
+    400116: Doughnut30
+    400118: Doughnut31
+    400120: Doughnut32
+    400122: Doughnut33
+    400124: Doughnut34
+    400126: Doughnut35
+    400128: Doughnut36
+    400130: Doughnut37
+    400132: Doughnut38
+    400134: Doughnut39
+    400136: Doughnut4
+    400138: Doughnut5
+    400140: Doughnut5 1
+    400142: Doughnut6
+    400144: Doughnut7
+    400146: Doughnut8
+    400148: Doughnut8 1
+    400150: Doughnut8 2
+    400152: Doughnut9
+    400154: Doughnut_Box
+    400156: Doughnut_Case
+    400158: Doughnut_Display
+    400160: Doughnut_Display1
+    400162: Doughnut_Display2
+    400164: Doughnut_Display_Tray1
+    400166: Doughnut_Display_Tray2
+    400168: Doughnut_Display_Tray3
+    400170: Doughnut_Display_Tray4
+    400172: Doughnut_Display_Tray5
+    400174: Doughnut_Display_Tray6
+    400176: Doughnut_Open
+    400178: Doughnut_Store_Ceiling
+    400180: DoughnutCounter
+    400182: DoughnutCounter1
+    400184: Doughnuts
+    400186: Doughnuts 1
+    400188: Fast_Food_Door
+    400190: Fast_Food_Door1
+    400192: Fast_Food_Door2
+    400194: Fence
+    400196: Fence1
+    400198: Fence2
+    400200: Food_Mat
+    400202: G
+    400204: G 1
+    400206: GoNut_Logo
+    400208: GoNut_Logo1
+    400210: //RootNode
+    400212: Handle
+    400214: Handle 1
+    400216: Handle 2
+    400218: Laptop
+    400220: Lid
+    400222: Lid 1
+    400224: Lid_Plastic
+    400226: Lid_Plastic 1
+    400228: Light
+    400230: Light1
+    400232: LightBulb
+    400234: LightBulb 1
+    400236: Mat_Part
+    400238: Menu
+    400240: Menu 1
+    400242: Menu 2
+    400244: Menu 3
+    400246: Menu 4
+    400248: Menu 5
+    400250: Menu1
+    400252: Mug_of_Coffee
+    400254: Mug_of_Coffee1
+    400256: Mug_of_Coffee2
+    400258: Mug_of_Coffee3
+    400260: Painting
+    400262: Painting1
+    400264: Painting2
+    400266: pasted__Bin_Bottom
+    400268: pasted__Bin_Bottom 1
+    400270: pasted__Bin_Door
+    400272: pasted__Bin_Door 1
+    400274: pasted__Coin
+    400276: pasted__Coin1
+    400278: pasted__Coin2
+    400280: pasted__Money
+    400282: pasted__Tip_Jar_Lid
+    400284: Plant
+    400286: Screen
+    400288: Screen 1
+    400290: Seat
+    400292: Seat 1
+    400294: Seat 10
+    400296: Seat 11
+    400298: Seat 12
+    400300: Seat 13
+    400302: Seat 14
+    400304: Seat 15
+    400306: Seat 16
+    400308: Seat 17
+    400310: Seat 2
+    400312: Seat 3
+    400314: Seat 4
+    400316: Seat 5
+    400318: Seat 6
+    400320: Seat 7
+    400322: Seat 8
+    400324: Seat 9
+    400326: Sign
+    400328: Stand
+    400330: Stand 1
+    400332: Stand 2
+    400334: Stand1
+    400336: Stand1 1
+    400338: Stand1 2
+    400340: Straw
+    400342: Straw1
+    400344: Straw1 1
+    400346: Straw2
+    400348: Straw2 1
+    400350: Straw2 2
+    400352: Straw3
+    400354: Straw3 1
+    400356: Straw_Holder
+    400358: String
+    400360: String 1
+    400362: String1
+    400364: String1 1
+    400366: Sugar
+    400368: Sugar 1
+    400370: Sugar 10
+    400372: Sugar 11
+    400374: Sugar 12
+    400376: Sugar 13
+    400378: Sugar 2
+    400380: Sugar 3
+    400382: Sugar 4
+    400384: Sugar 5
+    400386: Sugar 6
+    400388: Sugar 7
+    400390: Sugar 8
+    400392: Sugar 9
+    400394: Sugar_Brown
+    400396: Sugar_Brown 1
+    400398: Sugar_Brown 2
+    400400: Sugar_Brown 3
+    400402: Sugar_Brown 4
+    400404: Sugar_Brown 5
+    400406: Sugar_Brown 6
+    400408: Sugar_Lid
+    400410: Sugar_Lid 1
+    400412: Sugar_Lid 10
+    400414: Sugar_Lid 11
+    400416: Sugar_Lid 12
+    400418: Sugar_Lid 13
+    400420: Sugar_Lid 2
+    400422: Sugar_Lid 3
+    400424: Sugar_Lid 4
+    400426: Sugar_Lid 5
+    400428: Sugar_Lid 6
+    400430: Sugar_Lid 7
+    400432: Sugar_Lid 8
+    400434: Sugar_Lid 9
+    400436: Sugar_White
+    400438: Sugar_White 1
+    400440: Sugar_White 2
+    400442: Sugar_White 3
+    400444: Sugar_White 4
+    400446: Sugar_White 5
+    400448: Sugar_White1
+    400450: Table
+    400452: Table10
+    400454: Table2
+    400456: Table5
+    400458: Table6
+    400460: Table8
+    400462: Table9
+    400464: Till
+    400466: Till3
+    400468: Tip_Jar
+    400470: Tray_Holder
+    400472: Tray_Holder1
+    400474: Tray_Holder1 1
+    400476: Tray_Holder2
+    400478: Welcome_Mat
+    2300000: Balloon
+    2300002: Balloon1
+    2300004: Bin1
+    2300006: Bin2
+    2300008: Box1
+    2300010: Box2
+    2300012: Boxes
+    2300014: Chair
+    2300016: Chair 1
+    2300018: Chair 2
+    2300020: Chair 3
+    2300022: Chair 4
+    2300024: Chair 5
+    2300026: Chair 6
+    2300028: Chair1
+    2300030: Chair1 1
+    2300032: Chair1 2
+    2300034: Chair1 3
+    2300036: Chair1 4
+    2300038: Chair1 5
+    2300040: Chair1 6
+    2300042: Chair2
+    2300044: Chair3
+    2300046: Chair4
+    2300048: Chair4 1
+    2300050: Clothing_Store1
+    2300052: Clothing_Store_Ceiling
+    2300054: Clothing_Store_Wall
+    2300056: Counter_Top
+    2300058: Counter_Top 1
+    2300060: Credit_Card_Scanner1
+    2300062: Credit_Card_Scanner1 1
+    2300064: Divider
+    2300066: Doughnut1
+    2300068: Doughnut1 1
+    2300070: Doughnut10
+    2300072: Doughnut11
+    2300074: Doughnut12
+    2300076: Doughnut13
+    2300078: Doughnut14
+    2300080: Doughnut15
+    2300082: Doughnut16
+    2300084: Doughnut17
+    2300086: Doughnut18
+    2300088: Doughnut19
+    2300090: Doughnut2
+    2300092: Doughnut20
+    2300094: Doughnut21
+    2300096: Doughnut22
+    2300098: Doughnut23
+    2300100: Doughnut24
+    2300102: Doughnut25
+    2300104: Doughnut26
+    2300106: Doughnut27
+    2300108: Doughnut28
+    2300110: Doughnut29
+    2300112: Doughnut3
+    2300114: Doughnut3 1
+    2300116: Doughnut30
+    2300118: Doughnut31
+    2300120: Doughnut32
+    2300122: Doughnut33
+    2300124: Doughnut34
+    2300126: Doughnut35
+    2300128: Doughnut36
+    2300130: Doughnut37
+    2300132: Doughnut38
+    2300134: Doughnut39
+    2300136: Doughnut4
+    2300138: Doughnut5
+    2300140: Doughnut5 1
+    2300142: Doughnut6
+    2300144: Doughnut7
+    2300146: Doughnut8
+    2300148: Doughnut8 1
+    2300150: Doughnut8 2
+    2300152: Doughnut9
+    2300154: Doughnut_Box
+    2300156: Doughnut_Case
+    2300158: Doughnut_Display
+    2300160: Doughnut_Display1
+    2300162: Doughnut_Display2
+    2300164: Doughnut_Display_Tray1
+    2300166: Doughnut_Display_Tray2
+    2300168: Doughnut_Display_Tray3
+    2300170: Doughnut_Display_Tray4
+    2300172: Doughnut_Display_Tray5
+    2300174: Doughnut_Display_Tray6
+    2300176: Doughnut_Open
+    2300178: Doughnut_Store_Ceiling
+    2300180: DoughnutCounter
+    2300182: DoughnutCounter1
+    2300184: Doughnuts
+    2300186: Doughnuts 1
+    2300188: Fast_Food_Door
+    2300190: Fast_Food_Door1
+    2300192: Fast_Food_Door2
+    2300194: Fence
+    2300196: Fence1
+    2300198: Fence2
+    2300200: Food_Mat
+    2300202: G
+    2300204: G 1
+    2300206: GoNut_Logo
+    2300208: GoNut_Logo1
+    2300210: //RootNode
+    2300212: Handle
+    2300214: Handle 1
+    2300216: Handle 2
+    2300218: Laptop
+    2300220: Lid
+    2300222: Lid 1
+    2300224: Lid_Plastic
+    2300226: Lid_Plastic 1
+    2300228: Light
+    2300230: Light1
+    2300232: LightBulb
+    2300234: LightBulb 1
+    2300236: Mat_Part
+    2300238: Menu
+    2300240: Menu 1
+    2300242: Menu 2
+    2300244: Menu 3
+    2300246: Menu 4
+    2300248: Menu 5
+    2300250: Menu1
+    2300252: Mug_of_Coffee
+    2300254: Mug_of_Coffee1
+    2300256: Mug_of_Coffee2
+    2300258: Mug_of_Coffee3
+    2300260: Painting
+    2300262: Painting1
+    2300264: Painting2
+    2300266: pasted__Bin_Bottom
+    2300268: pasted__Bin_Bottom 1
+    2300270: pasted__Bin_Door
+    2300272: pasted__Bin_Door 1
+    2300274: pasted__Coin
+    2300276: pasted__Coin1
+    2300278: pasted__Coin2
+    2300280: pasted__Money
+    2300282: pasted__Tip_Jar_Lid
+    2300284: Plant
+    2300286: Screen
+    2300288: Screen 1
+    2300290: Seat
+    2300292: Seat 1
+    2300294: Seat 10
+    2300296: Seat 11
+    2300298: Seat 12
+    2300300: Seat 13
+    2300302: Seat 14
+    2300304: Seat 15
+    2300306: Seat 16
+    2300308: Seat 17
+    2300310: Seat 2
+    2300312: Seat 3
+    2300314: Seat 4
+    2300316: Seat 5
+    2300318: Seat 6
+    2300320: Seat 7
+    2300322: Seat 8
+    2300324: Seat 9
+    2300326: Sign
+    2300328: Stand
+    2300330: Stand 1
+    2300332: Stand 2
+    2300334: Stand1
+    2300336: Stand1 1
+    2300338: Stand1 2
+    2300340: Straw
+    2300342: Straw1
+    2300344: Straw1 1
+    2300346: Straw2
+    2300348: Straw2 1
+    2300350: Straw2 2
+    2300352: Straw3
+    2300354: Straw3 1
+    2300356: Straw_Holder
+    2300358: String
+    2300360: String 1
+    2300362: String1
+    2300364: String1 1
+    2300366: Sugar
+    2300368: Sugar 1
+    2300370: Sugar 10
+    2300372: Sugar 11
+    2300374: Sugar 12
+    2300376: Sugar 13
+    2300378: Sugar 2
+    2300380: Sugar 3
+    2300382: Sugar 4
+    2300384: Sugar 5
+    2300386: Sugar 6
+    2300388: Sugar 7
+    2300390: Sugar 8
+    2300392: Sugar 9
+    2300394: Sugar_Brown
+    2300396: Sugar_Brown 1
+    2300398: Sugar_Brown 2
+    2300400: Sugar_Brown 3
+    2300402: Sugar_Brown 4
+    2300404: Sugar_Brown 5
+    2300406: Sugar_Brown 6
+    2300408: Sugar_Lid
+    2300410: Sugar_Lid 1
+    2300412: Sugar_Lid 10
+    2300414: Sugar_Lid 11
+    2300416: Sugar_Lid 12
+    2300418: Sugar_Lid 13
+    2300420: Sugar_Lid 2
+    2300422: Sugar_Lid 3
+    2300424: Sugar_Lid 4
+    2300426: Sugar_Lid 5
+    2300428: Sugar_Lid 6
+    2300430: Sugar_Lid 7
+    2300432: Sugar_Lid 8
+    2300434: Sugar_Lid 9
+    2300436: Sugar_White
+    2300438: Sugar_White 1
+    2300440: Sugar_White 2
+    2300442: Sugar_White 3
+    2300444: Sugar_White 4
+    2300446: Sugar_White 5
+    2300448: Sugar_White1
+    2300450: Table
+    2300452: Table10
+    2300454: Table2
+    2300456: Table5
+    2300458: Table6
+    2300460: Table8
+    2300462: Table9
+    2300464: Till
+    2300466: Till3
+    2300468: Tip_Jar
+    2300470: Tray_Holder
+    2300472: Tray_Holder1
+    2300474: Tray_Holder1 1
+    2300476: Tray_Holder2
+    2300478: Welcome_Mat
+    3300000: Balloon
+    3300002: Balloon1
+    3300004: Bin1
+    3300006: Bin2
+    3300008: Box1
+    3300010: Box2
+    3300012: Boxes
+    3300014: Chair
+    3300016: Chair 1
+    3300018: Chair 2
+    3300020: Chair 3
+    3300022: Chair 4
+    3300024: Chair 5
+    3300026: Chair 6
+    3300028: Chair1
+    3300030: Chair1 1
+    3300032: Chair1 2
+    3300034: Chair1 3
+    3300036: Chair1 4
+    3300038: Chair1 5
+    3300040: Chair1 6
+    3300042: Chair2
+    3300044: Chair3
+    3300046: Chair4
+    3300048: Chair4 1
+    3300050: Clothing_Store1
+    3300052: Clothing_Store_Ceiling
+    3300054: Clothing_Store_Wall
+    3300056: Counter_Top
+    3300058: Counter_Top 1
+    3300060: Credit_Card_Scanner1
+    3300062: Credit_Card_Scanner1 1
+    3300064: Divider
+    3300066: Doughnut1
+    3300068: Doughnut1 1
+    3300070: Doughnut10
+    3300072: Doughnut11
+    3300074: Doughnut12
+    3300076: Doughnut13
+    3300078: Doughnut14
+    3300080: Doughnut15
+    3300082: Doughnut16
+    3300084: Doughnut17
+    3300086: Doughnut18
+    3300088: Doughnut19
+    3300090: Doughnut2
+    3300092: Doughnut20
+    3300094: Doughnut21
+    3300096: Doughnut22
+    3300098: Doughnut23
+    3300100: Doughnut24
+    3300102: Doughnut25
+    3300104: Doughnut26
+    3300106: Doughnut27
+    3300108: Doughnut28
+    3300110: Doughnut29
+    3300112: Doughnut3
+    3300114: Doughnut3 1
+    3300116: Doughnut30
+    3300118: Doughnut31
+    3300120: Doughnut32
+    3300122: Doughnut33
+    3300124: Doughnut34
+    3300126: Doughnut35
+    3300128: Doughnut36
+    3300130: Doughnut37
+    3300132: Doughnut38
+    3300134: Doughnut39
+    3300136: Doughnut4
+    3300138: Doughnut5
+    3300140: Doughnut5 1
+    3300142: Doughnut6
+    3300144: Doughnut7
+    3300146: Doughnut8
+    3300148: Doughnut8 1
+    3300150: Doughnut8 2
+    3300152: Doughnut9
+    3300154: Doughnut_Box
+    3300156: Doughnut_Case
+    3300158: Doughnut_Display
+    3300160: Doughnut_Display1
+    3300162: Doughnut_Display2
+    3300164: Doughnut_Display_Tray1
+    3300166: Doughnut_Display_Tray2
+    3300168: Doughnut_Display_Tray3
+    3300170: Doughnut_Display_Tray4
+    3300172: Doughnut_Display_Tray5
+    3300174: Doughnut_Display_Tray6
+    3300176: Doughnut_Open
+    3300178: Doughnut_Store_Ceiling
+    3300180: DoughnutCounter
+    3300182: DoughnutCounter1
+    3300184: Doughnuts
+    3300186: Doughnuts 1
+    3300188: Fast_Food_Door
+    3300190: Fast_Food_Door1
+    3300192: Fast_Food_Door2
+    3300194: Fence
+    3300196: Fence1
+    3300198: Fence2
+    3300200: Food_Mat
+    3300202: G
+    3300204: G 1
+    3300206: GoNut_Logo
+    3300208: GoNut_Logo1
+    3300210: //RootNode
+    3300212: Handle
+    3300214: Handle 1
+    3300216: Handle 2
+    3300218: Laptop
+    3300220: Lid
+    3300222: Lid 1
+    3300224: Lid_Plastic
+    3300226: Lid_Plastic 1
+    3300228: Light
+    3300230: Light1
+    3300232: LightBulb
+    3300234: LightBulb 1
+    3300236: Mat_Part
+    3300238: Menu
+    3300240: Menu 1
+    3300242: Menu 2
+    3300244: Menu 3
+    3300246: Menu 4
+    3300248: Menu 5
+    3300250: Menu1
+    3300252: Mug_of_Coffee
+    3300254: Mug_of_Coffee1
+    3300256: Mug_of_Coffee2
+    3300258: Mug_of_Coffee3
+    3300260: Painting
+    3300262: Painting1
+    3300264: Painting2
+    3300266: pasted__Bin_Bottom
+    3300268: pasted__Bin_Bottom 1
+    3300270: pasted__Bin_Door
+    3300272: pasted__Bin_Door 1
+    3300274: pasted__Coin
+    3300276: pasted__Coin1
+    3300278: pasted__Coin2
+    3300280: pasted__Money
+    3300282: pasted__Tip_Jar_Lid
+    3300284: Plant
+    3300286: Screen
+    3300288: Screen 1
+    3300290: Seat
+    3300292: Seat 1
+    3300294: Seat 10
+    3300296: Seat 11
+    3300298: Seat 12
+    3300300: Seat 13
+    3300302: Seat 14
+    3300304: Seat 15
+    3300306: Seat 16
+    3300308: Seat 17
+    3300310: Seat 2
+    3300312: Seat 3
+    3300314: Seat 4
+    3300316: Seat 5
+    3300318: Seat 6
+    3300320: Seat 7
+    3300322: Seat 8
+    3300324: Seat 9
+    3300326: Sign
+    3300328: Stand
+    3300330: Stand 1
+    3300332: Stand 2
+    3300334: Stand1
+    3300336: Stand1 1
+    3300338: Stand1 2
+    3300340: Straw
+    3300342: Straw1
+    3300344: Straw1 1
+    3300346: Straw2
+    3300348: Straw2 1
+    3300350: Straw2 2
+    3300352: Straw3
+    3300354: Straw3 1
+    3300356: Straw_Holder
+    3300358: String
+    3300360: String 1
+    3300362: String1
+    3300364: String1 1
+    3300366: Sugar
+    3300368: Sugar 1
+    3300370: Sugar 10
+    3300372: Sugar 11
+    3300374: Sugar 12
+    3300376: Sugar 13
+    3300378: Sugar 2
+    3300380: Sugar 3
+    3300382: Sugar 4
+    3300384: Sugar 5
+    3300386: Sugar 6
+    3300388: Sugar 7
+    3300390: Sugar 8
+    3300392: Sugar 9
+    3300394: Sugar_Brown
+    3300396: Sugar_Brown 1
+    3300398: Sugar_Brown 2
+    3300400: Sugar_Brown 3
+    3300402: Sugar_Brown 4
+    3300404: Sugar_Brown 5
+    3300406: Sugar_Brown 6
+    3300408: Sugar_Lid
+    3300410: Sugar_Lid 1
+    3300412: Sugar_Lid 10
+    3300414: Sugar_Lid 11
+    3300416: Sugar_Lid 12
+    3300418: Sugar_Lid 13
+    3300420: Sugar_Lid 2
+    3300422: Sugar_Lid 3
+    3300424: Sugar_Lid 4
+    3300426: Sugar_Lid 5
+    3300428: Sugar_Lid 6
+    3300430: Sugar_Lid 7
+    3300432: Sugar_Lid 8
+    3300434: Sugar_Lid 9
+    3300436: Sugar_White
+    3300438: Sugar_White 1
+    3300440: Sugar_White 2
+    3300442: Sugar_White 3
+    3300444: Sugar_White 4
+    3300446: Sugar_White 5
+    3300448: Sugar_White1
+    3300450: Table
+    3300452: Table10
+    3300454: Table2
+    3300456: Table5
+    3300458: Table6
+    3300460: Table8
+    3300462: Table9
+    3300464: Till
+    3300466: Till3
+    3300468: Tip_Jar
+    3300470: Tray_Holder
+    3300472: Tray_Holder1
+    3300474: Tray_Holder1 1
+    3300476: Tray_Holder2
+    3300478: Welcome_Mat
+    4300000: Doughnut_Store
+    4300002: Food_Mat
+    4300004: Sign
+    4300006: Table10
+    4300008: Menu
+    4300010: Sugar_White
+    4300012: Sugar_Lid
+    4300014: Sugar
+    4300016: Sugar_Brown
+    4300018: Sugar_Lid
+    4300020: Sugar
+    4300022: Chair
+    4300024: Seat
+    4300026: Chair1
+    4300028: Seat
+    4300030: Table9
+    4300032: Menu
+    4300034: Sugar_White
+    4300036: Sugar_Lid
+    4300038: Sugar
+    4300040: Sugar_Brown
+    4300042: Sugar_Lid
+    4300044: Sugar
+    4300046: Chair
+    4300048: Seat
+    4300050: Chair1
+    4300052: Seat
+    4300054: Chair4
+    4300056: Seat
+    4300058: Table8
+    4300060: Menu
+    4300062: Sugar_White
+    4300064: Sugar_Lid
+    4300066: Sugar
+    4300068: Sugar_Brown
+    4300070: Sugar_Lid
+    4300072: Sugar
+    4300074: Chair
+    4300076: Seat
+    4300078: Chair1
+    4300080: Seat
+    4300082: Fast_Food_Door2
+    4300084: Handle
+    4300086: Fast_Food_Door1
+    4300088: Handle
+    4300090: Menu1
+    4300092: Sugar_White1
+    4300094: Sugar_Lid
+    4300096: Sugar
+    4300098: Sugar_Brown
+    4300100: Sugar_Lid
+    4300102: Sugar
+    4300104: Mug_of_Coffee3
+    4300106: Mug_of_Coffee2
+    4300108: Table6
+    4300110: Chair
+    4300112: Seat
+    4300114: Chair1
+    4300116: Seat
+    4300118: Sugar_White
+    4300120: Sugar_Lid
+    4300122: Sugar
+    4300124: Sugar_Brown
+    4300126: Sugar_Lid
+    4300128: Sugar
+    4300130: Menu
+    4300132: Doughnut_Case
+    4300134: Doughnut_Display_Tray6
+    4300136: Doughnut39
+    4300138: Doughnut38
+    4300140: Doughnut37
+    4300142: Doughnut36
+    4300144: Doughnut35
+    4300146: Doughnut34
+    4300148: Doughnut_Display_Tray4
+    4300150: Doughnut8
+    4300152: Tray_Holder1
+    4300154: Tray_Holder
+    4300156: Doughnut33
+    4300158: Doughnut32
+    4300160: Doughnut_Display_Tray2
+    4300162: Doughnut31
+    4300164: Doughnut30
+    4300166: Doughnut29
+    4300168: Doughnut28
+    4300170: Doughnut27
+    4300172: Doughnut26
+    4300174: Doughnut25
+    4300176: Doughnut24
+    4300178: Doughnut_Display_Tray5
+    4300180: Doughnut8
+    4300182: Doughnut1
+    4300184: Doughnut23
+    4300186: Doughnut22
+    4300188: Doughnut21
+    4300190: Doughnut20
+    4300192: Doughnut19
+    4300194: Doughnut18
+    4300196: Doughnut17
+    4300198: Doughnut16
+    4300200: Doughnut15
+    4300202: Doughnut_Display_Tray3
+    4300204: Tray_Holder2
+    4300206: Tray_Holder1
+    4300208: Doughnut10
+    4300210: Doughnut1
+    4300212: Doughnut14
+    4300214: Doughnut_Display_Tray1
+    4300216: Doughnut9
+    4300218: Doughnut13
+    4300220: Doughnut12
+    4300222: Doughnut11
+    4300224: Doughnut8
+    4300226: Table5
+    4300228: Chair
+    4300230: Seat
+    4300232: Chair1
+    4300234: Seat
+    4300236: Sugar_White
+    4300238: Sugar_Lid
+    4300240: Sugar
+    4300242: Sugar_Brown
+    4300244: Sugar_Lid
+    4300246: Sugar
+    4300248: Menu
+    4300250: Doughnut_Display2
+    4300252: Stand
+    4300254: Stand1
+    4300256: Doughnut_Display1
+    4300258: Stand
+    4300260: Stand1
+    4300262: Doughnut_Display
+    4300264: Stand
+    4300266: Stand1
+    4300268: Plant
+    4300270: Table
+    4300272: Menu
+    4300274: Sugar_White
+    4300276: Sugar_Lid
+    4300278: Sugar
+    4300280: Sugar_Brown
+    4300282: Sugar_Lid
+    4300284: Sugar
+    4300286: Chair
+    4300288: Seat
+    4300290: Chair1
+    4300292: Seat
+    4300294: Chair4
+    4300296: Seat
+    4300298: Mug_of_Coffee1
+    4300300: Mug_of_Coffee
+    4300302: Painting2
+    4300304: Painting1
+    4300306: Painting
+    4300308: Balloon
+    4300310: String1
+    4300312: String
+    4300314: Balloon1
+    4300316: String1
+    4300318: String
+    4300320: Straw_Holder
+    4300322: Straw2
+    4300324: Straw1
+    4300326: Straw2
+    4300328: Straw3
+    4300330: Straw
+    4300332: Straw1
+    4300334: Straw2
+    4300336: Straw3
+    4300338: Clothing_Store1
+    4300340: DoughnutCounter1
+    4300342: Counter_Top
+    4300344: Bin2
+    4300346: pasted__Bin_Bottom
+    4300348: pasted__Bin_Door
+    4300350: Bin1
+    4300352: pasted__Bin_Bottom
+    4300354: pasted__Bin_Door
+    4300356: Doughnut_Open
+    4300358: Doughnuts
+    4300360: Doughnut3
+    4300362: Doughnut5
+    4300364: Lid
+    4300366: Lid_Plastic
+    4300368: Doughnut2
+    4300370: Doughnut_Box
+    4300372: Lid
+    4300374: Lid_Plastic
+    4300376: Doughnuts
+    4300378: Doughnut3
+    4300380: Doughnut4
+    4300382: Doughnut5
+    4300384: Doughnut6
+    4300386: Doughnut7
+    4300388: Table2
+    4300390: Chair
+    4300392: Seat
+    4300394: Chair1
+    4300396: Seat
+    4300398: Chair3
+    4300400: Seat
+    4300402: Chair2
+    4300404: Seat
+    4300406: Laptop
+    4300408: DoughnutCounter
+    4300410: Counter_Top
+    4300412: Till3
+    4300414: Screen
+    4300416: Credit_Card_Scanner1
+    4300418: Till
+    4300420: Screen
+    4300422: Credit_Card_Scanner1
+    4300424: Tip_Jar
+    4300426: pasted__Money
+    4300428: pasted__Coin
+    4300430: pasted__Coin1
+    4300432: pasted__Coin2
+    4300434: pasted__Tip_Jar_Lid
+    4300436: Clothing_Store_Wall
+    4300438: Welcome_Mat
+    4300440: Mat_Part
+    4300442: Divider
+    4300444: Fence1
+    4300446: Fence
+    4300448: Fence2
+    4300450: Fast_Food_Door
+    4300452: Handle
+    4300454: Boxes
+    4300456: Box2
+    4300458: Box1
+    4300460: Light
+    4300462: LightBulb
+    4300464: Clothing_Store_Ceiling
+    4300466: Light1
+    4300468: LightBulb
+    4300470: GoNut_Logo
+    4300472: G
+    4300474: GoNut_Logo1
+    4300476: G
+    4300478: Doughnut_Store_Ceiling
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: e016b40eb6ac76a48ac9312bec137ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown
+    second: {fileID: 2100000, guid: 87fb1d3a064d451428d0400f48638b99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown2
+    second: {fileID: 2100000, guid: 4448f377ecd06e844ac7a312e7baca13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown3
+    second: {fileID: 2100000, guid: d1ead3b63377915499af7b73b1bc3a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown4
+    second: {fileID: 2100000, guid: b473ce9fd8c6ef84d9ff7f007ac54cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clear_Glass
+    second: {fileID: 2100000, guid: 3d4f994946782b84eaaa5feccc820a31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 5cb44d6f1392f7749a0061535ef357dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 56f6506d105f2824da217bedcf509db9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green3
+    second: {fileID: 2100000, guid: 60d4b1dae2a41c8428d4bc936d5cfbc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey2
+    second: {fileID: 2100000, guid: f53d5f30481e3e04498254dd625e848c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey3
+    second: {fileID: 2100000, guid: 8061401693c277c44bd4169b3ad86f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lime
+    second: {fileID: 2100000, guid: 291c1296819ba5647a2e29e1e518c78e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink
+    second: {fileID: 2100000, guid: 5482af361bbccde429b132d117093db3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: be08ed524b2291643815283334710d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Tile_Floor
+    second: {fileID: 2100000, guid: 3aca8870849a42c408535e25facc6d53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Texture_Green
+    second: {fileID: 2100000, guid: 7a466161278676740aae7c6398330a47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 95e66d2991dfe8b49b3edd4bd6bc963f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White2
+    second: {fileID: 2100000, guid: 5850d2d12c24a7243a15571576e46f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow
+    second: {fileID: 2100000, guid: e090771ae4a4ae545bd91e4fbb7c9ece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow2
+    second: {fileID: 2100000, guid: 30e989b318543ff418f1dd96b5be1296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow3
+    second: {fileID: 2100000, guid: ad6a543738064a24594aae4dd94e6a8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 715ad847dddf4854ca43dc9266354561, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Brown2
+    second: {fileID: 2100000, guid: bbe4a822ebf21b74d83a1dd017bf47c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Green3
+    second: {fileID: 2100000, guid: bd4bf28c86764144298fb93c83094c38, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

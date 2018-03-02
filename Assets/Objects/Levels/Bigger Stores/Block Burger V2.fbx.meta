@@ -1,0 +1,1606 @@
+fileFormatVersion: 2
+guid: 2b4368ae7e50d3e41a6a853e3d98b744
+timeCreated: 1519154742
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bin
+    100002: Bin1
+    100004: Bin_Bottom
+    100006: Bin_Bottom 1
+    100008: Bin_Door
+    100010: Bin_Door 1
+    100012: //RootNode
+    100014: Box1
+    100016: Box2
+    100018: Boxes
+    100020: Bun2
+    100022: Bun2 1
+    100024: Bun2 2
+    100026: Bun2 3
+    100028: Bun2 4
+    100030: Bun2 5
+    100032: Bun2 6
+    100034: Bun2 7
+    100036: Burger
+    100038: Burger 1
+    100040: Burger1
+    100042: Burger1 1
+    100044: Burger2
+    100046: Burger2 1
+    100048: Burger3
+    100050: Burger3 1
+    100052: Burger_Box
+    100054: Chair
+    100056: Chair 1
+    100058: Chair 10
+    100060: Chair 11
+    100062: Chair 2
+    100064: Chair 3
+    100066: Chair 4
+    100068: Chair 5
+    100070: Chair 6
+    100072: Chair 7
+    100074: Chair 8
+    100076: Chair 9
+    100078: Chair3
+    100080: Chair3 1
+    100082: Chair3 2
+    100084: Chair3 3
+    100086: Chair3 4
+    100088: Chair3 5
+    100090: Chair4
+    100092: Chair4 1
+    100094: Chair4 2
+    100096: Chair4 3
+    100098: Chair4 4
+    100100: Chair4 5
+    100102: Chair_Leg
+    100104: Chair_Leg 1
+    100106: Chair_Leg 10
+    100108: Chair_Leg 11
+    100110: Chair_Leg 2
+    100112: Chair_Leg 3
+    100114: Chair_Leg 4
+    100116: Chair_Leg 5
+    100118: Chair_Leg 6
+    100120: Chair_Leg 7
+    100122: Chair_Leg 8
+    100124: Chair_Leg 9
+    100126: Chips
+    100128: Chips 1
+    100130: Chips2
+    100132: Chips2 1
+    100134: Chips3
+    100136: Chips3 1
+    100138: Chips4
+    100140: Chips4 1
+    100142: Chips_Empty
+    100144: Chips_Empty1
+    100146: Chips_Empty2
+    100148: Chips_Food
+    100150: Chips_Food 1
+    100152: Chips_Food 2
+    100154: Chips_Food 3
+    100156: Chips_Food 4
+    100158: Chips_Food 5
+    100160: Chips_Food 6
+    100162: Chips_Food 7
+    100164: Coin
+    100166: Coin1
+    100168: Coin2
+    100170: Cooked_Burger
+    100172: Counter
+    100174: Counter_2
+    100176: Counter_Door
+    100178: Counter_Top
+    100180: Counter_Top 1
+    100182: Credit_Card_Scanner1
+    100184: Credit_Card_Scanner1 1
+    100186: Credit_Card_Scanner1 2
+    100188: Cube21
+    100190: Cup1
+    100192: Cup2
+    100194: Cup3
+    100196: Cup4
+    100198: Cupboard
+    100200: Cupboard1
+    100202: Cupboard2
+    100204: Cups
+    100206: Deep_Fryer
+    100208: Deep_Fryer1
+    100210: Deep_Fryer2
+    100212: Deep_Fryer_Machine
+    100214: Display_Stand
+    100216: Display_Stand 1
+    100218: Divider
+    100220: Drink
+    100222: Drink 1
+    100224: Drink_Flavour
+    100226: Drink_Flavour1
+    100228: Drink_Flavour2
+    100230: Drink_Flavour3
+    100232: Drink_Flavour4
+    100234: Drink_Machine
+    100236: Fast_Food_Ceiling
+    100238: Fast_Food_Door
+    100240: Fast_Food_Wall
+    100242: Fence
+    100244: Fence1
+    100246: Fence2
+    100248: Flashing_Light
+    100250: Food_Display
+    100252: Food_Display1
+    100254: Food_Display2
+    100256: Food_Display_Stand
+    100258: Food_Display_Stand 1
+    100260: Food_Poster
+    100262: Food_Poster1
+    100264: Frame1
+    100266: Frame2
+    100268: Frames
+    100270: Grill
+    100272: Grill1
+    100274: Handle
+    100276: Handle 1
+    100278: Handle 2
+    100280: Handle 3
+    100282: Handle1
+    100284: Handle1 1
+    100286: Handle1 2
+    100288: Hob
+    100290: Hob 1
+    100292: Hob1
+    100294: Ingredient
+    100296: Ingredient 1
+    100298: Ingredient 2
+    100300: Jar
+    100302: Jar1
+    100304: Jar2
+    100306: Ketchup2
+    100308: Ketchup2 1
+    100310: Ketchup2 2
+    100312: Ketchup2 3
+    100314: Ketchup2 4
+    100316: Ketchup2 5
+    100318: Ketchup3
+    100320: Knob
+    100322: Knob1
+    100324: Knob2
+    100326: Knob2 1
+    100328: Knob3
+    100330: Knob3 1
+    100332: Lettuce
+    100334: Lettuce 1
+    100336: Lettuce 2
+    100338: Lettuce 3
+    100340: Lettuce 4
+    100342: Lettuce 5
+    100344: Lettuce 6
+    100346: Lettuce 7
+    100348: Lid
+    100350: Lid 1
+    100352: Lid 2
+    100354: Lid 3
+    100356: Lid 4
+    100358: Light10
+    100360: Light11
+    100362: Light2
+    100364: Light4
+    100366: Light5
+    100368: Light6
+    100370: Light7
+    100372: Light8
+    100374: Light9
+    100376: Light_Bulb
+    100378: Light_Bulb 1
+    100380: Light_Bulb 2
+    100382: Light_Bulb 3
+    100384: Light_Bulb 4
+    100386: Light_Bulb 5
+    100388: Light_Bulb 6
+    100390: Light_Bulb 7
+    100392: Light_Bulb 8
+    100394: Mat
+    100396: Mat_Part
+    100398: Mat_Part 1
+    100400: Mat_Part 2
+    100402: Mat_Part 3
+    100404: Meat1
+    100406: Meat1 1
+    100408: Meat1 2
+    100410: Meat1 3
+    100412: Meat1 4
+    100414: Meat1 5
+    100416: Meat1 6
+    100418: Meat1 7
+    100420: Money
+    100422: Mustard2
+    100424: Mustard2 1
+    100426: Mustard2 2
+    100428: Mustard2 3
+    100430: Mustard2 4
+    100432: Mustard2 5
+    100434: Mustard3
+    100436: Napkin
+    100438: Napkin 1
+    100440: Napkin_Dispenser2
+    100442: Napkin_Dispenser3
+    100444: Oil
+    100446: Screen
+    100448: Screen 1
+    100450: Screen 2
+    100452: Seat
+    100454: Seat 1
+    100456: Seat 10
+    100458: Seat 11
+    100460: Seat 2
+    100462: Seat 3
+    100464: Seat 4
+    100466: Seat 5
+    100468: Seat 6
+    100470: Seat 7
+    100472: Seat 8
+    100474: Seat 9
+    100476: Smoke_Alarm
+    100478: Spatula
+    100480: Straw
+    100482: Straw 1
+    100484: Table
+    100486: Table1
+    100488: Table2
+    100490: Table3
+    100492: Table4
+    100494: Table5
+    100496: Table_Small
+    100498: Table_Small1
+    100500: Table_Small2
+    100502: Table_Small3
+    100504: Table_Small4
+    100506: Table_Small5
+    100508: Table_Stand
+    100510: Table_Stand 1
+    100512: Table_Stand 10
+    100514: Table_Stand 11
+    100516: Table_Stand 2
+    100518: Table_Stand 3
+    100520: Table_Stand 4
+    100522: Table_Stand 5
+    100524: Table_Stand 6
+    100526: Table_Stand 7
+    100528: Table_Stand 8
+    100530: Table_Stand 9
+    100532: Takeaway
+    100534: Till
+    100536: Till1
+    100538: Till2
+    100540: Tip_Jar
+    100542: Tip_Jar_Lid
+    100544: Tray
+    100546: Tray1
+    100548: Uncooked_Burger
+    100550: Uncooked_Burger1
+    100552: Welcome_Mat
+    100554: Welcome_Mat1
+    100556: Welcome_Mat2
+    100558: Welcome_Mat3
+    400000: Bin
+    400002: Bin1
+    400004: Bin_Bottom
+    400006: Bin_Bottom 1
+    400008: Bin_Door
+    400010: Bin_Door 1
+    400012: //RootNode
+    400014: Box1
+    400016: Box2
+    400018: Boxes
+    400020: Bun2
+    400022: Bun2 1
+    400024: Bun2 2
+    400026: Bun2 3
+    400028: Bun2 4
+    400030: Bun2 5
+    400032: Bun2 6
+    400034: Bun2 7
+    400036: Burger
+    400038: Burger 1
+    400040: Burger1
+    400042: Burger1 1
+    400044: Burger2
+    400046: Burger2 1
+    400048: Burger3
+    400050: Burger3 1
+    400052: Burger_Box
+    400054: Chair
+    400056: Chair 1
+    400058: Chair 10
+    400060: Chair 11
+    400062: Chair 2
+    400064: Chair 3
+    400066: Chair 4
+    400068: Chair 5
+    400070: Chair 6
+    400072: Chair 7
+    400074: Chair 8
+    400076: Chair 9
+    400078: Chair3
+    400080: Chair3 1
+    400082: Chair3 2
+    400084: Chair3 3
+    400086: Chair3 4
+    400088: Chair3 5
+    400090: Chair4
+    400092: Chair4 1
+    400094: Chair4 2
+    400096: Chair4 3
+    400098: Chair4 4
+    400100: Chair4 5
+    400102: Chair_Leg
+    400104: Chair_Leg 1
+    400106: Chair_Leg 10
+    400108: Chair_Leg 11
+    400110: Chair_Leg 2
+    400112: Chair_Leg 3
+    400114: Chair_Leg 4
+    400116: Chair_Leg 5
+    400118: Chair_Leg 6
+    400120: Chair_Leg 7
+    400122: Chair_Leg 8
+    400124: Chair_Leg 9
+    400126: Chips
+    400128: Chips 1
+    400130: Chips2
+    400132: Chips2 1
+    400134: Chips3
+    400136: Chips3 1
+    400138: Chips4
+    400140: Chips4 1
+    400142: Chips_Empty
+    400144: Chips_Empty1
+    400146: Chips_Empty2
+    400148: Chips_Food
+    400150: Chips_Food 1
+    400152: Chips_Food 2
+    400154: Chips_Food 3
+    400156: Chips_Food 4
+    400158: Chips_Food 5
+    400160: Chips_Food 6
+    400162: Chips_Food 7
+    400164: Coin
+    400166: Coin1
+    400168: Coin2
+    400170: Cooked_Burger
+    400172: Counter
+    400174: Counter_2
+    400176: Counter_Door
+    400178: Counter_Top
+    400180: Counter_Top 1
+    400182: Credit_Card_Scanner1
+    400184: Credit_Card_Scanner1 1
+    400186: Credit_Card_Scanner1 2
+    400188: Cube21
+    400190: Cup1
+    400192: Cup2
+    400194: Cup3
+    400196: Cup4
+    400198: Cupboard
+    400200: Cupboard1
+    400202: Cupboard2
+    400204: Cups
+    400206: Deep_Fryer
+    400208: Deep_Fryer1
+    400210: Deep_Fryer2
+    400212: Deep_Fryer_Machine
+    400214: Display_Stand
+    400216: Display_Stand 1
+    400218: Divider
+    400220: Drink
+    400222: Drink 1
+    400224: Drink_Flavour
+    400226: Drink_Flavour1
+    400228: Drink_Flavour2
+    400230: Drink_Flavour3
+    400232: Drink_Flavour4
+    400234: Drink_Machine
+    400236: Fast_Food_Ceiling
+    400238: Fast_Food_Door
+    400240: Fast_Food_Wall
+    400242: Fence
+    400244: Fence1
+    400246: Fence2
+    400248: Flashing_Light
+    400250: Food_Display
+    400252: Food_Display1
+    400254: Food_Display2
+    400256: Food_Display_Stand
+    400258: Food_Display_Stand 1
+    400260: Food_Poster
+    400262: Food_Poster1
+    400264: Frame1
+    400266: Frame2
+    400268: Frames
+    400270: Grill
+    400272: Grill1
+    400274: Handle
+    400276: Handle 1
+    400278: Handle 2
+    400280: Handle 3
+    400282: Handle1
+    400284: Handle1 1
+    400286: Handle1 2
+    400288: Hob
+    400290: Hob 1
+    400292: Hob1
+    400294: Ingredient
+    400296: Ingredient 1
+    400298: Ingredient 2
+    400300: Jar
+    400302: Jar1
+    400304: Jar2
+    400306: Ketchup2
+    400308: Ketchup2 1
+    400310: Ketchup2 2
+    400312: Ketchup2 3
+    400314: Ketchup2 4
+    400316: Ketchup2 5
+    400318: Ketchup3
+    400320: Knob
+    400322: Knob1
+    400324: Knob2
+    400326: Knob2 1
+    400328: Knob3
+    400330: Knob3 1
+    400332: Lettuce
+    400334: Lettuce 1
+    400336: Lettuce 2
+    400338: Lettuce 3
+    400340: Lettuce 4
+    400342: Lettuce 5
+    400344: Lettuce 6
+    400346: Lettuce 7
+    400348: Lid
+    400350: Lid 1
+    400352: Lid 2
+    400354: Lid 3
+    400356: Lid 4
+    400358: Light10
+    400360: Light11
+    400362: Light2
+    400364: Light4
+    400366: Light5
+    400368: Light6
+    400370: Light7
+    400372: Light8
+    400374: Light9
+    400376: Light_Bulb
+    400378: Light_Bulb 1
+    400380: Light_Bulb 2
+    400382: Light_Bulb 3
+    400384: Light_Bulb 4
+    400386: Light_Bulb 5
+    400388: Light_Bulb 6
+    400390: Light_Bulb 7
+    400392: Light_Bulb 8
+    400394: Mat
+    400396: Mat_Part
+    400398: Mat_Part 1
+    400400: Mat_Part 2
+    400402: Mat_Part 3
+    400404: Meat1
+    400406: Meat1 1
+    400408: Meat1 2
+    400410: Meat1 3
+    400412: Meat1 4
+    400414: Meat1 5
+    400416: Meat1 6
+    400418: Meat1 7
+    400420: Money
+    400422: Mustard2
+    400424: Mustard2 1
+    400426: Mustard2 2
+    400428: Mustard2 3
+    400430: Mustard2 4
+    400432: Mustard2 5
+    400434: Mustard3
+    400436: Napkin
+    400438: Napkin 1
+    400440: Napkin_Dispenser2
+    400442: Napkin_Dispenser3
+    400444: Oil
+    400446: Screen
+    400448: Screen 1
+    400450: Screen 2
+    400452: Seat
+    400454: Seat 1
+    400456: Seat 10
+    400458: Seat 11
+    400460: Seat 2
+    400462: Seat 3
+    400464: Seat 4
+    400466: Seat 5
+    400468: Seat 6
+    400470: Seat 7
+    400472: Seat 8
+    400474: Seat 9
+    400476: Smoke_Alarm
+    400478: Spatula
+    400480: Straw
+    400482: Straw 1
+    400484: Table
+    400486: Table1
+    400488: Table2
+    400490: Table3
+    400492: Table4
+    400494: Table5
+    400496: Table_Small
+    400498: Table_Small1
+    400500: Table_Small2
+    400502: Table_Small3
+    400504: Table_Small4
+    400506: Table_Small5
+    400508: Table_Stand
+    400510: Table_Stand 1
+    400512: Table_Stand 10
+    400514: Table_Stand 11
+    400516: Table_Stand 2
+    400518: Table_Stand 3
+    400520: Table_Stand 4
+    400522: Table_Stand 5
+    400524: Table_Stand 6
+    400526: Table_Stand 7
+    400528: Table_Stand 8
+    400530: Table_Stand 9
+    400532: Takeaway
+    400534: Till
+    400536: Till1
+    400538: Till2
+    400540: Tip_Jar
+    400542: Tip_Jar_Lid
+    400544: Tray
+    400546: Tray1
+    400548: Uncooked_Burger
+    400550: Uncooked_Burger1
+    400552: Welcome_Mat
+    400554: Welcome_Mat1
+    400556: Welcome_Mat2
+    400558: Welcome_Mat3
+    2300000: Bin
+    2300002: Bin1
+    2300004: Bin_Bottom
+    2300006: Bin_Bottom 1
+    2300008: Bin_Door
+    2300010: Bin_Door 1
+    2300012: //RootNode
+    2300014: Box1
+    2300016: Box2
+    2300018: Boxes
+    2300020: Bun2
+    2300022: Bun2 1
+    2300024: Bun2 2
+    2300026: Bun2 3
+    2300028: Bun2 4
+    2300030: Bun2 5
+    2300032: Bun2 6
+    2300034: Bun2 7
+    2300036: Burger
+    2300038: Burger 1
+    2300040: Burger1
+    2300042: Burger1 1
+    2300044: Burger2
+    2300046: Burger2 1
+    2300048: Burger3
+    2300050: Burger3 1
+    2300052: Burger_Box
+    2300054: Chair
+    2300056: Chair 1
+    2300058: Chair 10
+    2300060: Chair 11
+    2300062: Chair 2
+    2300064: Chair 3
+    2300066: Chair 4
+    2300068: Chair 5
+    2300070: Chair 6
+    2300072: Chair 7
+    2300074: Chair 8
+    2300076: Chair 9
+    2300078: Chair3
+    2300080: Chair3 1
+    2300082: Chair3 2
+    2300084: Chair3 3
+    2300086: Chair3 4
+    2300088: Chair3 5
+    2300090: Chair4
+    2300092: Chair4 1
+    2300094: Chair4 2
+    2300096: Chair4 3
+    2300098: Chair4 4
+    2300100: Chair4 5
+    2300102: Chair_Leg
+    2300104: Chair_Leg 1
+    2300106: Chair_Leg 10
+    2300108: Chair_Leg 11
+    2300110: Chair_Leg 2
+    2300112: Chair_Leg 3
+    2300114: Chair_Leg 4
+    2300116: Chair_Leg 5
+    2300118: Chair_Leg 6
+    2300120: Chair_Leg 7
+    2300122: Chair_Leg 8
+    2300124: Chair_Leg 9
+    2300126: Chips
+    2300128: Chips 1
+    2300130: Chips2
+    2300132: Chips2 1
+    2300134: Chips3
+    2300136: Chips3 1
+    2300138: Chips4
+    2300140: Chips4 1
+    2300142: Chips_Empty
+    2300144: Chips_Empty1
+    2300146: Chips_Empty2
+    2300148: Chips_Food
+    2300150: Chips_Food 1
+    2300152: Chips_Food 2
+    2300154: Chips_Food 3
+    2300156: Chips_Food 4
+    2300158: Chips_Food 5
+    2300160: Chips_Food 6
+    2300162: Chips_Food 7
+    2300164: Coin
+    2300166: Coin1
+    2300168: Coin2
+    2300170: Cooked_Burger
+    2300172: Counter
+    2300174: Counter_2
+    2300176: Counter_Door
+    2300178: Counter_Top
+    2300180: Counter_Top 1
+    2300182: Credit_Card_Scanner1
+    2300184: Credit_Card_Scanner1 1
+    2300186: Credit_Card_Scanner1 2
+    2300188: Cube21
+    2300190: Cup1
+    2300192: Cup2
+    2300194: Cup3
+    2300196: Cup4
+    2300198: Cupboard
+    2300200: Cupboard1
+    2300202: Cupboard2
+    2300204: Cups
+    2300206: Deep_Fryer
+    2300208: Deep_Fryer1
+    2300210: Deep_Fryer2
+    2300212: Deep_Fryer_Machine
+    2300214: Display_Stand
+    2300216: Display_Stand 1
+    2300218: Divider
+    2300220: Drink
+    2300222: Drink 1
+    2300224: Drink_Flavour
+    2300226: Drink_Flavour1
+    2300228: Drink_Flavour2
+    2300230: Drink_Flavour3
+    2300232: Drink_Flavour4
+    2300234: Drink_Machine
+    2300236: Fast_Food_Ceiling
+    2300238: Fast_Food_Door
+    2300240: Fast_Food_Wall
+    2300242: Fence
+    2300244: Fence1
+    2300246: Fence2
+    2300248: Flashing_Light
+    2300250: Food_Display
+    2300252: Food_Display1
+    2300254: Food_Display2
+    2300256: Food_Display_Stand
+    2300258: Food_Display_Stand 1
+    2300260: Food_Poster
+    2300262: Food_Poster1
+    2300264: Frame1
+    2300266: Frame2
+    2300268: Frames
+    2300270: Grill
+    2300272: Grill1
+    2300274: Handle
+    2300276: Handle 1
+    2300278: Handle 2
+    2300280: Handle 3
+    2300282: Handle1
+    2300284: Handle1 1
+    2300286: Handle1 2
+    2300288: Hob
+    2300290: Hob 1
+    2300292: Hob1
+    2300294: Ingredient
+    2300296: Ingredient 1
+    2300298: Ingredient 2
+    2300300: Jar
+    2300302: Jar1
+    2300304: Jar2
+    2300306: Ketchup2
+    2300308: Ketchup2 1
+    2300310: Ketchup2 2
+    2300312: Ketchup2 3
+    2300314: Ketchup2 4
+    2300316: Ketchup2 5
+    2300318: Ketchup3
+    2300320: Knob
+    2300322: Knob1
+    2300324: Knob2
+    2300326: Knob2 1
+    2300328: Knob3
+    2300330: Knob3 1
+    2300332: Lettuce
+    2300334: Lettuce 1
+    2300336: Lettuce 2
+    2300338: Lettuce 3
+    2300340: Lettuce 4
+    2300342: Lettuce 5
+    2300344: Lettuce 6
+    2300346: Lettuce 7
+    2300348: Lid
+    2300350: Lid 1
+    2300352: Lid 2
+    2300354: Lid 3
+    2300356: Lid 4
+    2300358: Light10
+    2300360: Light11
+    2300362: Light2
+    2300364: Light4
+    2300366: Light5
+    2300368: Light6
+    2300370: Light7
+    2300372: Light8
+    2300374: Light9
+    2300376: Light_Bulb
+    2300378: Light_Bulb 1
+    2300380: Light_Bulb 2
+    2300382: Light_Bulb 3
+    2300384: Light_Bulb 4
+    2300386: Light_Bulb 5
+    2300388: Light_Bulb 6
+    2300390: Light_Bulb 7
+    2300392: Light_Bulb 8
+    2300394: Mat
+    2300396: Mat_Part
+    2300398: Mat_Part 1
+    2300400: Mat_Part 2
+    2300402: Mat_Part 3
+    2300404: Meat1
+    2300406: Meat1 1
+    2300408: Meat1 2
+    2300410: Meat1 3
+    2300412: Meat1 4
+    2300414: Meat1 5
+    2300416: Meat1 6
+    2300418: Meat1 7
+    2300420: Money
+    2300422: Mustard2
+    2300424: Mustard2 1
+    2300426: Mustard2 2
+    2300428: Mustard2 3
+    2300430: Mustard2 4
+    2300432: Mustard2 5
+    2300434: Mustard3
+    2300436: Napkin
+    2300438: Napkin 1
+    2300440: Napkin_Dispenser2
+    2300442: Napkin_Dispenser3
+    2300444: Oil
+    2300446: Screen
+    2300448: Screen 1
+    2300450: Screen 2
+    2300452: Seat
+    2300454: Seat 1
+    2300456: Seat 10
+    2300458: Seat 11
+    2300460: Seat 2
+    2300462: Seat 3
+    2300464: Seat 4
+    2300466: Seat 5
+    2300468: Seat 6
+    2300470: Seat 7
+    2300472: Seat 8
+    2300474: Seat 9
+    2300476: Smoke_Alarm
+    2300478: Spatula
+    2300480: Straw
+    2300482: Straw 1
+    2300484: Table
+    2300486: Table1
+    2300488: Table2
+    2300490: Table3
+    2300492: Table4
+    2300494: Table5
+    2300496: Table_Small
+    2300498: Table_Small1
+    2300500: Table_Small2
+    2300502: Table_Small3
+    2300504: Table_Small4
+    2300506: Table_Small5
+    2300508: Table_Stand
+    2300510: Table_Stand 1
+    2300512: Table_Stand 10
+    2300514: Table_Stand 11
+    2300516: Table_Stand 2
+    2300518: Table_Stand 3
+    2300520: Table_Stand 4
+    2300522: Table_Stand 5
+    2300524: Table_Stand 6
+    2300526: Table_Stand 7
+    2300528: Table_Stand 8
+    2300530: Table_Stand 9
+    2300532: Takeaway
+    2300534: Till
+    2300536: Till1
+    2300538: Till2
+    2300540: Tip_Jar
+    2300542: Tip_Jar_Lid
+    2300544: Tray
+    2300546: Tray1
+    2300548: Uncooked_Burger
+    2300550: Uncooked_Burger1
+    2300552: Welcome_Mat
+    2300554: Welcome_Mat1
+    2300556: Welcome_Mat2
+    2300558: Welcome_Mat3
+    3300000: Bin
+    3300002: Bin1
+    3300004: Bin_Bottom
+    3300006: Bin_Bottom 1
+    3300008: Bin_Door
+    3300010: Bin_Door 1
+    3300012: //RootNode
+    3300014: Box1
+    3300016: Box2
+    3300018: Boxes
+    3300020: Bun2
+    3300022: Bun2 1
+    3300024: Bun2 2
+    3300026: Bun2 3
+    3300028: Bun2 4
+    3300030: Bun2 5
+    3300032: Bun2 6
+    3300034: Bun2 7
+    3300036: Burger
+    3300038: Burger 1
+    3300040: Burger1
+    3300042: Burger1 1
+    3300044: Burger2
+    3300046: Burger2 1
+    3300048: Burger3
+    3300050: Burger3 1
+    3300052: Burger_Box
+    3300054: Chair
+    3300056: Chair 1
+    3300058: Chair 10
+    3300060: Chair 11
+    3300062: Chair 2
+    3300064: Chair 3
+    3300066: Chair 4
+    3300068: Chair 5
+    3300070: Chair 6
+    3300072: Chair 7
+    3300074: Chair 8
+    3300076: Chair 9
+    3300078: Chair3
+    3300080: Chair3 1
+    3300082: Chair3 2
+    3300084: Chair3 3
+    3300086: Chair3 4
+    3300088: Chair3 5
+    3300090: Chair4
+    3300092: Chair4 1
+    3300094: Chair4 2
+    3300096: Chair4 3
+    3300098: Chair4 4
+    3300100: Chair4 5
+    3300102: Chair_Leg
+    3300104: Chair_Leg 1
+    3300106: Chair_Leg 10
+    3300108: Chair_Leg 11
+    3300110: Chair_Leg 2
+    3300112: Chair_Leg 3
+    3300114: Chair_Leg 4
+    3300116: Chair_Leg 5
+    3300118: Chair_Leg 6
+    3300120: Chair_Leg 7
+    3300122: Chair_Leg 8
+    3300124: Chair_Leg 9
+    3300126: Chips
+    3300128: Chips 1
+    3300130: Chips2
+    3300132: Chips2 1
+    3300134: Chips3
+    3300136: Chips3 1
+    3300138: Chips4
+    3300140: Chips4 1
+    3300142: Chips_Empty
+    3300144: Chips_Empty1
+    3300146: Chips_Empty2
+    3300148: Chips_Food
+    3300150: Chips_Food 1
+    3300152: Chips_Food 2
+    3300154: Chips_Food 3
+    3300156: Chips_Food 4
+    3300158: Chips_Food 5
+    3300160: Chips_Food 6
+    3300162: Chips_Food 7
+    3300164: Coin
+    3300166: Coin1
+    3300168: Coin2
+    3300170: Cooked_Burger
+    3300172: Counter
+    3300174: Counter_2
+    3300176: Counter_Door
+    3300178: Counter_Top
+    3300180: Counter_Top 1
+    3300182: Credit_Card_Scanner1
+    3300184: Credit_Card_Scanner1 1
+    3300186: Credit_Card_Scanner1 2
+    3300188: Cube21
+    3300190: Cup1
+    3300192: Cup2
+    3300194: Cup3
+    3300196: Cup4
+    3300198: Cupboard
+    3300200: Cupboard1
+    3300202: Cupboard2
+    3300204: Cups
+    3300206: Deep_Fryer
+    3300208: Deep_Fryer1
+    3300210: Deep_Fryer2
+    3300212: Deep_Fryer_Machine
+    3300214: Display_Stand
+    3300216: Display_Stand 1
+    3300218: Divider
+    3300220: Drink
+    3300222: Drink 1
+    3300224: Drink_Flavour
+    3300226: Drink_Flavour1
+    3300228: Drink_Flavour2
+    3300230: Drink_Flavour3
+    3300232: Drink_Flavour4
+    3300234: Drink_Machine
+    3300236: Fast_Food_Ceiling
+    3300238: Fast_Food_Door
+    3300240: Fast_Food_Wall
+    3300242: Fence
+    3300244: Fence1
+    3300246: Fence2
+    3300248: Flashing_Light
+    3300250: Food_Display
+    3300252: Food_Display1
+    3300254: Food_Display2
+    3300256: Food_Display_Stand
+    3300258: Food_Display_Stand 1
+    3300260: Food_Poster
+    3300262: Food_Poster1
+    3300264: Frame1
+    3300266: Frame2
+    3300268: Frames
+    3300270: Grill
+    3300272: Grill1
+    3300274: Handle
+    3300276: Handle 1
+    3300278: Handle 2
+    3300280: Handle 3
+    3300282: Handle1
+    3300284: Handle1 1
+    3300286: Handle1 2
+    3300288: Hob
+    3300290: Hob 1
+    3300292: Hob1
+    3300294: Ingredient
+    3300296: Ingredient 1
+    3300298: Ingredient 2
+    3300300: Jar
+    3300302: Jar1
+    3300304: Jar2
+    3300306: Ketchup2
+    3300308: Ketchup2 1
+    3300310: Ketchup2 2
+    3300312: Ketchup2 3
+    3300314: Ketchup2 4
+    3300316: Ketchup2 5
+    3300318: Ketchup3
+    3300320: Knob
+    3300322: Knob1
+    3300324: Knob2
+    3300326: Knob2 1
+    3300328: Knob3
+    3300330: Knob3 1
+    3300332: Lettuce
+    3300334: Lettuce 1
+    3300336: Lettuce 2
+    3300338: Lettuce 3
+    3300340: Lettuce 4
+    3300342: Lettuce 5
+    3300344: Lettuce 6
+    3300346: Lettuce 7
+    3300348: Lid
+    3300350: Lid 1
+    3300352: Lid 2
+    3300354: Lid 3
+    3300356: Lid 4
+    3300358: Light10
+    3300360: Light11
+    3300362: Light2
+    3300364: Light4
+    3300366: Light5
+    3300368: Light6
+    3300370: Light7
+    3300372: Light8
+    3300374: Light9
+    3300376: Light_Bulb
+    3300378: Light_Bulb 1
+    3300380: Light_Bulb 2
+    3300382: Light_Bulb 3
+    3300384: Light_Bulb 4
+    3300386: Light_Bulb 5
+    3300388: Light_Bulb 6
+    3300390: Light_Bulb 7
+    3300392: Light_Bulb 8
+    3300394: Mat
+    3300396: Mat_Part
+    3300398: Mat_Part 1
+    3300400: Mat_Part 2
+    3300402: Mat_Part 3
+    3300404: Meat1
+    3300406: Meat1 1
+    3300408: Meat1 2
+    3300410: Meat1 3
+    3300412: Meat1 4
+    3300414: Meat1 5
+    3300416: Meat1 6
+    3300418: Meat1 7
+    3300420: Money
+    3300422: Mustard2
+    3300424: Mustard2 1
+    3300426: Mustard2 2
+    3300428: Mustard2 3
+    3300430: Mustard2 4
+    3300432: Mustard2 5
+    3300434: Mustard3
+    3300436: Napkin
+    3300438: Napkin 1
+    3300440: Napkin_Dispenser2
+    3300442: Napkin_Dispenser3
+    3300444: Oil
+    3300446: Screen
+    3300448: Screen 1
+    3300450: Screen 2
+    3300452: Seat
+    3300454: Seat 1
+    3300456: Seat 10
+    3300458: Seat 11
+    3300460: Seat 2
+    3300462: Seat 3
+    3300464: Seat 4
+    3300466: Seat 5
+    3300468: Seat 6
+    3300470: Seat 7
+    3300472: Seat 8
+    3300474: Seat 9
+    3300476: Smoke_Alarm
+    3300478: Spatula
+    3300480: Straw
+    3300482: Straw 1
+    3300484: Table
+    3300486: Table1
+    3300488: Table2
+    3300490: Table3
+    3300492: Table4
+    3300494: Table5
+    3300496: Table_Small
+    3300498: Table_Small1
+    3300500: Table_Small2
+    3300502: Table_Small3
+    3300504: Table_Small4
+    3300506: Table_Small5
+    3300508: Table_Stand
+    3300510: Table_Stand 1
+    3300512: Table_Stand 10
+    3300514: Table_Stand 11
+    3300516: Table_Stand 2
+    3300518: Table_Stand 3
+    3300520: Table_Stand 4
+    3300522: Table_Stand 5
+    3300524: Table_Stand 6
+    3300526: Table_Stand 7
+    3300528: Table_Stand 8
+    3300530: Table_Stand 9
+    3300532: Takeaway
+    3300534: Till
+    3300536: Till1
+    3300538: Till2
+    3300540: Tip_Jar
+    3300542: Tip_Jar_Lid
+    3300544: Tray
+    3300546: Tray1
+    3300548: Uncooked_Burger
+    3300550: Uncooked_Burger1
+    3300552: Welcome_Mat
+    3300554: Welcome_Mat1
+    3300556: Welcome_Mat2
+    3300558: Welcome_Mat3
+    4300000: Fast_Food_Floor
+    4300002: Fast_Food_Door
+    4300004: Handle
+    4300006: Boxes
+    4300008: Box2
+    4300010: Box1
+    4300012: Fast_Food_Wall
+    4300014: Food_Poster1
+    4300016: Food_Poster
+    4300018: Smoke_Alarm
+    4300020: Flashing_Light
+    4300022: Frames
+    4300024: Frame1
+    4300026: Frame2
+    4300028: Fast_Food_Ceiling
+    4300030: Bin1
+    4300032: Bin_Bottom
+    4300034: Bin_Door
+    4300036: Bin
+    4300038: Bin_Bottom
+    4300040: Bin_Door
+    4300042: Food_Display
+    4300044: Food_Display2
+    4300046: Food_Display1
+    4300048: Counter
+    4300050: Counter_Top
+    4300052: Counter_2
+    4300054: Counter_Top
+    4300056: Counter_Door
+    4300058: Till1
+    4300060: Screen
+    4300062: Credit_Card_Scanner1
+    4300064: Napkin_Dispenser3
+    4300066: Napkin
+    4300068: Till
+    4300070: Screen
+    4300072: Credit_Card_Scanner1
+    4300074: Napkin_Dispenser2
+    4300076: Napkin
+    4300078: Tip_Jar
+    4300080: Money
+    4300082: Coin
+    4300084: Coin1
+    4300086: Coin2
+    4300088: Tip_Jar_Lid
+    4300090: Mat
+    4300092: Takeaway
+    4300094: Till2
+    4300096: Screen
+    4300098: Credit_Card_Scanner1
+    4300100: Welcome_Mat
+    4300102: Mat_Part
+    4300104: Cupboard1
+    4300106: Handle
+    4300108: Handle1
+    4300110: Food_Display_Stand
+    4300112: Burger1
+    4300114: Meat1
+    4300116: Lettuce
+    4300118: Bun2
+    4300120: Burger2
+    4300122: Meat1
+    4300124: Lettuce
+    4300126: Bun2
+    4300128: Burger3
+    4300130: Meat1
+    4300132: Lettuce
+    4300134: Bun2
+    4300136: Chips2
+    4300138: Chips_Food
+    4300140: Chips3
+    4300142: Chips_Food
+    4300144: Chips4
+    4300146: Chips_Food
+    4300148: Display_Stand
+    4300150: Table2
+    4300152: Table_Stand
+    4300154: Chair
+    4300156: Chair_Leg
+    4300158: Ketchup2
+    4300160: Mustard2
+    4300162: Chair4
+    4300164: Chair_Leg
+    4300166: Table1
+    4300168: Table_Stand
+    4300170: Chair
+    4300172: Chair_Leg
+    4300174: Ketchup2
+    4300176: Mustard2
+    4300178: Chair4
+    4300180: Chair_Leg
+    4300182: Deep_Fryer_Machine
+    4300184: Deep_Fryer
+    4300186: Deep_Fryer1
+    4300188: Deep_Fryer2
+    4300190: Oil
+    4300192: Hob1
+    4300194: Chips_Empty
+    4300196: Chips_Empty1
+    4300198: Chips_Empty2
+    4300200: Knob1
+    4300202: Knob
+    4300204: Welcome_Mat2
+    4300206: Mat_Part
+    4300208: Table
+    4300210: Table_Stand
+    4300212: Chair
+    4300214: Chair_Leg
+    4300216: Ketchup2
+    4300218: Mustard2
+    4300220: Chair4
+    4300222: Chair_Leg
+    4300224: Welcome_Mat1
+    4300226: Mat_Part
+    4300228: Tray1
+    4300230: Burger
+    4300232: Meat1
+    4300234: Lettuce
+    4300236: Bun2
+    4300238: Drink
+    4300240: Lid
+    4300242: Straw
+    4300244: Chips
+    4300246: Chips_Food
+    4300248: Cube21
+    4300250: Table_Small
+    4300252: Table_Stand
+    4300254: Chair
+    4300256: Seat
+    4300258: Chair3
+    4300260: Seat
+    4300262: Light2
+    4300264: Light_Bulb
+    4300266: Tray
+    4300268: Burger
+    4300270: Meat1
+    4300272: Lettuce
+    4300274: Bun2
+    4300276: Drink
+    4300278: Lid
+    4300280: Straw
+    4300282: Chips
+    4300284: Chips_Food
+    4300286: Cupboard
+    4300288: Handle
+    4300290: Handle1
+    4300292: Burger_Box
+    4300294: Ketchup3
+    4300296: Mustard3
+    4300298: Cups
+    4300300: Cup1
+    4300302: Cup2
+    4300304: Cup3
+    4300306: Cup4
+    4300308: Jar2
+    4300310: Lid
+    4300312: Ingredient
+    4300314: Jar1
+    4300316: Lid
+    4300318: Ingredient
+    4300320: Jar
+    4300322: Lid
+    4300324: Ingredient
+    4300326: Drink_Machine
+    4300328: Drink_Flavour4
+    4300330: Drink_Flavour3
+    4300332: Drink_Flavour2
+    4300334: Drink_Flavour1
+    4300336: Drink_Flavour
+    4300338: Divider
+    4300340: Fence2
+    4300342: Fence1
+    4300344: Fence
+    4300346: Grill
+    4300348: Hob
+    4300350: Knob2
+    4300352: Knob3
+    4300354: Table_Small2
+    4300356: Table_Stand
+    4300358: Chair
+    4300360: Seat
+    4300362: Chair3
+    4300364: Seat
+    4300366: Table_Small1
+    4300368: Table_Stand
+    4300370: Chair
+    4300372: Seat
+    4300374: Chair3
+    4300376: Seat
+    4300378: Table3
+    4300380: Table_Stand
+    4300382: Chair
+    4300384: Chair_Leg
+    4300386: Ketchup2
+    4300388: Mustard2
+    4300390: Chair4
+    4300392: Chair_Leg
+    4300394: Table4
+    4300396: Table_Stand
+    4300398: Chair
+    4300400: Chair_Leg
+    4300402: Ketchup2
+    4300404: Mustard2
+    4300406: Chair4
+    4300408: Chair_Leg
+    4300410: Table5
+    4300412: Table_Stand
+    4300414: Chair
+    4300416: Chair_Leg
+    4300418: Ketchup2
+    4300420: Mustard2
+    4300422: Chair4
+    4300424: Chair_Leg
+    4300426: Light4
+    4300428: Light_Bulb
+    4300430: Light5
+    4300432: Light_Bulb
+    4300434: Light6
+    4300436: Light_Bulb
+    4300438: Light7
+    4300440: Light_Bulb
+    4300442: Light8
+    4300444: Light_Bulb
+    4300446: Light9
+    4300448: Light_Bulb
+    4300450: Light10
+    4300452: Light_Bulb
+    4300454: Light11
+    4300456: Light_Bulb
+    4300458: Table_Small3
+    4300460: Table_Stand
+    4300462: Chair
+    4300464: Seat
+    4300466: Chair3
+    4300468: Seat
+    4300470: Table_Small4
+    4300472: Table_Stand
+    4300474: Chair
+    4300476: Seat
+    4300478: Chair3
+    4300480: Seat
+    4300482: Table_Small5
+    4300484: Table_Stand
+    4300486: Chair
+    4300488: Seat
+    4300490: Chair3
+    4300492: Seat
+    4300494: Welcome_Mat3
+    4300496: Mat_Part
+    4300498: Cupboard2
+    4300500: Handle
+    4300502: Handle1
+    4300504: Food_Display_Stand
+    4300506: Burger1
+    4300508: Meat1
+    4300510: Lettuce
+    4300512: Bun2
+    4300514: Burger2
+    4300516: Meat1
+    4300518: Lettuce
+    4300520: Bun2
+    4300522: Burger3
+    4300524: Meat1
+    4300526: Lettuce
+    4300528: Bun2
+    4300530: Chips2
+    4300532: Chips_Food
+    4300534: Chips3
+    4300536: Chips_Food
+    4300538: Chips4
+    4300540: Chips_Food
+    4300542: Display_Stand
+    4300544: Grill1
+    4300546: Spatula
+    4300548: Cooked_Burger
+    4300550: Uncooked_Burger
+    4300552: Uncooked_Burger1
+    4300554: Hob
+    4300556: Knob2
+    4300558: Knob3
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: e016b40eb6ac76a48ac9312bec137ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue
+    second: {fileID: 2100000, guid: d9d06f03b66bd454c81f790ff6a565d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown
+    second: {fileID: 2100000, guid: 87fb1d3a064d451428d0400f48638b99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown2
+    second: {fileID: 2100000, guid: 4448f377ecd06e844ac7a312e7baca13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown3
+    second: {fileID: 2100000, guid: d1ead3b63377915499af7b73b1bc3a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clear_Glass
+    second: {fileID: 2100000, guid: 3d4f994946782b84eaaa5feccc820a31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Red
+    second: {fileID: 2100000, guid: 1d9ac90b03e7fb1418186485ea97f904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 56f6506d105f2824da217bedcf509db9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey2
+    second: {fileID: 2100000, guid: f53d5f30481e3e04498254dd625e848c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey3
+    second: {fileID: 2100000, guid: 8061401693c277c44bd4169b3ad86f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: 9a18683aaec4b9a4faeffa23595a6cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink
+    second: {fileID: 2100000, guid: 5482af361bbccde429b132d117093db3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Purple
+    second: {fileID: 2100000, guid: 6b8bcd7e18c652a4f93c7d2d4efc216f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: be08ed524b2291643815283334710d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Chair
+    second: {fileID: 2100000, guid: 67824f19f84ce08499e954735b6454fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Food_Order
+    second: {fileID: 2100000, guid: 5141e310ce9585c4f8d9ca937cd0edd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Red_Wall
+    second: {fileID: 2100000, guid: 0c438003c7e0b31449c17523a11d8e21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Tile_Floor
+    second: {fileID: 2100000, guid: 3aca8870849a42c408535e25facc6d53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 95e66d2991dfe8b49b3edd4bd6bc963f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White2
+    second: {fileID: 2100000, guid: 5850d2d12c24a7243a15571576e46f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow
+    second: {fileID: 2100000, guid: e090771ae4a4ae545bd91e4fbb7c9ece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow2
+    second: {fileID: 2100000, guid: 30e989b318543ff418f1dd96b5be1296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow3
+    second: {fileID: 2100000, guid: ad6a543738064a24594aae4dd94e6a8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 44e70e064b1ab7042a2a2dc93d421b49, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

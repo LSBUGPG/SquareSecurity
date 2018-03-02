@@ -193,7 +193,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arrestReasons:
-  - Stealing a birthday balloon
+  - Stealing a ballon on free balloon day
   - Slapping a 7 year old girl
   - Godawful dancing
   - Breaking a pinkie promise
@@ -236,7 +236,7 @@ MonoBehaviour:
   - Jane Potter
   CriminalDebug: {fileID: 0}
   JailCamera: {fileID: 0}
-  TimeController: {fileID: 0}
+  TimeManager: {fileID: 0}
   AmountOfCriminalsFound: 0
   InfoPanel: {fileID: 0}
   ExitButtons: {fileID: 224322920755182118}
