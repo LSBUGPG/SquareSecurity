@@ -9,7 +9,7 @@ public class BlockPersonGen : MonoBehaviour {
     public string Crime;
 
     [SerializeField]
-    public List<bool> _bigHairList;
+    public List<GameObject> _bigHairList;
 
     [SerializeField]
     public List<GameObject> _hatsList;
@@ -45,18 +45,18 @@ public class BlockPersonGen : MonoBehaviour {
 
     public GameObject _blockPersonGameObject;
 
-    public int theChosenSkin,
-        theChosenHat,
-        theChosenHair,
-        theChosenGlasses,
-        theChosenFacialHair,
-        theChosenAccessory,
-        theChosenShirt,
-        theChosenHatColour,
-        theChosenHairColour,
-        theChosenGlassesColour,
-        theChosenShirtColour,
-        theChosenBodyColour;
+    public Material theChosenSkin;
+    public GameObject theChosenHat;
+    public GameObject theChosenHair;
+    public GameObject theChosenGlasses;
+    public GameObject theChosenFacialHair;
+    public GameObject theChosenAccessory;
+    public GameObject theChosenShirt;
+    public Material theChosenHatColour;
+    public Material theChosenHairColour;
+    public Material theChosenGlassesColour;
+    public Material theChosenShirtColour;
+    public Material theChosenBodyColour;
 
     public bool
         hasHat = false,
@@ -65,7 +65,19 @@ public class BlockPersonGen : MonoBehaviour {
         hasFacialHair = false,
         hasAccessory = false,
         hasShirt = false,
-        bigHair = false;
+        bigHair = false,
+        randomGeneration = true;
+
+    void GetRandomMaterial(ref Material material, List<Material> list)
+    {
+        material = list[Random.Range(0, list.Count)];
+    }
+
+    void GetRandomObject(ref GameObject theObject, List<GameObject> list)
+    {
+        theObject = list[Random.Range(0, list.Count)];
+    }
+
 
     // Use this for initialization
     void Awake() {
@@ -77,69 +89,90 @@ public class BlockPersonGen : MonoBehaviour {
         Transform shirtPos = transform.Find("ShirtPos").transform;
         Transform meshPos = transform.Find("MeshPos").transform;
 
-        theChosenSkin = Random.Range(0, _skinList.Count);
-        theChosenHat = Random.Range(0, _hatsList.Count);
-        theChosenHair = Random.Range(0, _hairList.Count);
-        theChosenGlasses = Random.Range(0, _glassesList.Count);
-        theChosenFacialHair = Random.Range(0, _facialHairList.Count);
-        theChosenAccessory = Random.Range(0, _accessoryList.Count);
-        theChosenShirt = Random.Range(0, _shirtList.Count);
+        if (randomGeneration)
+        {
+            GetRandomMaterial(ref theChosenSkin, _skinList);
+            if (Random.Range(1, 100) > 10)
+            {
+                GetRandomObject(ref theChosenHair, _hairList);
+                bigHair = _bigHairList.Contains(theChosenHair);
+            }
+            if (!bigHair && Random.Range(1, 100) > 10)
+            {
+                GetRandomObject(ref theChosenHat, _hatsList);
+            }
+            if (Random.Range(1, 100) > 10)
+            {
+                GetRandomObject(ref theChosenGlasses, _glassesList);
+            }
+            if (Random.Range(1, 100) > 75)
+            {
+                GetRandomObject(ref theChosenFacialHair, _facialHairList);
+            }
+            if (Random.Range(0, 5) == 0)
+            {
+                GetRandomObject(ref theChosenAccessory, _accessoryList);
+            }
+            if (Random.Range(1, 100) > 10)
+            {
+                GetRandomObject(ref theChosenShirt, _shirtList);
+            }
 
-        theChosenHatColour = Random.Range(0, _hatColourList.Count); //Hat Colour Random
-        theChosenHairColour = Random.Range(0, _hairColourList.Count); //Hair Colour Random
-        theChosenGlassesColour = Random.Range(0, _glassesColourList.Count); //Glasses Colour Random
-        theChosenShirtColour = Random.Range(0, _shirtColourList.Count); //Shirt Colour Random
-        theChosenBodyColour = Random.Range(0, _bodyColourList.Count); //Shirt Colour Random
+            GetRandomMaterial(ref theChosenHatColour, _hatColourList); //Hat Colour Random
+            GetRandomMaterial(ref theChosenHairColour, _hairColourList); //Hair Colour Random
+            GetRandomMaterial(ref theChosenGlassesColour, _glassesColourList); //Glasses Colour Random
+            GetRandomMaterial(ref theChosenShirtColour, _shirtColourList); //Shirt Colour Random
+            GetRandomMaterial(ref theChosenBodyColour, _bodyColourList); //Shirt Colour Random
+        }
+        randomGeneration = false;
 
         // Spawn body
-        var body = Instantiate(_blockPersonGameObject, meshPos.localPosition, new Quaternion(0, 0, 0, 0), meshPos);
+        var body = Instantiate(_blockPersonGameObject, meshPos.localPosition, Quaternion.identity, meshPos);
         //body.transform.GetChild(1).GetComponent<Renderer>().material = _skinList[theChosenSkin];
         // Spawn Accessory pieces
 
-        if (Random.Range(0, 5) == 0) {
-            Instantiate(_accessoryList[theChosenAccessory], accessoryPos.localPosition, new Quaternion(0, 0, 0, 0), accessoryPos);
+        if (theChosenAccessory != null) {
+            Instantiate(theChosenAccessory, accessoryPos.localPosition, Quaternion.identity, accessoryPos);
             hasAccessory = true;
         }
 
         //Hair pieces
-        if (Random.Range(1, 100) > 10) {
-            Instantiate(_hairList[theChosenHair], hairPos.localPosition, new Quaternion(0, 0, 0, 0), hairPos);
+        if (theChosenHair != null) {
+            Instantiate(theChosenHair, hairPos.localPosition, Quaternion.identity, hairPos);
             hasHair = true;
-            bigHair = _bigHairList[theChosenHair];
         }
 
         //Hat pieces
-        if (!bigHair && Random.Range(1, 100) > 10) {
-            var hat = Instantiate(_hatsList[theChosenHat], hatPos.localPosition, new Quaternion(0, 0, 0, 0), hatPos);
-            //hat.transform.GetChild (0).GetComponent<Renderer> ().material = _skinList [theChosenSkin];
+        if (theChosenHat != null) {
+            var hat = Instantiate(theChosenHat, hatPos.localPosition, Quaternion.identity, hatPos);
             hasHat = true;
         }
 
         //Glass pieces
-        if (Random.Range(1, 100) > 10) {
-            Instantiate(_glassesList[theChosenGlasses], glassesPos.localPosition, new Quaternion(0, 0, 0, 0), glassesPos);
+        if (theChosenGlasses != null) {
+            Instantiate(theChosenGlasses, glassesPos.localPosition, Quaternion.identity, glassesPos);
             hasGlasses = true;
         }
 
         //Facial Hair pieces
-        if (Random.Range(1, 100) > 75) {
-            Instantiate(_facialHairList[theChosenFacialHair], facialHairPos.localPosition, new Quaternion(0, 0, 0, 0), facialHairPos);
+        if (theChosenFacialHair != null) {
+            Instantiate(theChosenFacialHair, facialHairPos.localPosition, Quaternion.identity, facialHairPos);
             hasFacialHair = true;
         }
 
         //Shirt pieces
-        if (Random.Range(1, 100) > 10) {
-            Instantiate(_shirtList[theChosenShirt], shirtPos.localPosition, new Quaternion(0, 0, 0, 0), shirtPos);
+        if (theChosenShirt != null) {
+            Instantiate(theChosenShirt, shirtPos.localPosition, Quaternion.identity, shirtPos);
             hasShirt = true;
         }
 
         foreach (var colourScript in GetComponentsInChildren<SetColour>()) {
-            colourScript.ChangeColour("skin", _skinList[theChosenSkin]);
-            colourScript.ChangeColour("hat", _hatColourList[theChosenHatColour]);
-            colourScript.ChangeColour("hair", _hairColourList[theChosenHairColour]);
-            colourScript.ChangeColour("glasses", _glassesColourList[theChosenGlassesColour]);
-            colourScript.ChangeColour("shirt", _shirtColourList[theChosenShirtColour]);
-            colourScript.ChangeColour("body", _bodyColourList[theChosenBodyColour]);
+            colourScript.ChangeColour("skin", theChosenSkin);
+            colourScript.ChangeColour("hat", theChosenHatColour);
+            colourScript.ChangeColour("hair", theChosenHairColour);
+            colourScript.ChangeColour("glasses", theChosenGlassesColour);
+            colourScript.ChangeColour("shirt", theChosenShirtColour);
+            colourScript.ChangeColour("body", theChosenBodyColour);
         }
         transform.position = new Vector3(0, 0, 0);
     }

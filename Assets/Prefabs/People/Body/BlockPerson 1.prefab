@@ -636,7 +636,10 @@ MonoBehaviour:
   SpawnPosition: {fileID: 0}
   BlockPersonName: 
   Crime: 
-  _bigHairList: 01010000010001
+  _bigHairList:
+  - {fileID: 1445591059679348, guid: 06678e56e66fd9c499737590c3fcf2bb, type: 2}
+  - {fileID: 1941878302330472, guid: 7f02f3dadd8f39a49a39dd2dd85aca76, type: 2}
+  - {fileID: 1184794286750398, guid: 7d557f8dd37cbc44caabac839596ada1, type: 2}
   _hatsList:
   - {fileID: 1562250082875846, guid: 352f99a1e5a9d0443a2d69f000a8a6a7, type: 2}
   - {fileID: 1427403268683154, guid: 62325ccdfbd1aec46b308d62362ca6a7, type: 2}
@@ -703,18 +706,18 @@ MonoBehaviour:
   - {fileID: 2100000, guid: b8cd5cdb9d542ac40a3b3efb1f725c8c, type: 2}
   _blockPersonGameObject: {fileID: 1464465653114430, guid: 23a4c1fa11f3371489ea2236c1c4e2a9,
     type: 2}
-  theChosenSkin: 0
-  theChosenHat: 0
-  theChosenHair: 0
-  theChosenGlasses: 0
-  theChosenFacialHair: 0
-  theChosenAccessory: 0
-  theChosenShirt: 0
-  theChosenHatColour: 0
-  theChosenHairColour: 0
-  theChosenGlassesColour: 0
-  theChosenShirtColour: 0
-  theChosenBodyColour: 0
+  theChosenSkin: {fileID: 0}
+  theChosenHat: {fileID: 0}
+  theChosenHair: {fileID: 0}
+  theChosenGlasses: {fileID: 0}
+  theChosenFacialHair: {fileID: 0}
+  theChosenAccessory: {fileID: 0}
+  theChosenShirt: {fileID: 0}
+  theChosenHatColour: {fileID: 0}
+  theChosenHairColour: {fileID: 0}
+  theChosenGlassesColour: {fileID: 0}
+  theChosenShirtColour: {fileID: 0}
+  theChosenBodyColour: {fileID: 0}
   hasHat: 0
   hasHair: 0
   hasGlasses: 0

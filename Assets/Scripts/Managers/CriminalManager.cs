@@ -115,40 +115,40 @@ public class CriminalManager : MonoBehaviour {
         CriminalDebug = randomCriminal.gameObject;
         var blockPerson = randomCriminal.GetComponent<BlockPersonGen>();
 
-        InfoPanel.Find("SkinText").GetComponent<Text>().text = " •  " + blockPerson._skinList[blockPerson.theChosenSkin].name;
+        InfoPanel.Find("SkinText").GetComponent<Text>().text = " •  " + blockPerson.theChosenSkin.name;
 
         if (blockPerson.hasHat) {
-            InfoPanel.Find("HatText").GetComponent<Text>().text = " •  " + blockPerson._hatsList[blockPerson.theChosenHat].name;
+            InfoPanel.Find("HatText").GetComponent<Text>().text = " •  " + blockPerson.theChosenHat.name;
         } else {
             InfoPanel.Find("HatText").GetComponent<Text>().text = " •  None";
         }
 
         if (blockPerson.hasHair) {
-			InfoPanel.Find("HairText").GetComponent<Text>().text = " •  " + blockPerson._hairList[blockPerson.theChosenHair].name;
+			InfoPanel.Find("HairText").GetComponent<Text>().text = " •  " + blockPerson.theChosenHair.name;
         } else {
 			InfoPanel.Find("HairText").GetComponent<Text>().text = " •  None";
         }
 
         if (blockPerson.hasGlasses) {
-			InfoPanel.Find("GlassesText").GetComponent<Text>().text = " •  " + blockPerson._glassesList[blockPerson.theChosenGlasses].name;
+			InfoPanel.Find("GlassesText").GetComponent<Text>().text = " •  " + blockPerson.theChosenGlasses.name;
         } else {
 			InfoPanel.Find("GlassesText").GetComponent<Text>().text = " •  None";
         }
 
         if (blockPerson.hasFacialHair) {
-			InfoPanel.Find("FacialHairText").GetComponent<Text>().text = " •  " + blockPerson._facialHairList[blockPerson.theChosenFacialHair].name;
+			InfoPanel.Find("FacialHairText").GetComponent<Text>().text = " •  " + blockPerson.theChosenFacialHair.name;
         } else {
             InfoPanel.Find("FacialHairText").GetComponent<Text>().text = " •  None";
         }
 
         if (blockPerson.hasAccessory) {
-			InfoPanel.Find("AccessoryText").GetComponent<Text>().text = " •  " + blockPerson._accessoryList[blockPerson.theChosenAccessory].name;
+			InfoPanel.Find("AccessoryText").GetComponent<Text>().text = " •  " + blockPerson.theChosenAccessory.name;
         } else {
 			InfoPanel.Find("AccessoryText").GetComponent<Text>().text = " •  None";
         }
 
         if (blockPerson.hasShirt) {
-			InfoPanel.Find("ShirtText").GetComponent<Text>().text = " •  " + blockPerson._shirtList[blockPerson.theChosenShirt].name;
+			InfoPanel.Find("ShirtText").GetComponent<Text>().text = " •  " + blockPerson.theChosenShirt.name;
         } else {
 			InfoPanel.Find("ShirtText").GetComponent<Text>().text = " •  None";
         }
