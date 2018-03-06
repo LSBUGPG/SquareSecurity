@@ -20,6 +20,8 @@ public class CriminalManager : MonoBehaviour {
 	public int totalCriminalsLevel;
     public GameObject[] inGameUI;
     private bool newHint;
+	public int currentLevel;
+	public float bonusTime;
 
     public void Start() {
         JailCamera.SetActive(false);
@@ -45,24 +47,23 @@ public class CriminalManager : MonoBehaviour {
             LevelCompleteSound.Play(); //Audio - Name of Audio source.
 			if (levelTime >= 300f) {
 				print (levelTime);
-				GameObject.Find("LifeManager").GetComponent<LifeController>().TimeBonus();
+			GameObject.Find("LifeManager").GetComponent<LifeController>().TimeBonus();
 			}
             TimeManager.GetComponent<SlowMo>().enabled = false;
             TimeManager.GetComponent<PauseScript>().enabled = false;
             TimeManager.GetComponent<Timer>().enabled = false;
 
-            if (SaveGame.data.level == 0) {
-                SaveGame.data.level += 1;
-                SaveGame.data.Save();
-            }
+			SaveGame.data.level = currentLevel; //This sets the level progression to the current level
+			SaveGame.data.Save (); //This saves the level progression
 
             InfoPanel.gameObject.SetActive(false);
             ExitButtons.gameObject.SetActive(true);
 			//Bonus star
 
-//			GameObject.Find ("TimeManager").GetComponent<MinTimer> ().currentTime;
+//			gameObject.GetComponent<MinTimer>().currentTime == bonusTime;
+			//GameObject.Find ("TimeManager").GetComponent<MinTimer> ().currentTime;
 //			currentTime == bonusTime
-//			if (currentTime >= 300) {
+//			if (bonusTime > 300f) {
 //				GameObject.Find("LifeManager").GetComponent<LifeController>().TimeBonus();
 //			}
 
@@ -198,7 +199,6 @@ public class CriminalManager : MonoBehaviour {
             }
             InfoPanel.Find("ShirtText").GetComponent<Text>().enabled = true;
 		}
-        //HintSound.Play(); //Audio - Name of Audio source.
     }
 
     private static bool RoughlyEqual(float a, float b) {

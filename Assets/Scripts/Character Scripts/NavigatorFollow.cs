@@ -47,6 +47,9 @@ public class NavigatorFollow : MonoBehaviour
 				time -= Time.deltaTime;
 				yield return null;
 			}
+
+            time -= Time.deltaTime;
+            yield return null;
 		}
 
 		NavAgent.areaMask = NavMesh.AllAreas; //Allows people to enter all rooms

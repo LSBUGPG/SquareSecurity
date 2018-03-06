@@ -20,7 +20,7 @@ public class MissingObject : MonoBehaviour
 			Camera C = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Camera>();
 			Ray ray = C.ViewportPointToRay(new Vector3(0.5F, 0.5F, 0));
 			RaycastHit hit;
-            print("Lost Item?");
+            //print("Lost Item?");
             if (Physics.Raycast(ray, out hit))
 			{
 				if (hit.collider.gameObject == gameObject) {
